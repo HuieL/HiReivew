@@ -1,0 +1,322 @@
+2401.05459, Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security
+2310.15654, A Survey on Detection of LLMs-Generated Content
+2402.06196, Large Language Models: A Survey
+2403.08319, Knowledge Conflicts for LLMs: A Survey
+2403.15412, Towards Measuring and Modeling "Culture" in LLMs: A Survey
+2307.03109, A Survey on Evaluation of Large Language Models
+2309.01029, Explainability for Large Language Models: A Survey
+2212.10403, Towards Reasoning in Large Language Models: A Survey
+2312.10997, Retrieval-Augmented Generation for Large Language Models: A Survey
+2307.06435, A Comprehensive Overview of Large Language Models
+2311.03731, A Survey of Large Language Models Attribution
+2403.09606, Large Language Models and Causal Inference in Collaboration: A Comprehensive Survey
+2311.05232, A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions
+2309.01219, Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models
+2401.01313, A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models
+2312.03863, Efficient Large Language Models: A Survey
+2404.04925, Multilingual Large Language Model: A Survey of Resources, Taxonomy and Frontiers
+2312.17617, Large Language Models for Generative Information Extraction: A Survey
+2307.02046, Recommender Systems in the Era of Large Language Models (LLMs)
+2308.05374, Trustworthy LLMs: a Survey and Guideline for Evaluating Large Language Models' Alignment
+2305.18703, Domain Specialization as the Key to Make Large Language Models Disruptive: A Comprehensive Survey
+2307.03393, Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs
+1901.00596, A Comprehensive Survey on Graph Neural Networks
+2209.13232, A Survey on Graph Neural Networks and Graph Transformers in Computer Vision: A Task-Oriented Perspective
+1812.08434, Graph Neural Networks: A Review of Methods and Applications
+2308.10620, Large Language Models for Software Engineering: A Systematic Literature Review
+2310.19736, Evaluating Large Language Models: A Comprehensive Survey
+2308.11432, A Survey on Large Language Model based Autonomous Agents
+2404.16038, A Survey on Generative AI and LLM for Video Generation, Understanding, and Streaming
+2401.08092, A Survey of Resource-efficient LLM and Multimodal Foundation Models
+2311.12320, A Survey on Multimodal Large Language Models for Autonomous Driving
+2405.19334, LLMs Meet Multimodal Generation and Editing: A Survey
+2406.00936, A Survey of Useful LLM Evaluation
+2108.11510, Deep Reinforcement Learning in Computer Vision: A Comprehensive Survey
+2209.15179, Physical Adversarial Attack meets Computer Vision: A Decade Survey
+1912.00535, Deep Learning for Visual Tracking: A Comprehensive Survey
+2210.00379, NeRF: Neural Radiance Field in 3D Vision, A Comprehensive Review
+2409.03752, Attention Heads of Large Language Models: A Survey
+2409.03715, Applications and Advances of Artificial Intelligence in Music Generation:A Review
+2409.02977, Large Language Model-Based Agents for Software Engineering: A Survey
+2409.02795, Towards a Unified View of Preference Learning for Large Language Models: A Survey
+2409.02413, Abstractive Text Summarization: State of the Art, Challenges, and Improvements
+2409.01207, Towards General Industrial Intelligence: A Survey on IIoT-Enhanced Continual Large Models
+2409.00089, Watermarking Techniques for Large Language Models: A Survey
+2408.16498, A Survey on Evaluating Large Language Models in Code Generation Tasks
+2408.15769, A Survey on Evaluation of Multimodal Large Language Models
+2408.14520, Towards Graph Prompt Learning: A Survey and Beyond
+2408.14340, Foundation Models for Music: A Survey
+2408.12599, Controllable Text Generation for Large Language Models: A Survey
+2408.06361, Large Language Model Agent in Financial Trading: A Survey
+2408.05212, Preserving Privacy in Large Language Models: A Survey on Current Threats and Solutions
+2408.05109, A Survey of NL2SQL with Large Language Models: Where are we, and where are we going?
+2408.02085, Unleashing the Power of Data Tsunami: A Comprehensive Survey on Data Assessment and Selection for Instruction Tuning of Language Models
+2407.20018, Efficient Training of Large Language Models on Distributed Infrastructures: A Survey
+2407.18921, Mobile Edge Intelligence for Large Language Models: A Contemporary Survey
+2407.18369, AI Safety in Generative AI Large Language Models: A Survey
+2407.15186, A Survey on Employing Large Language Models for Text-to-SQL Tasks
+2407.15017, Knowledge Mechanisms in Large Language Models: A Survey and Perspective
+2407.13193, Retrieval-Augmented Generation for Natural Language Processing: A Survey
+2407.11511, Reasoning with Large Language Models, a Survey
+2407.11484, The Oscars of AI Theater: A Survey on Role-Playing with Language Models
+2407.11046, A Survey on LoRA of Large Language Models
+2407.07403, A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends
+2407.06204, A Survey on Mixture of Experts
+2407.04295, Jailbreak Attacks and Defenses Against Large Language Models: A Survey
+2407.01599, JailbreakZoo: Survey, Landscapes, and Horizons in Jailbreaking Large Language and Vision-Language Models
+2407.00936, Large Language Model Enhanced Knowledge Representation Learning: A Survey
+2406.15126, On LLMs-Driven Synthetic Data Generation, Curation, and Evaluation: A Survey
+2406.14644, Unveiling the Spectrum of Data Contamination in Language Models: A Survey from Detection to Remediation
+2406.12844, Synergizing Foundation Models and Federated Learning: A Survey
+2406.11903, A Survey of Large Language Models for Financial Applications: Progress, Prospects and Challenges
+2406.11289, A Systematic Survey of Text Summarization: From Statistical Methods to Large Language Models
+2406.11213, A Survey of AIOps for Failure Management in the Era of Large Language Models
+2406.11191, A Survey on Human Preference Learning for Large Language Models
+2406.08115, Resource Allocation and Workload Scheduling for Large-Scale Distributed Deep Learning: A Survey
+2406.06391, Towards Lifelong Learning of Large Language Models: A Survey
+2406.04086, A Survey of Language-Based Communication in Robotics
+2406.01297, When Can LLMs Actually Correct Their Own Mistakes? A Critical Survey of Self-Correction of LLMs
+2406.00515, A Survey on Large Language Models for Code Generation
+2406.01252, Towards Scalable Automated Alignment of LLMs: A Survey
+2406.01171, Two Tales of Persona in LLMs: A Survey of Role-Playing and Personalization
+2405.18653, Recent Advances of Foundation Language Models-based Continual Learning: A Survey
+2405.16640, A Survey of Multimodal Large Language Model from A Data-centric Perspective
+2405.13025, A survey on fairness of large language models in e-commerce: progress, application, and challenge
+2405.13019, A Comprehensive Survey of Accelerated Generation Techniques in Large Language Models
+2405.12819, Large Language Models Meet NLP: A Survey
+2405.10936, A Survey on Large Language Models with Multilingualism: Recent Advances and New Frontiers
+2405.10739, Efficient Multimodal Large Language Models: A Survey
+2405.10630, Medical Dialogue: A Survey of Categories, Methods, Evaluation and Challenges
+2405.10255, When LLMs step into the 3D World: A Survey and Meta-Analysis of 3D Tasks via Multi-modal Large Language Models
+2405.08011, A Survey of Large Language Models for Graphs
+2405.06211, A Survey on RAG Meeting LLMs: Towards Retrieval-Augmented Large Language Models
+2405.02358, A Survey of Time Series Foundation Models: Generalizing Time Series Representation with Large Language Model
+2405.01769, A Survey on Large Language Models for Critical Societal Domains: Finance, Healthcare, and Law
+2404.19543, RAG and RAU: A Survey on Retrieval-Augmented Language Model in Natural Language Processing
+2404.18930, Hallucination of Multimodal Large Language Models: A Survey
+2404.18231, From Persona to Personalization: A Survey on Role-Playing Language Agents
+2404.16789, Continual Learning of Large Language Models: A Comprehensive Survey
+2404.14387, A Survey on Self-Evolution of Large Language Models
+2404.14294, A Survey on Efficient Inference for Large Language Models
+2404.13501, A Survey on the Memory Mechanism of Large Language Model based Agents
+2404.09228, A Survey on Integration of Large Language Models with Intelligent Robots
+2404.07214, Exploring the Frontier of Vision-Language Models: A Survey of Current Methodologies and Future Directions
+2404.06114, Communication-Efficient Large-Scale Distributed Deep Learning: A Comprehensive Survey
+2404.02817, A Survey of Optimization-based Task and Motion Planning: From Classical To Learning Approaches
+2404.02062, Digital Forgetting in Large Language Models: A Survey of Unlearning Methods
+2404.02039, A Survey on Large Language Model-Based Game Agents
+2404.01869, Beyond Accuracy: Evaluating the Reasoning Behavior of Large Language Models -- A Survey
+2404.01349, Fairness in Large Language Models: A Taxonomic Survey
+2404.01230, LLM as a Mastermind: A Survey of Strategic Reasoning with Large Language Models
+2404.00929, A Survey on Multilingual Large Language Models: Corpora, Alignment, and Bias
+2403.18105, Large Language Models for Education: A Survey and Outlook
+2403.04105, Natural Language Processing in Patents: A Survey
+2403.01152, A Survey of AI-generated Text Forensic Systems: Detection, Attribution, and Characterization
+2402.18041, Datasets for Large Language Models: A Comprehensive Survey
+2402.17944, Large Language Models(LLMs) on Tabular Data: Prediction, Generation, and Understanding -- A Survey
+2402.14558, LLMs with Industrial Lens: Deciphering the Challenges and Prospects -- A Survey
+2402.13116, A Survey on Knowledge Distillation of Large Language Models
+2402.11291, Puzzle Solving using Reasoning of Large Language Models: A Survey
+2402.09283, Attacks, Defenses and Evaluations for LLM Conversation Safety: A Survey
+2402.07927, A Systematic Survey of Prompt Engineering in Large Language Models: Techniques and Applications
+2402.05964, A Survey on Transformer Compression
+2402.05391, Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey
+2402.05123, A Survey on Data Selection for LLM Instruction Tuning
+2402.05121, Large Language Model for Table Processing: A Survey
+2402.03408, A Survey on Effective Invocation Methods of Massive LLM Services
+2402.02244, Beyond the Limits: A Survey of Techniques to Extend the Context Length in Large Language Models
+2402.01439, From Words to Molecules: A Survey of Large Language Models in Chemistry
+2402.01364, Continual Learning for Large Language Models: A Survey
+2402.01105, A Survey for Foundation Models in Autonomous Driving
+2402.00253, A Survey on Hallucination in Large Vision-Language Models
+2402.00045, Detecting Multimedia Generated by Large AI Models: A Survey
+2401.15422, A Survey on Data Augmentation in Large Model Era
+2401.14656, Scientific Large Language Models: A Survey on Biological & Chemical Domains
+2401.11839, AI for social science and social science of AI: A Survey
+2401.07851, Unlocking Efficiency in Large Language Model Inference: A Comprehensive Survey of Speculative Decoding
+2401.07872, The What, Why, and How of Context Length Extension Techniques in Large Language Models -- A Detailed Survey
+2401.00812, If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code Empowers Large Language Models to Serve as Intelligent Agents
+2401.00625, Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models
+2312.17432, Video Understanding with Large Language Models: A Survey
+2312.16602, Visual Instruction Tuning towards General-Purpose Multimodal Model: A Survey
+2312.15234, Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems
+2312.15223, A Survey on Large Language Models for Software Engineering
+2312.10163, Towards the Unification of Generative and Discriminative Visual Foundation Model: A Survey
+2312.08782, Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis
+2312.07913, A Survey of Text Watermarking in the Era of Large Language Models
+2312.07622, Mathematical Language Models: A Survey
+2312.02783, Large Language Models on Graphs: A Comprehensive Survey
+2311.14379, Robot Learning in the Era of Foundation Models: A Survey
+2311.12399, A Survey of Graph Meets Large Language Model: Progress and Future Directions
+2311.11796, Beyond Boundaries: A Comprehensive Survey of Transferable Attacks on AI Systems
+2311.09008, End-to-end Task-oriented Dialogue: A Survey of Tasks, Methods, and Future Directions
+2311.08298, A Survey of Confidence Estimation and Calibration in Large Language Models
+2311.07226, Large Language Models for Robotics: A Survey
+2311.07594, How to Bridge the Gap between Modalities: A Comprehensive Survey on Multimodal Large Language Model
+2311.05876, Trends in Integration of Knowledge and Large Language Models: A Survey and Taxonomy of Methods, Benchmarks, and Applications
+2311.01043, LLM4Drive: A Survey of Large Language Models for Autonomous Driving
+2310.18345, A Survey on Semantic Processing Techniques
+2310.16218, Knowledge Editing for Large Language Models: A Survey
+2310.15264, Towards Possibilities & Impossibilities of AI-generated Text Detection: A Survey
+2310.14414, Vision Language Models in Autonomous Driving: A Survey and Outlook
+2310.11829, Towards Graph Foundation Models: A Survey and Beyond
+2310.10196, Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook
+2310.08184, Learn From Model Beyond Fine-Tuning: A Survey
+2310.07521, Survey on Factuality in Large Language Models: Knowledge, Retrieval and Domain-Specificity
+2310.04959, Towards Better Chain-of-Thought Prompting Strategies: A Survey
+2309.15857, A Survey on Image-text Multimodal Models
+2309.15025, Large Language Model Alignment: A Survey
+2309.09727, When Large Language Models Meet Citation: A Survey
+2309.05922, A Survey of Hallucination in Large Foundation Models
+2308.14328, Reinforcement Learning for Generative AI: A Survey
+2307.07221, Software Testing with Large Language Models: Survey, Landscape, and Vision
+2307.03254, Vision Language Transformers: A Survey
+2305.00955, Bridging the Gap: A Survey on Integrating (Human) Feedback for Natural Language Generation
+2304.08763, A Survey for Biomedical Text Summarization: From Pre-trained to Large Language Models
+2302.09051, Complex QA and language models hybrid architectures, Survey
+2302.03735, Pre-train, Prompt and Recommendation: A Comprehensive Survey of Language Modelling Paradigm Adaptations in Recommender Systems
+2301.00234, A Survey on In-context Learning
+2212.10535, A Survey of Deep Learning for Mathematical Reasoning
+2212.08966, Graph Learning and Its Advancements on Large Language Models: A Holistic Survey
+2211.07886, A Survey for Efficient Open Domain Question Answering
+2111.05193, A Survey on Green Deep Learning
+2408.06027, A Comprehensive Survey on EEG-Based Emotion Recognition: A Graph-Based Perspective
+2407.09777, Graph Transformers: A Survey
+2406.14191, Temporal Knowledge Graph Question Answering: A Survey
+2406.00134, Anomaly Detection in Dynamic Graphs: A Comprehensive Survey
+2405.00476, A Comprehensive Survey of Dynamic Graph Neural Networks: Models, Frameworks, Benchmarks, Experiments and Challenges
+2404.09516, State Space Model for New-Generation Network Alternative to Transformers: A Survey
+2403.19852, A Review of Graph Neural Networks in Epidemic Modeling
+2403.16137, A Survey on Self-Supervised Graph Foundation Models: Knowledge-Based Perspective
+2403.07185, Uncertainty in Graph Neural Networks: A Survey
+2403.04468, A Survey of Graph Neural Networks in Real world: Imbalance, Noise, Privacy and OOD Challenges
+2403.00485, A Survey of Geometric Graph Neural Networks: Data Structures, Models and Applications
+2402.16374, Graph Learning under Distribution Shifts: A Comprehensive Survey on Domain Adaptation, Out-of-distribution, and Continual Learning
+2402.11565, Continual Learning on Graphs: Challenges, Solutions, and Opportunities
+2402.11153, Beyond Generalization: A Survey of Out-Of-Distribution Adaptation on Graphs
+2402.05322, Learning on Multimodal Graphs: A Survey
+2402.03358, A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation
+2402.00447, A Survey of Data-Efficient Graph Learning
+2401.02143, Graph Neural Networks for Tabular Data Learning: A Survey with Taxonomy and Directions
+2401.00713, A Survey on Graph Neural Networks in Intelligent Transportation Systems
+2312.10073, Data Scarcity in Recommendation Systems: A Survey
+2311.16534, Graph Prompt Learning: A Comprehensive Survey and Beyond
+2310.04987, Data-centric Graph Learning: A Survey
+2308.13821, A Survey of Imbalanced Learning on Graphs: Problems, Techniques, and Future Directions
+2308.08235, The Expressive Power of Graph Neural Networks: A Survey
+2307.12639, Fake News Detection Through Graph-based Neural Networks: A Survey
+2307.03929, Fairness-Aware Graph Neural Networks: A Survey
+2306.14106, Semi-supervised Object Detection: A Survey on Recent Research and Progress
+2306.14052, A Survey on Graph Neural Network Acceleration: Algorithms, Systems, and Customized Hardware
+2306.02051, A Comprehensive Survey on Relation Extraction: Recent Advances and New Frontiers
+2306.01958, A Survey on Explainability of Graph Neural Networks
+2304.11949, Geometric Relational Embeddings: A Survey
+2304.11534, Graph Neural Networks for Text Classification: A Survey
+2304.05055, A Comprehensive Survey on Deep Graph Representation Learning
+2304.01391, Counterfactual Learning on Graphs: A Survey
+2303.16004, A Survey on Malware Detection with Graph Representation Learning
+2103.03036, A Survey on Graph Structure Learning: Progress and Opportunities
+2408.12957, Image Segmentation in Foundation Model Era: A Survey
+2408.10207, A Comprehensive Survey on Diffusion Models and Their Applications
+2408.00001, Replication in Visual Diffusion Models: A Survey and Outlook
+2407.15861, Adversarial Attacks and Defenses on Text-to-Image Diffusion Models: A Survey
+2407.07111, Diffusion Model-Based Video Editing: A Survey
+2407.00783, Diffusion Models and Representation Learning: A Survey
+2406.14555, A Survey of Multimodal-Guided Image Editing with Text-to-Image Diffusion Models
+2406.10553, A Comprehensive Taxonomy and Analysis of Talking Head Synthesis: Techniques for Portrait Generation, Driving Mechanisms, and Editing
+2406.06965, Evolving from Single-modal to Multi-modal Facial Deepfake Detection: A Survey
+2406.04253, A Survey on 3D Human Avatar Modeling -- From Reconstruction to Generation
+2406.00146, A Survey of Deep Learning Audio Generation Methods
+2405.03150, Video Diffusion Models: A Survey
+2403.04279, Controllable Generation with Text-to-Image Diffusion Models: A Survey
+2402.17525, Diffusion Model-Based Image Editing: A Survey
+2311.01223, Diffusion Models for Reinforcement Learning: A Survey
+2310.10647, A Survey on Video Diffusion Models
+2308.09388, Diffusion Models for Image Restoration and Enhancement -- A Comprehensive Survey
+2306.04139, A Comprehensive Survey on Generative Diffusion Models for Structured Data
+2303.13336, A Survey on Audio Diffusion Models: Text To Speech Synthesis and Enhancement in Generative AI
+2211.07804, Diffusion Models for Medical Image Analysis: A Comprehensive Survey
+2405.01221, A Survey on Semantic Communication Networks: Architecture, Security, and Privacy
+2403.04782, A Survey on Temporal Knowledge Graph: Representation Learning and Applications
+2402.12608, Patient-Centric Knowledge Graphs: A Survey of Current Methods, Challenges, and Applications
+2402.12001, A Survey on Extractive Knowledge Graph Summarization: Applications, Approaches, Evaluation, and Future Directions
+2308.02457, A Survey on Temporal Knowledge Graph Completion: Taxonomy, Progress, and Prospects
+2209.03415, A Survey of Neural Trees
+2204.04008, Taxonomy of Attacks on Open-Source Software Supply Chains
+2409.05383, Deep Learning for Video Anomaly Detection: A Review
+2409.05033, A Survey on Diffusion Models for Recommender Systems
+2409.01980, Large Language Models for Anomaly and Out-of-Distribution Detection: A Survey
+2409.01087, Pre-Trained Language Models for Keyphrase Prediction: A Review
+2408.14622, What Makes a Good Story and How Can We Measure It? A Comprehensive Survey of Story Evaluation
+2408.08315, Segment Anything for Videos: A Systematic Survey
+2408.06687, Masked Image Modeling: A Survey
+2408.04909, Surveying the Landscape of Image Captioning Evaluation: A Comprehensive Taxonomy and Novel Ensemble Method
+2408.04879, On the Element-Wise Representation and Reasoning in Zero-Shot Image Recognition: A Systematic Survey
+2408.03747, Online Model-based Anomaly Detection in Multivariate Time Series: Taxonomy, Survey, Research Challenges and Future Directions
+2408.01934, A Survey and Evaluation of Adversarial Attacks for Object Detection
+2407.20181, Blockchain for Large Language Model Security and Safety: A Holistic Survey
+2407.19784, Survey and Taxonomy: The Role of Data-Centric AI in Transformer-Based Time Series Forecasting
+2407.17877, Advancing 3D Point Cloud Understanding through Deep Transfer Learning: A Comprehensive Survey
+2407.17706, Investigating and Mitigating Barren Plateaus in Variational Quantum Circuits: A Survey
+2407.15909, A Survey of Explainable Artificial Intelligence (XAI) in Financial Time Series Forecasting
+2407.12853, Automated Justification Production for Claim Veracity in Fact Checking: A Survey on Architectures and Approaches
+2407.07816, A Survey on Deep Stereo Matching in the Twenties
+2407.03640, Generative Technology for Human Emotion Recognition: A Scope Review
+2406.17624, Self-assessment, Exhibition, and Recognition: a Review of Personality in Large Language Models
+2406.09559, Decoding the Diversity: A Review of the Indic AI Research Landscape
+2406.06736, Long-Term Fairness Inquiries and Pursuits in Machine Learning: A Survey of Notions, Methods, and Challenges
+2406.06119, A Survey on Incomplete Multi-label Learning: Recent Advances and Future Trends
+2406.02027, Inference Attacks: A Taxonomy, Survey, and Promising Directions
+2405.20431, Exploring the Practicality of Federated Learning: A Survey Towards the Communication Perspective
+2405.18216, A Survey on Modern Code Review: Progresses, Challenges and Opportunities
+2405.17935, Tool Learning with Large Language Models: A Survey
+2405.17495, Vertical Federated Learning for Effectiveness, Security, Applicability: A Survey
+2405.11034, Safety in Graph Machine Learning: Threats and Safeguards
+2405.09592, A Survey of Generative Techniques for Spatial-Temporal Data Mining
+2405.09589, Unveiling Hallucination in Text, Image, Video, and Audio Foundation Models: A Comprehensive Survey
+2405.04404, Vision Mamba: A Comprehensive Survey and Taxonomy
+2405.03110, Vector Quantization for Recommender Systems: A Review and Outlook
+2405.01636, Explainable AI (XAI) in Image Segmentation in Medicine, Industry, and Beyond: A Survey
+2404.18947, Multimodal Fusion on Low-quality Data: A Comprehensive Survey
+2404.19456, A Survey of Imitation Learning Methods, Environments and Metrics
+2404.15676, Beyond Chain-of-Thought: A Survey of Chain-of-X Paradigms for LLMs
+2404.15192, Measuring Diversity of Game Scenarios
+2404.14942, Manipulating Recommender Systems: A Survey of Poisoning Attacks and Countermeasures
+2404.13830, A Comprehensive Survey and Taxonomy on Point Cloud Registration Based on Deep Learning
+2404.12666, A Survey on Federated Analytics: Taxonomy, Enabling Techniques, Applications and Open Issues
+2404.08668, A Comprehensive Survey on AI-based Methods for Patents
+2404.00629, Against The Achilles' Heel: A Survey on Red Teaming for Generative Models
+2403.19882, Enhancing Efficiency in Vision Transformer Networks: Design Techniques and Insights
+2403.17333, The Pursuit of Fairness in Artificial Intelligence Models: A Survey
+2403.14566, A survey on Concept-based Approaches For Model Improvement
+2403.14415, Random Graph Modeling: A survey of the concepts
+2403.12431, Geometric Constraints in Deep Learning Frameworks: A Survey
+2403.11821, A Survey on Quality Metrics for Text-to-Image Models
+2403.10415, Gradient based Feature Attribution in Explainable AI: A Technical Review
+2403.08824, Measuring Non-Typical Emotions for Mental Health: A Survey of Computational Approaches
+2403.07469, A Comprehensive Survey of 3D Dense Captioning: Localizing and Describing Objects in 3D Scenes
+2403.06456, A Survey of Learned Indexes for the Multi-dimensional Space
+2403.00861, Pivoting Retail Supply Chain with Deep Generative Techniques: Taxonomy, Survey and Insights
+2402.15231, Which Model to Transfer? A Survey on Transferability Estimation
+2402.12715, Spurious Correlations in Machine Learning: A Survey
+2402.11143, Foundation Models for Recommender Systems: A Survey and New Perspectives
+2402.10505, A Survey of Resilient Coordination for Cyber-Physical Systems Against Malicious Attacks
+2402.05355, A Survey on Safe Multi-Modal Learning System
+2402.04059, Deep Learning for Multivariate Time Series Imputation: A Survey
+2402.03612, Privacy risk in GeoData: A survey
+2402.03093, AI-Enhanced Virtual Reality in Medicine: A Comprehensive Survey
+2402.03082, Visual Text Meets Low-level Vision: A Comprehensive Survey on Visual Text Processing
+2402.03017, Toward Green and Human-Like Artificial Intelligence: A Complete Survey on Contemporary Few-Shot Learning Approaches
+2402.00904, Graph Domain Adaptation: Challenges, Progress and Prospects
+2402.00759, Building Expressive and Tractable Probabilistic Generative Models: A Review
+2401.15296, A Survey on 3D Skeleton Based Person Re-Identification: Approaches, Designs, Challenges, and Future Directions
+2401.14718, A Survey on Video Prediction: From Deterministic to Generative Approaches
+2401.13601, MM-LLMs: Recent Advances in MultiModal Large Language Models
+2401.11734, Colorectal Polyp Segmentation in the Deep Learning Era: A Comprehensive Survey
+2401.11441, On-Device Recommender Systems: A Comprehensive Survey
+2401.07518, Survey of Natural Language Processing for Education: Taxonomy, Systematic Review, and Future Trends
+2401.06542, Robustness-Aware 3D Object Detection in Autonomous Driving: A Review and Outlook
+2401.05446, Self-supervised Learning for Electroencephalogram: A Systematic Survey
+2401.05146, Federated Unlearning: A Survey on Methods, Design Guidelines, and Evaluation Metrics
+2401.04472, A Survey on Efficient Federated Learning Methods for Foundation Model Training
+2401.03717, Universal Time-Series Representation Learning: A Survey
