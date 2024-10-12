@@ -1,0 +1,43 @@
+Deep Visual Cross-Domain Few-Shot Learning (DVCFSL)
+├── Background
+│   ├── Related Works
+│   │   ├── Imbalance Learning
+│   │   ├── Transfer Learning
+│   │   ├── Few-Shot Learning
+│   │   └── Cross-Domain Few-Shot Learning
+│   └── Contributions of the Paper
+├── Definitions and Problems
+│   ├── Definitions
+│   │   ├── Few-Shot Learning (FSL)
+│   │   ├── Cross-Domain Few-Shot Learning (CDFSL)
+│   │   └── Deep Visual Cross-Domain Few-Shot Learning (DVCFSL)
+│   └── Problem Formulation
+├── General Framework
+│   ├── Meta-Training 
+│   ├── Meta-Test
+│   └── Framework Design
+│       ├── Feature Learning
+│       ├── Fine-Grained Alignment
+│       ├──── Instance-Level Alignment
+│       ├──── Class-Level Alignment
+│       └── Model-Level Alignment
+├── Comprehensive Experiment
+│   ├── Dataset
+│   ├── Evaluation Metrics
+│   ├── Implementation Details
+│   ├── Experiment Results
+│   │   ├── Performance Comparison
+│   │   ├── Ablation Study
+│   │   └── Visualization Study
+│   └── Explanation of Experiment Results
+├── Discussions
+│   ├── Key Factors of DVCFSL
+│   ├── Potential Application Scenarios
+│   └── Relationship with Other Learning Paradigms
+└── Prospects and Challenges
+    ├── Dataset Development
+    ├── Knowledge Transfer Mechanisms
+    ├── Resource Constraints
+    ├── Security and Privacy
+    ├── Benchmark System
+    └── Theoretical Analysis

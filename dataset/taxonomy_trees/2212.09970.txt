@@ -1,0 +1,26 @@
+Data Augmentation on Graphs: A Technical Survey
+├── Preliminary of GNNs
+│   ├── GNN Models
+│   └── Data Augmentation
+├── Data Augmentation Techniques
+│   ├── Node-level Augmentation Techniques
+│   │   ├── Feature Transformation
+│   │   ├── Node Dropping
+│   │   ├── Node Adding
+│   │   └── Node Swapping
+│   ├── Edge-level Augmentation Techniques
+│   │   ├── Edge Adding
+│   │   ├── Edge Removing
+│   │   ├── Edge Rewiring
+│   │   └── Edge Attribute Perturbation
+│   └── Graph-level Augmentation Techniques
+│       ├── Subgraph Sampling
+│       ├── Graph Splitting
+│       ├── Graph Merging
+│       ├── Graph Rewiring
+│       └── Graph Geometric Transformations
+├── Experimental Evaluation
+│   ├── Datasets
+│   ├── Evaluation Metrics
+│   └── Experimental Results
+└── Conclusion & Future Work

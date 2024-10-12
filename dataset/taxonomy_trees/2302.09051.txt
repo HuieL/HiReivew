@@ -1,0 +1,42 @@
+Complex QA and Language Models Hybrid Architectures
+├── Language Models for Complex QA
+│   ├── Transformer-Based Language Models
+│   │   ├── GPT & GPT-2
+│   │   ├── GPT-3 & BERT
+│   │   ├── T5 & Bart 
+│   │   └── RoBERTa & ALBERT
+│   ├── Training Language Models on QA Datasets
+│   │   ├── SQuAD
+│   │   ├── RACE
+│   │   └── HotPotQA
+│   └── Language Models Evaluation Metrics
+│       ├── BLEU
+│       ├── Rouge-L
+│       └── F1 Score
+├── Complex QA Models
+│   ├── Reasoning Network-Based Models
+│   │   ├── CoQA
+│   │   └── QuAC
+│   ├── Graph-Based Models
+│   │   ├── GNN-QA
+│   │   ├── GraphRetriever
+│   │   └── FusionNet
+│   └── Machine Reading Comprehension Models
+│       ├── QANet
+│       └── BERTserini
+├── Hybrid Architectures 
+│   ├── Transformer-Based Models with External Knowledge
+│   │   ├── KEPLER
+│   │   └── KG-BERT
+│   ├── Dual Encoder Architectures
+│   │   ├── REALM
+│   │   └── RAG
+│   └── Multi-Step Reasoning Models
+│       └── Retrieve and Read
+├── Evaluation of Hybrid Architectures
+│   ├── Precision@K
+│   ├── Mean Reciprocal Rank (MRR)
+│   └── Hits@K
+└── Conclusion
+    ├── Challenges & Solutions
+    └── Future Directions

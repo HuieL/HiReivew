@@ -1,0 +1,52 @@
+Graph Neural Networks in Recommender Systems (GNN-RS)
+├── Preliminaries
+│   ├── Recommender Systems
+│   │   ├── Collaborative Filtering (CF)
+│   │   │   ├── Memory-based CF
+│   │   │   └── Model-based CF
+│   │   └── Social Recommender Systems
+│   │       ├── Trust-based Recommender Systems
+│   │       └── Social Regularizer-based Systems
+│   ├── Graph Neural Networks
+│   │   ├── Graph Convolutional Networks (GCN)
+│   │   ├── Graph Attention Networks (GAT)
+│   │   ├── Graph Simplex Networks (GSN)
+│   │   ├── GraphSage
+│   │   ├── GraphIST
+│   │   └── GraphCT
+├── Survey of GNN based RS Models
+│   ├── Models Leveraging User-Item Interaction Graphs
+│   │   ├── NGCF
+│   │   ├── LightGCN
+│   │   ├── MultiGCN
+│   │   ├── SR-GNN
+│   │   ├── HAN
+│   │   ├── MT-GAT
+│   │   ├── CGIN
+│   │   └── MHGNN
+│   ├── Models Leveraging User-User Social Graphs
+│   │   ├── SocialGCN
+│   │   ├── SocialGAT
+│   │   ├── TrustMTA
+│   │   └── GraphRec
+│   ├── Multi-Graph Models
+│   │   ├── NSCR
+│   │   ├── MultiGNN
+│   │   ├── GraphMix
+│   │   └── GCF
+│   └── Temporal-Graph Models
+│       ├── TGAT
+│       ├── TKGNN
+│       ├── SASRec
+│       └── BERT4Rec
+├── Performance Improvement Methods
+│   ├── User Preference Modeling and Extraction
+│   ├── Implicit and Explicit Feedback Utilization
+│   ├── Side Information Utilization
+│   ├── Temporal Dynamics Modeling
+│   └── Training Strategy Optimization
+└── Open Issues
+    ├── Cold Start Problem
+    ├── Explainability
+    ├── Sparsity and Scalability
+    └── Privacy and Security.

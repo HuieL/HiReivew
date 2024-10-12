@@ -1,0 +1,32 @@
+Open-world Story Generation with Structured Knowledge Enhancement
+├── Story Generation Methods
+│   ├── Rule-based story generation
+│   ├── Statistical machine learning methods
+│   └── Deep learning methods
+│       ├── Sequence-to-sequence models
+│       ├── Generative Adversarial Networks (GANs)
+│       ├── Variational Autoencoders (VAEs)
+│       └── Transformer-based models
+├── Knowledge Representation for Story Generation 
+│   ├── Word vector space model
+│   ├── Graph-based model
+│   ├── Knowledge base
+│   └── Symbol-based model
+├── Knowledge Enhancement for Story Generation 
+│   ├── Knowledge retrieval
+│   ├── Knowledge integration
+│   └── Knowledge-guided generation
+├── Open-world Story Generation Research Trends
+│   ├── Procedural content generation
+│   ├── Autonomous Characters
+│   └── Narrative event chains
+├── Discussion and Opportunities 
+│   ├── Knowledge graph completion for story generation 
+│   ├── Personalized recommendation for story generation 
+│   ├── Fairness and transparency in story generation 
+│   └── Multi-modal story generation 
+└── Open-world Story Generation Applications
+    ├── Game development
+    ├── Interactive storytelling
+    ├── Screenwriting 
+    └── Education

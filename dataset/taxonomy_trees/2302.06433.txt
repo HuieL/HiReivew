@@ -1,0 +1,33 @@
+Label-efficient Time Series Representation Learning: A Review
+├── Preliminaries
+│   ├── Definition of Time Series
+│   ├── Time Series Representation Learning
+│   ├── Label-Efficient Learning
+├── Label-Efficient Learning in Time Series
+│   ├── Problem Setting
+│   ├── Collective View
+├── Learning Paradigms
+│   ├── Directly Supervised Learning
+│   │   ├── Annotation-Efficient
+│   │   └── Sample-Efficient
+│   ├── Weakly Supervised Learning
+│   │   ├── Multiple Instance Learning
+│   │   └── Positive-Unlabeled Learning
+│   ├── Semi-Supervised Learning
+│   │   ├── Consistency Regularization
+│   │   └── Self-Training
+│   ├── Self-Supervised Learning
+│   │   ├── Contrastive Learning
+│   │   ├── Predictive Learning
+│   │   └── Noise Modeling
+│   └── Unsupervised Learning
+│       └── Clustering-Based Methods
+├── Perspectives
+│   ├── Learning Methods
+│   ├── Evaluation Metrics
+│   └── Datasets
+├── Future Directions 
+│   ├── Leveraging Spatio-Temporal Correlations
+│   ├── Design of Noise Models
+│   └── Label-Efficient Learning in Real-World Applications
+└── Conclusion

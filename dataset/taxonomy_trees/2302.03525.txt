@@ -1,0 +1,36 @@
+Multi-Task Deep Recommender Systems: A Survey
+├── Basic Concepts
+│   ├── Recommendation System
+│   ├── Traditional Recommendation Techniques
+│   │   ├── Content-Based
+│   │   ├── Collaborative Filtering
+│   │   └── Hybrid Recommender Systems
+│   ├── Deep Learning based Recommendation Techniques
+│   └── Multi-task Learning-Based Recommendation
+├── Review of Multi-Task Learning-Based Recommender Systems
+│   ├── Learning Task Relationships
+│   │   ├── Sharing-Based Approaches
+│   │   ├── Transfer-Based Approaches
+│   │   └── Hybrid-Based Approaches
+│   ├── Model Architecture Design
+│   │   ├── Feature-Based Models
+│   │   ├── Representation-Based Models
+│   │   └── Hybrid Models
+│   └── Learning Strategies
+│       ├── Hard Parameter Sharing
+│       ├── Soft Parameter Sharing
+│       ├── Cross-stitch Networks
+│       ├── Task-Dependent Sharing
+│       └── External Knowledge Guidance
+├── Trends and Challenges
+│   ├── Trends
+│   │   ├── Developing More Practical Multi-task Recommendation Models
+│   │   ├── Leveraging New Data Types and Structures
+│   │   ├── Integrating Advances in Multi-Task Learning
+│   │   ├── Enhancing the Robustness of Multi-Task Recommender Systems
+│   │   └── Evaluating with More Comprehensive Experiments
+│   └── Challenges
+│       ├── Task Correlation Analysis
+│       ├── Scalability to Large Scale Systems
+│       └── Transparent and Explainable Models
+└── Conclusion

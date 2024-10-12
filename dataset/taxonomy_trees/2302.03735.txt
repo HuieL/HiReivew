@@ -1,0 +1,36 @@
+Pre-train, Prompt and Recommendation
+├── Foundations
+│   ├── Pre-training Techniques
+│   ├── Prompt-based Techniques
+│   ├── Transformer Models
+│   └── Hybrid Models
+├── Languages & Systems Paradigms
+│   ├── Pre-train Paradigm
+│   │   ├── Multimodal Pre-training 
+│   │   ├── Cross-domain Pre-training
+│   │   └── Self-supervised Pre-training
+│   ├── Prompt Paradigm
+│   │   ├── Prompt Tuning
+│   │   └── Prompt Learning
+│   └── Hybrid Paradigm
+├── Key Components
+│   ├── Context Modelling
+│   │   ├── Sequence Modelling
+│   │   ├── Graph Modelling
+│   │   └── Hierarchical Modelling
+│   ├── User Modelling
+│   │   ├── User Personal Preference  
+│   │   ├── User Historical Behaviour  
+│   │   └── User-Item Interaction
+│   └── Item Modelling
+│       ├── Multi-Attribute Item  
+│       ├── Knowledge Graph-based
+│       └── Description-based 
+├── Advanced Issues
+│   ├── Cold-start problem
+│   ├── User privacy issue
+│   └── Diverse recommendation
+└── Evaluation Metrics
+    ├── Ranking-based Metrics
+    ├── Top-k Metrics
+    └── Novelty Metrics

@@ -1,0 +1,37 @@
+Secure Computation Using Trusted Execution Environments (TEEs)
+├── Overview
+│   ├── Definition and Importance of Secure Computation
+│   └── Role of TEEs in Secure Computation
+├── Background
+│   ├── Secure Computation without TEEs
+│   ├── Introduction to TEEs
+│   ├── Capabilities of TEEs
+│   └── Challenges with TEEs
+├── TEE-Based Secure Computation Approaches
+│   ├── Software-Based TEEs
+│       ├── Intel SGX
+│       ├── ARM TrustZone
+│   └── Hardware-Based TEEs
+│       ├── FPGA solutions
+│       ├── TPM solutions
+├── Applications
+│   ├── Blockchain
+│   ├── Cloud Computing
+│   ├── Internet of Things
+│   ├── Mobile Computing
+├── Implementation Considerations
+│   ├── Development frameworks
+│   ├── Testing and Validation
+│   └── Performance evaluation metrics
+├── Threats and Countermeasures
+│   ├── Software attacks - Side-Channel Attacks, Resource-Based Attacks
+│   ├── Hardware attacks - Physical Attacks, Fault Attacks
+│   └── Countermeasures
+├── Future Directions
+│   ├── Addressing Scaling, Resource Availability and Management Issues
+│   ├── Enhancing Interoperability 
+│   ├── Advancing Algorithmic Transparency and Auditability 
+│   └── Moving Beyond the "One Size Fits All" Approach
+└── Conclusion
+    ├── Recap of the Secure Computation Landscape
+    └── Importance of Future Research Directions

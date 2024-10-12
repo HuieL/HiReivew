@@ -1,0 +1,42 @@
+Adversarial Machine Learning
+├── Adversarial Lifecycle
+│   ├── Attack Strategy Design
+│   │   ├── Gradient-Based Attacks
+│   │   ├── Score-Based Attacks
+│   │   └── Decision-Based Attacks
+│   ├── Attack Deployment
+│   │   ├── Evasion Attack
+│   │   │   ├── Gradient-Based
+│   │   │   ├── Score-Based
+│   │   │   └── Decision-Based
+│   │   ├── Poisoning Attack
+│   │   │   ├── Gradient-Based
+│   │   │   ├── Score-Based
+│   │   │   └── Decision-Based
+│   │   └── Backdoor Attack
+│   │       ├── Embedding triggers
+│   │       └── Realistic Triggers
+│   └── Defense Measures
+│       ├── Defense against Evasion Attacks
+│       │   ├── Adversarial Training
+│       │   ├── Robust Optimization
+│       │   └── Gradient Obfuscation
+│       ├── Defense against Poisoning Attacks
+│       │   ├── Game Theoretic
+│       │   ├── Robust Optimization
+│       │   └── Data Sanitization
+│       └── Defense Against Backdoor Attacks
+│           ├── Anomaly Detection
+│           └── Clean Label Guarantees
+├── Evaluation Metrics of Attacks and Defences
+│   ├── For Evasion Attacks
+│   ├── For Poisoning Attacks
+│   └── For Backdoor Attacks
+├── Open Challenges
+│   ├── Metrics to Evaluate Robustness 
+│   ├── Unifying Diverse Attack Paradigms
+│   └── Attacking and Defending Emerging ML Techniques
+└── Future Directions
+    ├── Explainability of Defenses
+    ├── Better Defense Strategy
+    └── Consequence of Adversarial Attacks beyond Misclassification

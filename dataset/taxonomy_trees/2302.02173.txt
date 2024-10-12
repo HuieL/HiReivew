@@ -1,0 +1,38 @@
+Deep Learning based Time Series Analysis with Frequency Transformation
+├── Definitions and Concept
+│   ├── Time Series
+│   ├── Frequency Domain
+│   ├── Deep Learning
+│   └── Time-Frequency Transformation
+├── Time-frequency Transformation Algorithms
+│   ├── Fourier Transform
+│   ├── Short-time Fourier Transform
+│   ├── Wavelet Transform
+│   └── Hilbert-Huang Transform
+├── Deep Learning Models used in Frequency Domain
+│   ├── Convolutional Neural Networks (CNN)
+│   ├── Recurrent Neural Networks (RNN)
+│   ├── Long Short-Term Memory (LSTM)
+│   ├── Gated Recurrent Unit (GRU)
+│   ├── Temporal Convolutional Networks (TCN)
+│   └── Transformer Networks
+├── Applications
+│   ├── Financial Time Series Analysis
+│   ├── Medical Time Series Analysis
+│   ├── Traffic Flow Prediction
+│   ├── Sensor Network Data Analysis
+│   └── Human Activity Recognition
+├── Challenges and Future Directions
+│   ├── High Dimensionality
+│   ├── Missing Data Handling
+│   ├── Noise Reduction
+│   ├── Scalability
+│   ├── Interpretability
+│   └── Real-time processing and analysis.
+└── Case Studies and Experiments
+    ├── Use case: Human Activity Recognition
+    ├── Use case: Medical Data Analysis
+    ├── Use case: Financial Data Analysis
+    └── Use case: Sensor Network Data Analysis
+   
+Note: This taxonomy tree was constructed based on the paper's layout and topics discussed.

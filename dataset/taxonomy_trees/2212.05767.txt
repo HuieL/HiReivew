@@ -1,0 +1,44 @@
+Knowledge Graph Reasoning on Graph Types: Static, Dynamic, and Multimodal
+├── Knowledge Graphs
+│   ├── Static KGs
+│   │   ├── Graph Neural Networks
+│   │   │   ├── Graph Convolution Networks (GCNs)
+│   │   │   ├── Graph Attention Networks (GATs)
+│   │   │   ├── GraphSAGE
+│   │   │   ├── ChebNet
+│   │   │   └── Graph Isomorphism Network (GIN)
+│   │   └── Logic-based Reasoning
+│   │       ├── TransE
+│   │       ├── RotatE
+│   │       ├── ConE
+│   │       └── QuatE
+│   ├── Dynamic KGs
+│   │   ├── Temporal KG reasoning models
+│   │   │   ├── TA-TransE
+│   │   │   ├── DE-RNN
+│   │   │   ├── TNT-KG
+│   │   │   └── HyTE
+│   │   └── Incremental KG reasoning models
+│   │       ├── ReinforceWalk
+│   │       └── Recurrent Event Network (REN)
+│   └── Multimodal KGs
+│       ├── Textual KG reasoning models
+│       │   ├── Associative Embedding
+│       │   ├── GCN-Align+BERT
+│       │   ├── Jointly-Matching
+│       │   └── KG-BERT
+│       ├── Visual KG reasoning models
+│       │   ├── VR-GCN
+│       │   ├── ViZKG
+│       │   └── VTransE
+│       └── Audio KG reasoning models
+└── Applications and Challenges
+    ├── Knowledge Graph Completion
+    ├── Link Prediction
+    ├── Entity Alignment
+    ├── Knowledge Graph Embedding
+    └── Potential challenges
+        ├── Scalability issues
+        ├── Dependency On High-Quality Datasets
+        ├── Model Interpretability
+        └── Handling of Uncertainty

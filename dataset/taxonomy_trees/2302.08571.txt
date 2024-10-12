@@ -1,0 +1,41 @@
+Edge Machine Learning
+├── Requirements of Edge ML
+│   ├── Real-time Processing
+│   ├── Privacy Preservation
+│   ├── Context Awareness
+│   └── Energy Efficiency
+├── Paradigms of Edge ML
+│   ├── Centralized Learning
+│   ├── Federated Learning
+│   ├── Distributed Learning
+│   ├── Collaborative Learning
+│   └── Incremental Learning
+├── Techniques of Edge ML
+│   ├── Techniques for Model Training
+│   │   ├── Gradient Descent for Centralized Learning
+│   │   ├── Federated Averaging for Federated Learning
+│   │   ├── Diffusion Learning for Collaborative Learning
+│   │   └── Synaptic Intelligence for Incremental Learning
+│   ├── Techniques for Model Inference
+│   │   ├── Cloud-Based Inference
+│   │   ├── On-Device Inference
+│   │   ├── Cache-Friendly Inference
+│   │   └── Pipe-lined Inference
+│   └── Techniques for Model Update
+│       ├── Synchronous Update
+│       ├── Asynchronous Update
+│       ├── Large-scale Update
+│       └── Sparsity Update
+├── Application Domains of Edge ML
+│   ├── Health Care
+│   ├── IoT
+│   ├── Autonomous Driving
+│   ├── Smart Grids
+│   └── Smart Cities
+└── Challenges and Future Directions
+    ├── Model and Algorithm Design
+    ├── Optimization Framework
+    ├── Fairness and Bias
+    ├── Security and Privacy
+    ├── Robustness and Uncertainty Quantification
+    └── Benchmarks and Evaluation Metrics

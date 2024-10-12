@@ -1,0 +1,46 @@
+Evolution of MAC Protocols in the Machine Learning Decade
+├── Role of Machine Learning (ML) in MAC Protocols
+│   ├── Different Paradigms in Machine Learning
+│   │   ├── Supervised Learning
+│   │   ├── Unsupervised Learning
+│   │   ├── Semi-Supervised Learning
+│   │   ├── Reinforcement Learning
+│   │   └── Transfer Learning
+│   └── Application of Machine Learning in MAC Protocols
+│       ├── Detection
+│       ├── Estimation
+│       └── Adaptation
+├── Evolution of MAC Protocols in the CR era
+│   ├── MAC Design Objectives
+│   │   ├── Improve Spectrum Efficiency
+│   │   ├── Minimize Collision
+│   │   ├── Reduce Latency
+│   │   └── Enhance Network Coverage
+│   ├── MAC for Single Channel CR Networks
+│   │   ├── Fixed Assignment Strategies
+│   │   ├── Demand Assignment Strategies
+│   │   └── Random Assignment Strategies
+│   ├── MAC for Multi-Channel CR Networks
+│   │   ├── Single Transceiver Multi-Channel MAC
+│   │   └──  Multi-Transceiver Multi-Channel MAC
+│   └── Cognitive MAC for Various CR Networks
+│       ├── CR Ad-Hoc Networks
+│       ├── CR Mesh Networks
+│       ├── CR Vehicular Networks
+│       ├── CR Sensor Networks
+│       └── CR Femtocell Networks
+├── Machine Learning based MAC Protocols
+│   ├── Supervised Learning for MAC
+│   ├── Unsupervised Learning for MAC
+│   ├── Reinforcement Learning for MAC
+│   └── Deep Learning for MAC
+├── Emerging Trends in ML-based MAC Protocols
+│   ├── MAC for IoT with ML
+│   ├── MAC for URLLC with ML
+│   └── MAC for mMTC with ML
+└── Research Challenges and Future Directions
+    ├── Challenge of Information Exchange
+    ├── Challenge of Exploration and Exploitation
+    ├── Challenge of Multi-Agent Learning
+    ├── Challenge of Complex and Dynamic Environments
+    └── Challenge of Privacy and Security

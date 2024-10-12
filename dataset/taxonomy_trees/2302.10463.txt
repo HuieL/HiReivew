@@ -1,0 +1,37 @@
+Multimodal Trajectory Prediction: A Survey
+├── Prediction Targets
+│   ├── Future Trajectories
+│   ├── Future Actions
+│   └── Future Scenes
+├── Architectures for Trajectory Prediction
+│   ├── Traditional Models
+│   │   ├── Physical Models 
+│   │   ├── Independent Models 
+│   │   └── Joint Models 
+│   └── Learning-based Models
+│       ├── Encoder-Decoder Structures 
+│       ├── Generative Adversarial Networks (GANs)
+│       ├── Social-LSTM/GRU 
+│       ├── Graph Neural Networks (GNNs)
+│       └── Transformer 
+├── Features for Trajectory Prediction
+│   ├── Static Features
+│   │   ├── Map Information 
+│   │   └── Infrastructure 
+│   └── Dynamic Features
+│       ├── Pedestrian Appearance 
+│       └── Trajectories 
+├── Evaluation Metrics for Trajectory Prediction
+│   ├── Pixel Level Metrics
+│   ├── Probability Level Metrics 
+│   └── Human-centric Evaluation
+├── Methods to Model The Interaction
+│   ├── Social-aware Model
+│   ├── Environment-aware Models
+│   ├── Learning from Expert Demonstrations
+│   └── Autonomous Vehicle Trajectory Prediction
+└── Discussion of Open Problems and Future Directions
+    ├── Uncertainty Modeling 
+    ├── Causal Inference
+    ├── Safety and Robustness
+    └── Dataset Diversity and Benchmarking

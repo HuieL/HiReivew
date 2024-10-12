@@ -1,0 +1,41 @@
+Knowledge Extrapolation for Knowledge Graphs
+├── Problem Formulation
+│   ├── Link Prediction
+│   └── Entity Prediction
+├── Common Misconceptions
+│   ├── Distinction between Closed-world Assumption and Open-world Assumption
+│   ├── Distinction between Induction and Transduction
+│   └── Distinction between Transductive and Inductive Generalization
+├── Preliminaries
+│   ├── Features
+│   ├── Sequence
+│   ├── Graph
+│   └── Hypergraph
+├── Techniques
+│   ├── Attribute-Agnostic
+│   │   ├── Representation Learning-based
+│   │   │   └── Geometry-based
+│   │   └── Rule-based
+│   ├── Attribute-Aware
+│   │   ├── Representation Learning-based
+│   │   │   └── Geometry-based
+│   │   └── Rule-based
+│   └── Hybrid
+├── Evaluation Metrics
+│   ├── Metrics for Link Prediction and Entity Prediction
+│   ├── Metrics Specific to Entity Prediction
+│   └── Independent Metrics 
+├── Evaluation Protocol
+│   ├── Train-Validation-Test Split
+│   ├── Negative Sampling
+│   └── Evaluation Order
+├── Open Challenges
+│   ├── Reasoning
+│   ├── Fairness
+│   ├── Efficiency
+│   └── Interpretability
+└── Future Directions
+    ├── Identifying Unseen Elements
+    ├── Generating Attributes for Unseen Elements
+    ├── Time-Awareness
+    └── Higher-Order Structures

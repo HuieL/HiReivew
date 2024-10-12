@@ -1,0 +1,47 @@
+Neurosymbolic AI for Reasoning over Knowledge Graphs: A Survey
+├── Concepts and Definitions
+│   ├── Knowledge Graphs (KGs)
+│   │   ├── Schema-based KGs
+│   │   └── Schema-less KGs
+│   ├── Reasoning Over KGs
+│   ├── Symbolic Approaches
+│   │   ├── Logic-based Systems
+│   │   └── Path Ranking Algorithms
+│   └── Neuro-symbolic Approaches
+│       ├── Direct Encoding Methods
+│       └── Indirect Encoding Methods
+├── Methods for Neurosymbolic Reasoning
+│   ├── Direct Encoding Methods
+│   │   ├── Symbolic Injection
+│   │   ├── Symbolic Mirror
+│   │   ├── Direct Graph Transformers
+│   │   └── Memory Networks
+│   └── Indirect Encoding Methods
+│       ├── Offset-based Models
+│       ├── Knowledge Graph Embeddings
+│       └── Relational Learning
+├── Training Neurosymbolic Models
+│   ├── Supervised Training
+│   ├── Semi-supervised Training
+│   │   ├── Pre-training Tasks
+│   │   ├── Self-supervised Training
+│   │   └── Pre-training Corpora
+│   ├── Model Fine-tuning
+│   │   ├── Data Augmentation
+│   │   ├── Large Dataset Training
+│   │   └── MultiTask Learning
+│   └── Experimental Settings
+│       ├── KG dataset
+│       ├── Reasoning tasks
+│       └── Evaluation metrics
+├── Applications
+│   ├── Open-domain Question Answering
+│   ├── Semantic Parsing
+│   ├── Named Entity Recognition
+│   ├── Relation Extraction
+│   └── Text Completion
+└── Challenges and Future Work
+    ├── Transferability
+    ├── Scalability
+    ├── Explainability
+    └── Generalization.

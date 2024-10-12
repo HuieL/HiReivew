@@ -1,0 +1,57 @@
+Mix-based Data Augmentation (MDA)
+├── Taxonomy of MDA
+│   ├── Image Augmentation from Single View
+│   │   ├── Channel-wise Mixing
+│   │   │   ├── MixUp
+│   │   │   ├── CutMix
+│   │   │   └── SamplePairing
+│   │   └── Spatial-wise Mixing
+│   │       ├── CutOut
+│   │       ├── GridMask
+│   │       ├── MixMatch
+│   │       └── AugMix
+│   ├── Image Augmentation from Multi-View
+│   │   ├── Mix3D
+│   │   ├── Aug3D
+│   │   └── CutMix3D
+│   └── Other Domain Augmentation Mixings
+│       ├── Audio Mixings
+│       ├── Text Mixings
+│       ├── Graph Mixings
+│       └── Time-series Mixings
+├── Components of MDA
+│   ├── Image Transformation 
+│   ├── Mixing Operators
+│   │   ├── Linear-Mixing
+│   │   ├── Erase-Mixing
+│   │   ├── Mix-Selected
+│   │   └── 3D-Mixing
+│   ├── Mixable Regions
+│   │   ├── Region-Entire
+│   │   ├── Region-Patch
+│   │   ├── Region-Sub-volume
+│   │   └── Region-Local
+│   ├── Selection Strategy
+│   │   ├── Select-Random
+│   │   ├── Select-Similarity
+│   │   └── Select-Partial
+│   ├── Loss Function
+│   │   ├── Loss-CE (Cross-Entropy)
+│   │   ├── Loss-MSE (Mean Squared Error)
+│   │   └── Loss-NLL (Negative Log-Likelihood)
+│   └── Training Stage
+│       ├── Stage-Pretraining
+│       ├── Stage-Finetuning
+│       └── Stage-Both
+├── Applications of MDA
+│   ├── Image Classification
+│   ├── Semantic Segmentation
+│   ├── Object Detection
+│   ├── Instance Segmentation
+│   ├── Depth Estimation
+│   ├── Point Cloud Classification
+│   ├── Audio Classification
+│   └──Text Classification
+└── MDA and Explainability
+    ├── MDA Explainability via Visualizations
+    └── MDA Explainability via Quantitative Metrics

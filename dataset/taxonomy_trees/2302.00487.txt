@@ -1,0 +1,42 @@
+Continual Learning (CL)
+├── Background and Preliminaries
+│   ├── Formulations
+│   │   ├── Task Incremental
+│   │   ├── Class Incremental
+│   │   └── Instance Incremental 
+│   └── Metrics
+├── Challenges in CL
+│   ├── Stability-plasticity Dilemma
+│   ├── Memory Constraints
+│   ├── Forward and Backward Transfer
+│   └── Task Boundary and Task Identity
+├── Continual Learning Methods
+│   ├── Memory-based methods
+│   │   ├── Replay-based Methods
+│   │   └── Generative Model-based Methods
+│   ├── Parameter regularization methods
+│   │   ├── Constraint-based Methods
+│   │   └── Regularization-based Methods
+│   ├── Dynamic architecture methods
+│   │   ├── Dynamic Expandable Network
+│   │   └── Network Pruning
+│   └── Other Methods
+│        ├── Meta Continual Learning
+│        ├── Lifelong Learning with Unsupervised Incremental Learning
+│        ├── Continual Learning with Self-Supervised Learning
+│        └── Non-Deep Continual learning
+├── Continual Learning Scenarios
+│   ├── Online Continual Learning
+│   ├── Continual Few-Shot Learning
+│   ├── Continual Meta-Learning
+│   ├── Continual Reinforcement Learning
+│   └── Continual Learning in Unsupervised and Self-Supervised Learning
+├── Theoretical Understandings of Continual Learning
+├── Applications of Continual Learning
+│   ├── Healthcare
+│   ├── Robotics
+│   ├── Neural Machine Translation
+│   ├── Autonomous Driving
+│   └── Other Applications
+├── Datasets and Benchmarks
+└── Future Directions and Open Challenges

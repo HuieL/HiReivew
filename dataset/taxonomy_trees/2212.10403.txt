@@ -1,0 +1,38 @@
+Reasoning in Large Language Models
+├── Reasoning Capabilities of Language Models
+│   ├── Reading Comprehension
+│   │   ├── Extractive Question Answering
+│   │   ├── Multiple-choice Question Answering
+│   │   └── Generative Question Answering
+│   ├── Natural Language Inference
+│   ├── Common-sense Reasoning
+│   │   ├── Winograd Schema 
+│   │   ├── Pronoun Disambiguation
+│   │   ├── Physical Reasoning 
+│   │   └── Emotional Reasoning 
+│   ├── Mathematical Reasoning
+│   ├── Scientific Reasoning 
+│   └── Logical Reasoning
+├── Methods for Improving Reasoning in Language Models
+│   ├── Pre-training Techniques
+│   │   ├── Curriculum Learning
+│   │   ├── Dynamic Masking
+│   │   ├── Contrastive Learning
+│   │   └── Incorporating External Knowledge 
+│   ├── Fine-tuning Techniques
+│   ├── Auxiliary Tasks
+│   └── Multi-task Learning
+├── Evaluation of Reasoning in Language Models
+│   ├── Direct Assessment
+│   │   ├── Reasoning Datasets
+│   │   ├── Reasoning Challenges
+│   │   └── Reasoning Benchmarks
+│   └── Indirect Assessment
+│       ├── Human Judgement
+│       ├── Factual Accuracy
+│       └── Fairness and Bias
+└── Open Problems and Future Directions
+    ├── Modeling Complex Reasoning
+    ├── Evaluation of Reasoning
+    ├── Robustness of Reasoning
+    └── Ethical Considerations

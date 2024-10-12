@@ -1,0 +1,30 @@
+Semi-Supervised Semantic Segmentation (SSSS)
+├── Semi-Supervised Learning Foundations
+│   ├── Self-training
+│   ├── Multi-view Training
+│   └── Co-training
+├── Dataset and Evaluation Metrics
+│   ├── Commonly Used Datasets
+│   |   ├── PASCAL VOC
+│   |   ├── Cityscapes
+│   |   └── ADE20K
+│   └── Evaluation Metrics
+│       ├── Pixel Accuracy
+│       └── Intersection over Union (IoU)
+├── Deep Learning-based SSSS
+│   ├── Fully Convolutional Networks (FCN) Based Approaches 
+│   ├── GAN Based Approaches
+│   └── DeepLab Based Approaches
+├── Semi-Supervised Learning strategies for SSSS
+│   ├── Self-training with Pseudo Labels
+│   ├── Consistency Regularization 
+│   └── Hybrid Methods
+├── Challenges in SSSS
+│   ├── Scarce Label Problems
+│   ├── Inter-class Inconsistencies
+│   └── Temporal Inconsistencies
+└── Applications of SSSS
+    ├── Autonomous vehicles
+    ├── Image Editing
+    ├── Medical Imaging
+    └── Biometric Recognition Systems

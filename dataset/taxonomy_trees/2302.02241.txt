@@ -1,0 +1,25 @@
+Feature Representation Learning for Click-through Rate Prediction
+├── Feature Representation Learning Methods
+│   ├── Feature Engineering
+│   │   ├── Manual Feature Engineering
+│   │   └── Automated Feature Engineering
+│   ├── Representation Learning from Raw Features
+│   │   ├── Embedding-based Methods
+│   │   ├── Autoencoder-based Methods
+│   │   └── Pre-training based Methods
+│   └── Representation Learning from Interaction Features
+│       ├── Neural Networks based Methods
+│       ├── Factorization Machines based Methods
+│       ├── Attention & Memory based Methods
+│       └── Graph Neural Networks based Methods
+├── Evaluations of Feature Representation Learning for CTR Prediction
+│   ├── Evaluation Metrics
+│   ├── Evaluation Datasets
+│   ├── Evaluation Models
+│   └── Evaluation Observations and Recommendations
+├── Emerging Topics
+│   ├── End-to-end Prediction Models
+│   ├── Interpretable Feature Representations
+│   ├── Reliable & Trustworthy Models
+│   └── Advanced Neural Networks for CTR Prediction
+└── Conclusion and Future Directions.

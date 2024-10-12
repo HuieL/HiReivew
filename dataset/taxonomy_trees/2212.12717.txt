@@ -1,0 +1,45 @@
+Stock Market Prediction via Deep Learning Techniques: A Survey
+├── Stock Market and Trading Strategies
+│   ├── Stock Trading Strategies
+│   ├── Buy-and-hold Strategies
+│   ├── Trend Following Strategies
+│   └── Mean Reversion Strategies
+├── Deep Learning for Stock Market Prediction
+│   ├── Supervised Learning 
+│   ├── Unsupervised Learning
+│   ├── Semi-supervised Learning
+│   └── Reinforcement Learning
+├── Data and Features for Stock Market Prediction
+│   ├── Price-based Indicators
+│   ├── Fundamental Indicators
+│   ├── Calendar-based Indicators
+│   ├── News and Social Media
+│   └── Technical Indicators
+├── Deep Learning Models for Stock Market Prediction
+│   ├── Recurrent Neural Network (RNN)
+│   ├── Long-Short Term Memory (LSTM)
+│   ├── Gated Recurrent Unit (GRU)
+│   ├── Convolutional Neural Networks (CNN)
+│   ├── Auto Encoders
+│   ├── Deep Belief Networks
+│   ├── Variational Autoencoders
+│   ├── Generative Adversarial Networks (GAN)
+│   ├── Bidirectional LSTM
+│   ├── Restricted Boltzmann Machine (RBM)
+│   ├── Stacked Autoencoders
+│   ├── Self Organizing Maps (SOM)
+│   ├── Multi-layer Perceptron (MLP)
+│   ├── Attention Mechanism
+│   ├── Transformer Models
+│   ├── BERT (Bidirectional Encoder Representations from Transformers)
+│   └── Hybrid Models
+├── Performance Evaluation Metrics for Stock Market Prediction
+│   ├── Mean Absolute Error
+│   ├── Root Mean Square Error
+│   ├── Mean Absolute Percentage Error
+│   └── Accuracy
+├── Practical Issues in Stock Market Prediction
+│   ├── Overfitting
+│   ├── High Dimensionality
+│   └── Non-stationarity
+└── Conclusion and Future Direction

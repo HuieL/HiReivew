@@ -1,0 +1,36 @@
+A Survey on Causal Inference for Recommendation
+├── Causal Inference Preliminaries
+│   ├── Counterfactual Framework
+│   ├── Structural Causal Models (SCM)
+│   ├── Potential Outcomes Framework (PO)
+│   └── Do-Calculus
+├── Causal Recommendation Methods
+│   ├── Counterfactual Learning to Rank (CLTR)
+│   │   ├── IPS-based Counterfactual Methods
+│   │   │   ├── Inverse Propensity Score (IPS)
+│   │   │   ├── Self-Normalized Inverse Propensity Score (SNIPS)
+│   │   │   ├── Doubly-Robust (DR)
+│   │   │   ├── Direct-Method (DM)
+│   │   │   └── Doubly-Robust Inverse Propensity Score (DRIPS)
+│   │   └── Matching-based Counterfactual Methods
+│   │       ├── Propensity Score Matching (PSM)
+│   │       └── Nearest Neighbor Matching (NNM)
+│   ├── Causal Matrix Factorization (CMF)
+│   ├── Causal Bayesian Personalized Ranking (CBPR)
+│   └── Causal Collaborative Filtering (CCF)
+├── Evaluation Metrics for Causal Recommendation
+│   ├── Average Treatment Effect (ATE)
+│   ├── Conditional Average Treatment Effect (CATE)
+│   ├── Individual Treatment Effect (ITE)
+│   └── Various Ranking Metrics
+├── Benchmarks and Datasets
+│   ├── Synthetic Datasets
+│   ├── Public Real-world Datasets
+│   └── Private Industrial Datasets
+├── Open Challenges and Opportunities
+│   ├── Unobservability of Counterfactual Outcomes
+│   ├── Lack of Ground Truth
+│   ├── Confounder Bias
+│   ├── Positivity Violation
+│   └── Scalability
+└── Conclusion

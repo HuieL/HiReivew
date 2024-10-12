@@ -1,0 +1,26 @@
+A Survey on In-context Learning
+├── HeADC Learning
+│   ├── HeDAC Learning with Rectified Signals
+│   ├── Coarse-to-fine HeDAC Learning
+│   ├── Meta HeDAC Learning
+│   ├── HeDAC Learning with Custom Context
+│   └── HeDAC Learning with Gaussian Functions
+├── Context Introduction
+│   ├── HeDAC Learning Contextual Learning
+│   ├── Meta-Learning for Contextual Learning
+│   └── Context Models
+├── Future Directions
+│   ├── In-context Learning with External Knowledge
+│   ├── Explainable In-context Learning
+│   ├── In-context learning for Video Understanding
+│   ├── In-context Learning for Multimodal Learning
+│   └── Adversarial Attacks on In-context Learning
+├── Related Work
+│   ├── Contextual Variable Elimination
+│   ├── Scoped Heuristic Search
+│   ├── Reasoning with Bounded Resources
+│   └── Family of Reasoning Algorithms
+└── Methods
+    ├── Attention in HeDAC Learning
+    ├── Context in HeDAC Learning
+    └── HeDAC Learning Signal Framework

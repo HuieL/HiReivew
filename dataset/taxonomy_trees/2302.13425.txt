@@ -1,0 +1,37 @@
+Uncertainty Quantification Methods for Deep Learning
+├── Methodology Taxonomy
+│   ├── Bayesian Neural Networks
+│   │   ├── Variational Bayes-Based Inference for BNNs
+│   │   │   ├── Mean Field Approximation
+│   │   │   ├── Structured Variational Inference
+│   │   │   └── Gaussian Processes Approximation
+│   │   └── Monte Carlo-Based Inference for BNNs
+│   │       ├── Hamiltonian Monte Carlo
+│   │       ├── Stochastic Gradient Hamiltonian Monte Carlo
+│   │       └── No-U-Turn Sampler 
+│   ├── Ensemble Methods
+│   │   ├── Independent Training of Neural Networks
+│   │   ├── Snapshot Ensembling
+│   │   ├── Deep Ensembles
+│   │   └── Distillation of Ensembles
+│   └── Noise Injection Methods
+│       ├── Dropout Methods
+│       │   ├── Standard Dropout
+│       │   └── Variational Dropout
+│       └── Denoising Auto-Encoders
+├── Benchmark Datasets and Evaluation Metrics
+│   ├── Datasets
+│   │   ├── Image Datasets
+│   │   ├── Natural Language Processing Datasets
+│   │   └── Segmentation Datasets
+│   ├── Evaluation Metrics
+│   │   ├── Regression Problems
+│   │   ├── Classification Problems
+│   │   └── Ranking Metrics
+├── Comparative Analysis of UQ Methodologies
+│   ├── Computational Overheads
+│   └── Performance by Evaluation Metrics
+└── Future Directions
+    ├── Real-time Applications
+    ├── Adversarial Attacks
+    └── Transfer Learning Scenarios

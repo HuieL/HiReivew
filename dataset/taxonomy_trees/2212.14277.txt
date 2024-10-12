@@ -1,0 +1,37 @@
+System Log Parsing: A Survey
+├── Log Parsing
+│   ├── Definition and Necessity
+│   ├── Log Parsing Process
+│   │   ├── Preprocessing Phase
+│   │   ├── Parsing Phase
+│   │   └── Postprocessing Phase
+│   ├── Log Parsing Requirements
+│   ├── Log Parsing Metrics
+│   │   ├── Accuracy
+│   │   ├── Efficiency
+│   │   └── Robustness
+│   └── Log Parsing Applications
+├── Log Parsing Approaches
+│   ├── Rule-based Methods
+│   │   ├── Source code-based Methods
+│   │   └── Log content-based Methods
+│   ├── Machine Learning-based Methods
+│   │   ├── Supervised Machine Learning Methods
+│   │   └── Unsupervised Machine Learning Methods
+│   ├── Clustering-based Methods
+│   │   ├── Distance-based Clustering
+│   │   └── Density-based Clustering
+│   └── Hybrid Methods
+├── Open Challenges & Discussion
+│   ├── Scalability
+│   ├── Incremental log Parsing
+│   ├── Domain Adaptation
+│   ├── Label noise
+│   ├── Unsupervised Learning
+│   ├── Evaluation Metrics
+│   ├── Log Data Confidentiality
+│   └── Mismatches between offline evaluation and online deployment
+└── Conclusion and Future Directives
+    ├── Log data explosion
+    ├── Transfer and online learning
+    └── Log data privacy

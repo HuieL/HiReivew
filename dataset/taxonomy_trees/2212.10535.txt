@@ -1,0 +1,45 @@
+Deep Learning for Mathematical Reasoning
+├── Domains
+│   ├── Basic Mathematics
+│   ├── Algebra
+│   ├── Calculus
+│   ├── Geometry
+│   ├── Formal Logic
+│   │   ├── Propositional Logic
+│   │   └── First-order Logic
+│   └── Probabilistic Reasoning
+├── Tasks
+│   ├── Equation Solving
+│   ├── Polynomial Factorization
+│   ├── Proving
+│   ├── Differentiation
+│   ├── Integration
+│   ├── Graph Plotting and Reading
+│   ├── Proposition Proof
+│   └── Bayesian Networks
+├── DL Models
+│   ├── Encoder-decoder with attention
+│   ├── Geometry-aware models
+│   ├── Transformers
+│   ├── GNNs
+│   ├── RL-based models
+│   └── Hybrid models
+├── Learning-based Mathematical Libraries
+│   ├── Ltac bound
+│   ├── MathQA
+│   ├── DeepHOL
+│   ├── ProofWriter
+│   └── ProofFactory
+├── Benchmarks
+│   ├── Computer Algebra Systems
+│   ├── Auto-Diff Systems
+│   ├── Automated Theorem Proving
+│   ├── GEOBIA
+│   ├── GEOSTP
+│   └── IQ Test
+└── Open Challenges and Future Directions
+    ├── Model Interactions with Mathematical Language
+    ├── Predicting Longer Proofs
+    ├── Integration of human-like mathematical reasoning patterns
+    ├── Incorporating external knowledge
+    └── Open-domain mathematical question answering.

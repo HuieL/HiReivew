@@ -1,0 +1,44 @@
+Contrastive Self-supervised Learning in Recommender Systems: A Survey
+├── Preliminaries
+│   ├── Recommender systems
+│   │   ├── Collaborative filtering
+│   │   ├── Content-based methods
+│   │   └── Hybrid methods
+│   ├── Supervised learning
+│   └── Self-supervised learning
+│       ├── Instance recognition
+│       ├── Multi-instance learning
+│       ├── Structured prediction
+│       └── Generative models
+├── Contrastive Self-supervised Learning
+│   ├── Background
+│   ├── Techniques
+│   │   ├── SimCLR
+│   │   ├── MoCo
+│   │   ├── InfoNCE
+│   │   └── Contrastive PN
+│   └── Application in Recommender Systems
+├── Taxonomy of Contrastive Self-supervised Learning for Recommender Systems
+│   ├── Feature Learning
+│   ├── Pre-training
+│   ├── Multi-modality Learning
+│   └── Complex User Item Interaction Modeling
+├── Applications
+│   ├── E-commerce
+│   ├── Music recommendation
+│   ├── Social media recommendation
+│   └── News recommendation
+├── Evaluation of Contrastive Self-supervised Learning 
+│   ├── Accuracy
+│   ├── Coverage
+│   ├── Diversity
+│   └── Novelty
+├── Open Issues and Future Directions
+│   ├── Model Complexity
+│   ├── Multi-modal Contrastive Learning
+│   ├── Temporal Dynamics in User-Item Interaction
+│   └── Contrastive Learning with Multi-Task Learning
+└── Summary and Conclusion
+    ├── Importance of Contrastive Self-supervised Learning in Recommender Systems
+    ├── Main Contributions
+    └── Future Prospects
