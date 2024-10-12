@@ -1,0 +1,28 @@
+Hallucination in Large Foundation Models 
+├── Definitions and Conceptual Framework 
+│   ├── Hallucination 
+│   │   ├── Causes 
+│   │   ├── Accuracy-Fluency Trade-off 
+│   │   └── Context Ignorance
+│   └── Strategies to Avoid Hallucination 
+├── Coping with the Impact of Hallucinations 
+│   ├── Mitigation strategies 
+│   │   ├── Factual Correctness 
+│   │   ├── Factual Grounding 
+│   │   └── Reproducibility
+│   └── Leveraging hallucinations 
+│       ├── Creativity Augmentation 
+│       ├── Data Generation 
+│       └── Specific Task Performance Improvement
+├── Measuring and Evaluating Hallucination 
+│   ├── Hallucination Rate Measurement 
+│   ├── Datasets
+│   └── Evaluation Techniques 
+├── Results and Analysis 
+│   ├── Hallucination Across Different Genres 
+│   ├── Impact of Model Training and Prompts on Hallucination 
+│   └── Relationship Between Model Size and Quantity of Hallucination
+└── Future Directions 
+    ├── Deeper Understanding of Hallucination Sources 
+    ├── Improvement on Measurement and Evaluation Techniques 
+    └── Development and Exploration of Mitigation Strategies

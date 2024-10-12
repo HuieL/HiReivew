@@ -1,0 +1,35 @@
+Reinforcement Learning for Generative AI
+├── Basic Frameworks
+│   ├── Generative Adversarial Networks (GANs)
+│   ├── Variational Autoencoders (VAEs)
+│   └── Autoregressive Models
+├── Reinforcement Learning in GANs
+│   ├── Direct Policy Search
+│   │   ├── Policy Gradient Methods
+│   │   ├── Entropic Regularization
+│   │   └── Proximal Policy Optimization
+│   ├── Value-based Methods
+│   │   ├── Q-learning
+│   │   └── Actor-critic Methods
+│   └── Model-based Reinforcement Learning
+├── Reinforcement Learning in VAEs
+│   ├── Rollout-based Methods
+│   ├── Planning-based Methods
+│   └── Reward Augmented Maximum Likelihood
+├── Reinforcement Learning in Autoregressive Models
+│   ├── Policy Gradient Methods
+│   ├── Value-based Methods
+│   └── Inverse Reinforcement Learning
+├── Assessment and Evaluation
+│   ├── Quantitative Measures
+│   │   ├── Inception Score
+│   │   ├── Frechet Inception Distance
+│   │   └── Precision, Recall and F1 score
+│   ├── Qualitative Assessment
+│   └── User Studies
+└── Application Domains
+    ├── Image Generation
+    ├── Video Generation
+    ├── Text Generation
+    ├── Music Generation
+    └── Drug Discovery and Design

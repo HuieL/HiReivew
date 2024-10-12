@@ -1,0 +1,30 @@
+Distributed Graph Neural Network Training: A Survey
+├── Graph Neural Network (GNN) Background
+│   ├── GNN Operators
+│   └── GNN Training
+├── Distributed GNN Training
+│   ├── Computation Perspective
+│   │   └── Model Parallelism Schemes
+│   │       ├── Layer-wise Model Parallelism
+│   │       ├── Subgraph-wise Model Parallelism
+│   │       └── Hybrid Model Parallelism
+│   ├── Communication Perspective
+│   │   └── Communication Patterns
+│   │       ├── AllReduce
+│   │       ├── AllGather
+│   │       └── Selective Communication
+│   └── Systems Implementing Distributed GNNs Training
+│       ├── System Implementations
+│       └── System Evaluations
+├── Distributed GNN Training for Dynamic Graphs
+│   ├── Dynamic Graphs Background
+│   └── Dynamic Graphs Training
+├── Benchmarks for Distributed GNN Training
+│   ├── GNN Benchmarks
+│   └── Graphs
+├── Open Challenges and Research Directions
+│   ├── Compute Perspective
+│   ├── Communication Perspective
+│   ├── System Perspective 
+│   └── Benchmarks
+└── Conclusion

@@ -1,0 +1,41 @@
+Deep Neural Network Pruning
+├── Pruning Strategies
+│   ├── Structured Pruning
+│   │   ├── Channel Pruning
+│   │   ├── Filter Pruning
+│   │   ├── Layer Pruning
+│   │   └── Block Pruning
+│   └── Unstructured Pruning
+│       ├── Weight Pruning
+│       └── Neuron Pruning
+├── Pruning Criteria
+│   ├── Magnitude-based Pruning
+│   ├── Second-order Derivative-based Pruning
+│   ├── Sparsity Regularization-based Pruning
+│   ├── Learning-based Pruning
+│   ├── Normalization-based Pruning
+│   └── Discrimination-aware Pruning
+├── Pruning Types
+│   ├── One-shot Pruning
+│   ├── Iterative Pruning
+│   │   └── Incremental Pruning
+│   └── Dynamic Pruning
+├── Retraining Strategies after Pruning
+│   ├── Full Retraining
+│   ├── Zero Retraining
+│   ├── Partial Retraining
+│   └── Automatic Retraining
+├── Pruning in Different Neural Network Domains
+│   ├── Pruning in Convolutional Neural Networks (CNNs)
+│   ├── Pruning in Fully Connected Networks (FCNs)
+│   ├── Pruning in Long Short-Term Memory (LSTM)
+│   ├── Pruning in Transformers
+│   └── Pruning in Graph Neural Networks (GNNs)
+├── Hardware-aware Pruning
+└── Evaluation Metrics after Pruning
+    ├── Speedup Ratio
+    ├── Compression Ratio
+    ├── Energy-saving Ratio
+    ├── Inference Latency
+    ├── TOPS (Tera-Operations per Second)
+    └── Performance Preservation after Pruning (Maintain Accuracy).

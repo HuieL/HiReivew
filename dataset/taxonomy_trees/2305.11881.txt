@@ -1,0 +1,35 @@
+Self-Supervised Learning for Point Cloud Data: A Survey
+├── Data Representation for Point Cloud
+│   ├── Voxel-based methods
+│   ├── Spherical-based methods
+│   ├── Multi-view based methods
+│   └── Point-based methods
+├── Pre-training Tasks for Self-supervised Learning
+│   ├── Reconstruction Tasks
+│   │    ├── Auto-encoder based methods
+│   │    └── Generative adversarial network based methods
+│   ├── Prediction Tasks
+│   │    ├── Future prediction methods
+│   │    └── Context prediction methods
+│   ├── Discriminative Tasks
+│   │    ├── Contrastive learning based methods
+│   │    └── Clustering based methods
+│   └── Hybrid Tasks
+│        ├── Cross-modal based methods
+│        └── Multi-task based methods
+├── Evaluation Metrics
+│   ├── Point Cloud based metrics
+│   │    ├── Global measures
+│   │    └── Local measures
+│   └── Application based metrics
+│        ├── Object classification tasks
+│        ├── Part segmentation tasks
+│        └── Object detection tasks
+├── Detailed Analysis and Discussion
+│   ├── Different categories of methods
+│   ├── Different types of datasets
+│   └── Training strategies
+└── Conclusion and Future Directions
+    ├── Computational efficiency
+    ├── Real-world data
+    └── Unseen and irregular data

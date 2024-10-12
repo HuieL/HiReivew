@@ -1,0 +1,37 @@
+Machine Unlearning
+├── Significance of Machine Unlearning
+│   ├── Legal Implications
+│   ├── Operational Efficiency in Data Centers
+│   └── User Privacy Concerns
+├── Challenges in Machine Unlearning
+│   ├── Different Learning Strategies
+│   ├── Data Persistency
+│   ├── System Limitations
+│   └── Cloud-Based Services
+├── Machine Unlearning Approaches
+│   ├── Data Deletion Methods
+│   │   ├── Manual Deletion
+│   │   ├── Systematic Deletion
+│   │   └── Replacement Method
+│   ├── Model Re-Training
+│   └── Model Update Algorithms
+│       ├── Eager Unlearning
+│       ├── Lazy Unlearning
+│       │   ├── Deleting Influential Samples
+│       │   └── Suppressing Influential Samples
+│       └── Learn/Unlearn Compliant Algorithms
+├── Unlearning Evaluation Metrics
+│   │   ├── Time Complexity
+│   │   └── Impact on Model Accuracy
+├── Tools and Techniques for Machine Unlearning
+│   │   ├── Distributed Machine Unlearning Management
+│   │   ├── Efficient Record Keeping
+│   │   └── Using Blockchain for Machine Unlearning
+├── Case Studies in Machine Unlearning
+│   │   ├── Unlearning in Social Networks
+│   │   ├── Unlearning in Health care Data Systems
+│   │   └── Unlearning in Surveillance Systems
+└── Future Directions
+    ├── Enhancement of Existing Approaches
+    ├── Development of New Unlearning Methods
+    └── Real-world Applications

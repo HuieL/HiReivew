@@ -1,0 +1,37 @@
+Vision Language Transformers (VLT)
+├── Background
+│   ├── Visual Transformers
+│   └── Language Transformers
+├── Transformer Models for Vision and Language
+│   ├── Pre-training Models
+│   │   ├── Image-text Match Models
+│   │   │   ├── CLIP
+│   │   │   ├── ALIGN
+│   │   │   └── T2T-ViT
+│   │   └──Cloze Test Models
+│   │      ├── BERT
+│   │      ├── ViLBERT
+│   │      └── Vision-Language BERT
+│   │  
+│   ├── Zero-Shot Models
+│   ├── Finetuned Models
+│   └── Unsupervised Models
+├── Data Augmentation Techniques
+│   └── Contrastive Learning
+├── Tasks Solved by Vision Language Transformers
+│   ├── Text-to-Image Generation
+│   ├── Image Generation from Text Prompts
+│   ├── Visual Question Answering
+│   ├── Image Captioning
+│   ├── Visual Reasoning
+│   └── Cross-modal Retrieval
+├── Training Procedure
+│   ├── Step-by-Step Pre-processing Pipeline
+│   ├── Training Objectives
+│   └── BERT's Bidirectional Encoding
+├── Analysis on Vision Language Transformers
+│   ├── Quantitative Results Analysis
+│   └── Ablation Study Analysis
+└── Future Direction
+    ├── More Robust Models
+    └── Evaluation Metrics

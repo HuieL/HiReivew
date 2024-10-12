@@ -1,0 +1,29 @@
+Software Testing with Large Language Models
+├── LM Testing
+│   ├── LM-based Software Testing
+│   │   ├── Static Testing
+│   │   └── Dynamic Testing
+│   └── LM (Language Models) Testing itself
+├── Opportunities & Challenges 
+│   ├── Augmented Intelligence for Software Testing
+│   ├── Debugging and Bug Localization
+│   ├── Test Generation
+│   ├── Exploratory Testing
+│   ├── Large-Scale Software System Evaluation
+│   ├── Explainability and Trust of LMs
+│   └── Protecting Sensitive Information
+├── Test Generation with LMs
+│   ├── Test Case Generation for Traditional Software
+│   ├── Input Generation for ML Models
+│   ├── Synthetic Dataset Generation
+│   └── Adversarial Example Generation
+├── Coverage-guided Testing for LMs
+│   ├── Quantitative Metrics
+│   ├── Coverage-guided Fuzzing
+│   └── Mutant Analysis
+└── Important Open Problems
+    ├── Scalable Test Generation
+    ├── Explainability and Interpretability
+    ├── Fairness Testing
+    ├── Privacy Testing
+    └── Reinforcement Learning for Software Testing

@@ -1,0 +1,39 @@
+Dataset Distillation: Approaches, Applications and Future Directions
+├── Dataset Distillation Background
+│   ├── Definition and Principles
+│   ├── Early Works
+│   ├── Problem Complexity and Challenges
+├── Approaches to Dataset Distillation
+│   ├── Optimization-Based Dataset Distillation
+│   │   ├── Direct Model Optimization
+│   │   ├── Stochastic Gradient Descent (SGD) Training
+│   │   ├── Over-parameterized Models
+│   │   └── Bilevel Optimization
+│   ├── Data Generation-Based Dataset Distillation
+│   │   ├── Synthetic Data Generation
+│   │   ├── Generative Adversarial Nets (GANs)
+│   │   └── Variational Autoencoder (VAEs)
+│   ├── Knowledge Transfer-Based Dataset Distillation
+│   │   ├── Model Compression
+│   │   ├── Teacher-Student Model
+│   │   ├── N-Shot Learning
+│   │   └── Meta-Learning
+├── Applications of Dataset Distillation
+│   ├── Model Compression
+│   ├── Anomaly Detection
+│   ├── Data Privacy
+│   ├── Secure and Distributed Computing
+│   ├── Domain Adaptation
+│   └── Reinforcement Learning
+├── Evaluation and Metrics
+│   ├── Model Performance
+│   ├── Compression Rate
+│   ├── Dataset Size
+│   └── Training Time
+├── Future Directions
+│   ├── Data Generation Models
+│   ├── Multimodal and Multi-Task Learning
+│   ├── Neural Architecture Search
+│   ├── Learning with Noisy Labels
+│   └── Unsupervised and Semi-Supervised Learning
+└── Conclusion and Discussion.

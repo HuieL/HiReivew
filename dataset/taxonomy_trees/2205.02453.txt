@@ -1,0 +1,36 @@
+Vehicle Routing Problems (VRP)
+├── Formulations and Variants of VRP
+│   ├── Classical VRP
+│   ├── Capacitated VRP (CVRP)
+│   ├── VRP with Time Windows (VRPTW)
+│   ├── VRP with Pickup and Delivery (VRPPD)
+│   ├── Multiple Depot VRP (MDVRP)
+│   └── Split Delivery VRP (SDVRP)
+├── Classical Approaches for Solving VRP
+│   ├── Exact Approaches
+│   │   ├── Dynamic Programming
+│   │   └── Integer Programming
+│   ├── Heuristics
+│   │   ├── Route Construction Heuristics
+│   │   ├── Route Improvement Heuristics
+│   │   └── Meta-heuristics
+│   └── Hybrid Approaches
+├── Machine Learning Approaches for Solving VRP
+│   ├── Supervised Learning Approaches
+│   ├── Reinforcement Learning Approaches
+│   │   ├── Problems Formulated as Markov Decision Process
+│   │   ├── Problems Formulated as Sequential Decision Making
+│   │   └── Problems Formulated as Combinatorial Optimization
+│   └── Hybrid Learning Approaches
+├── Benchmark Datasets for Evaluating VRP Solutions
+│   ├── Classical Datasets
+│   │   ├── Solomon's VRPTW Instances
+│   │   ├── Augerat et al.’s CVRP Instances
+│   │   └── Golden et al.’s MDVRP Instances
+│   └── Modern Datasets
+│       ├── VRP instances from Google OR-Tools
+│       └── VRP instances from Kool, W, et al.
+└── Open Challenges and Future Directions
+    ├── Challenges with Large-scale VRPs
+    ├── Challenges with Real-world Adaptation
+    └── Challenges with Transfer Learning

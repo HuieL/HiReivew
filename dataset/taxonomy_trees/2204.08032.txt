@@ -1,0 +1,44 @@
+Layer-Two Blockchain Protocols
+│   ├── Modern Blockchain Systems
+│   ├── Layer Two (2) Solutions
+│   └── Existing Surveys on Layer-2 Solutions
+├── Background and Motivation 
+│   ├── Requirement and Challenges in Modern Blockchain Systems
+│   |   ├── Scalability
+│   |   ├── Latency
+│   |   ├── Transaction Fee
+│   |   └── Versatility
+│   └── Layer 2 Blockchain Protocols
+├── Classification of Layer-2 Solutions
+│   ├── Channels
+│   |   ├── Payment Channel Networks (PCNs)
+│   |   └── Non-PCNs
+│   ├── Sidechains
+│   |   ├── Two-Way Pegged Sidechains
+│   |   └── Non-Two-Way Pegged Sidechains
+│   ├── Rollups
+│   |   ├── Optimistic vs. Zero-Knowledge Rollups
+│   |   └── Rollups on Ethereum
+│   └── Others
+│       ├── Plasma
+│       ├── Sharding  
+│       └── Commit Chains
+├── Analysis and Comparison of Layer-2 Solutions
+│   ├── Throughput
+│   ├── Confirmation Latency
+│   ├── Requirement of Trust
+│   ├── Interaction Costs
+│   └── Security
+├── Applications 
+│   ├── Decentralized Finance (DeFi)
+│   ├── NFT (Non-fungible token)
+│   ├── Gaming
+│   ├── Enterprises Solutions
+│   └── IoT(Internet of Things)
+└── Conclusion and Future Directions
+    ├── Conclusion
+    └── Future Directions
+        ├── Security
+        ├── Efficiency 
+        ├── Versatility
+        └── Interoperability.

@@ -1,0 +1,37 @@
+Image-text Multimodal Models
+├── Task Classification
+│   ├── Retrieval
+│   │   ├── Text Based Image Retrieval (TBIR)
+│   │   ├── Image Based Text Retrieval (IBTR)
+│   │   └── Crossmodal Retrieval (CR)
+│   ├── Generation
+│   │   ├── Image Captioning (IC)
+│   │   ├── Text to Image Synthesis (TIS)
+│   │   ├── Visual Question Answering (VQA)
+│   │   └── Other Tasks (Text Guided Image Manipulation and etc.)
+│   ├── Matching
+│   │   └── Referring Expression Comprehension (REC)
+│   └── Translation
+│       ├── Image to Text (IT)
+│       └── Text to Image (TI)
+├── Information Fusion
+│   ├── Early Fusion
+│   ├── Late Fusion
+│   └── Hybrid Fusion
+├── Model Classification
+│   ├── Generation Models
+│   │   ├── Conditional Generative Adversarial Network (CGAN)
+│   │   ├── Variational AutoEncoder (VAE)
+│   │   ├── Transformer Based Generators
+│   │   └── Others (GAN-INT and etc.)
+│   ├── Pre-registration Models
+│   │   ├── Vision-Language Pre-training (VLP)
+│   │   └── Language Pre-training (LP)
+│   ├── Metric Learning Models
+│   │   ├── Deep Metric Learning (DML)
+│   │   └── Contrastive Learning (CL)
+│   └── Attention Models (Transformer and etc.)
+└── Evaluation Metrics
+    ├── Image-text Ranking (R@K and etc.)
+    ├── Text Generation (METEOR, ROUGE and etc.)
+    └── Other tasks-dependent metrics (AUC and etc.)

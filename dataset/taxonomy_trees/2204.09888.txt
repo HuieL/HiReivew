@@ -1,0 +1,34 @@
+Fairness in Graph Mining: A Survey
+├── Definition of Fairness
+│   ├── Individual Fairness
+│   └── Group Fairness
+├── Taxonomy of Bias Sources
+│   ├── Structural Bias
+│   │   ├── Node Degree Bias
+│   │   ├── PageRank Bias
+│   │   └── Traversal Bias
+│   └── Attribute Bias
+│       ├── Label Bias
+│       └── Property Bias
+├── Taxonomy of Unfairness Problems
+│   ├── Unfair Representation Learning
+│   │   ├── Node Embedding
+│   │   └── Graph Neural Networks
+│   ├── Unfair Subgraph Mining
+│   │   └── Community Detection
+│   └── Unfair Graph Generative Models
+│       ├── Bayesian Generative Models
+│       └── Generative Adversarial Networks
+├── Fairness-Aware Algorithms
+│   ├── Fair Representation Learning Algorithms
+│   │   ├── Node Embedding
+│   │   └── Graph Neural Networks
+│   ├── Fair Subgraph Mining Algorithms
+│   │   └── Community Detection
+│   └── Fair Graph Generative Algorithms
+│       ├── Bayesian Generative Models
+│       └── Generative Adversarial Networks
+└── Evaluation Metrics
+    ├── Representation Learning
+    ├── Subgraph Mining
+    └── Graph Generative Models.

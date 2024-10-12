@@ -1,0 +1,75 @@
+Deep Clustering
+├── Pre-Deep Learning (Before 2016)
+│   ├── Traditional Machine Learning Techniques
+│   │   ├── K-means Clustering
+│   │   ├── Hierarchical Clustering
+│   │   └── DBSCAN
+│   └── Non-Deep Learning Representation Learning
+│       └── Auto-encoders
+├── Self-Supervised Deep Clustering
+│   ├── Auto-Encoder-Based
+│   │   ├── Deep Embedded Clustering (DEC)
+│   │   ├── IDEC
+│   │   ├── DCEC
+│   │   └── EnsembleDC
+│   ├── Convolutional Auto-Encoder-Based
+│   │   ├── DCCM
+│   │   └── IIC
+│   ├── GAN-Based
+│   │   └── ClusterGAN
+│   └── Other Self-Supervised Methods
+│       ├── DeepCC
+│       ├── ADPC
+│       └── DAC
+├── Supervised Deep Clustering
+│   ├── Pairwise-Constrained Clustering
+│   │   ├── MPCN
+│   │   └── DCCP
+│   ├── Triplet-Constrained Clustering
+│   │   ├── DTC
+│   │   └── DeepInfoMax
+│   └── Large-Margin Clustering
+│       ├── MMC
+│       └── DSC-Net
+├── Hybrid Deep Clustering
+│   ├── Auto-Encoder with Subspace Clustering
+│   │   ├── DSC-Net
+│   │   └── DESM
+│   └── GAN with Subspace Clustering
+│       └── SC-DCGAN
+├── Evaluation Metrics
+│   ├── Normalized Mutual Information (NMI)
+│   ├── Adjusted Rand Index (ARI)
+│   └── Clustering Accuracy (ACC)
+├── Benchmark Datasets
+│   ├── Image Datasets
+│   │   ├── MNIST
+│   │   ├── COIL20
+│   │   ├── COIL100
+│   │   ├── F-MNIST
+│   │   ├── USPS
+│   │   ├── YTF
+│   │   ├── UMIST
+│   │   ├── REUTERS-10K
+│   │   ├── STL-10
+│   │   ├── CIFAR-10
+│   │   └── CIFAR-100
+│   └── Text and Other Datasets
+│       ├── REUTERS-21578
+│       ├── REUTERS-22173
+│       ├── REUTERS-18985
+│       ├── REUTERS-15000
+│       ├── 20NEWS
+│       └── REUTERS-11000
+├── Existing Issues
+│   ├── Model Selection Problem
+│   ├── Occurrence of Trivial Solution
+│   ├── Selection of Suitable Loss
+│   └── Out-of-Distribution Problem
+└── Future Directions
+    ├── Metrics and Semi-Supervised Methods
+    ├── Persistent Homology
+    ├── Dynamic Clustering Algorithms
+    ├── Clustering in Structured Data
+    ├── Large-scale Clustering
+    └── Out-of-Distribution Deep Clustering

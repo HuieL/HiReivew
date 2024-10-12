@@ -1,0 +1,44 @@
+Graph Neural Networks (GNNs)
+├── Types of GNN Models
+│   ├── Graph Convolutional Networks (GCN)
+│   │   ├── Spectral GCNs
+│   │   ├── Geometric-based GCNs
+│   │   └── Graph Attention Networks (GATs)
+│   ├── Graph Recurrent Networks (GRNs)
+│       ├── Graph Recurrent Convolutional Network (GRCN)
+│       └── Graph Convolutional Gated Recurrent Unit (GCGRU)
+│   ├── Graph Auto-Encoders (GAEs)
+│       ├── Variational Graph Auto-Encoders (VGAEs)
+│       └── Supervised Graph Auto-Encoders (SGAEs)
+│   ├── Graph Generative Networks (GGNs)
+│       ├── Molecular Graph Generative Modeling	
+│       └── Graph-based Generative Adversarial Network
+│   └── Graph Spatial-temporal Networks (GSTNs)
+│       ├── Graph Convolutional LSTM
+│       └── Graph Transformer Networks 
+├── Computational Characteristics 
+│   ├── Training Complexity
+│   ├── Space Complexity
+│   └── Depth of Network
+├── Learning Paradigms
+│   ├── Supervised Learning
+│   ├── Unsupervised Learning
+│   └── Semi-supervised Learning
+├── Spatial and Temporal Graph Applications
+│   ├── Traffic/Ride Sharing
+│   ├── Weather/Rainfall Forecasting
+│   └── Air Quality Monitoring
+├── Benchmark Datasets
+│   ├── Node-level Learning
+│   │   ├── Cora
+│   │   ├── Citeseer
+│   │   └── Pubmed
+│   └── Graph-level Learning
+│       ├── QM8-QM9
+│       ├── MNIST
+│       └── CIFAR-10
+└── Challenges and Future Perspectives
+    ├── Mining on Large-scale Graphs
+    ├── Modeling Dynamic Graphs
+    ├── Learning with Less Labels
+    └── Combining Supervised Learning with Reinforcement Learning

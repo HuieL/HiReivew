@@ -1,0 +1,31 @@
+Graph Representation Learning (GRL)
+├── GRL Techniques
+│   ├── Graph Neural Networks (GNNs)
+│   │   ├── Graph Convolutional Networks (GCNs)
+│   │   ├── Graph Attention Networks (GATs)
+│   │   ├── Graph Isomorphism Networks (GINs)
+│   │   ├── GraphSAGE
+│   │   └── ChebyNet
+│   └── Graph Transformers
+│       ├── Graph Transformer Networks (GTNs)
+│       ├── Spatial-temporal Graph Transformer Networks (ST-GTNs)
+│       └── Dynamic Graph Collaborative Networks (DGCNs)
+├── GRL for Vision Tasks
+│   ├── Image-level
+│   │   ├── Image Classification
+│   │   ├── Semantic Segmentation
+│   │   │   ├── GCNs for Pixel-level Labeling
+│   │   │   └── GATs for Boundary-aware Segmentation
+│   │   └── Image Synthesis 
+│   ├── Video-level
+│   │   ├── Action Recognition
+│   │   ├── Video Captioning 
+│   │   └── Video Prediction
+│   └── 3D-level
+│       ├── Point Cloud Processing 
+│       ├── 3D Object Detection 
+│       └── 3D Human Pose Estimation 
+└── Open Challenges
+    ├── Large-scale Graphs Computation
+    ├── Dynamic Graphs
+    └── Explaining GNNs

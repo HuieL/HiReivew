@@ -1,0 +1,28 @@
+A Comprehensive Survey on Generative Diffusion Models for Structured Data
+├── Overview of Generative Diffusion Models
+│   ├── Generative Diffusion Process 
+│   │   ├── Forward Process
+│   │   └── Reverse Process
+│   ├── Training 
+│   └── Sampling
+├── Variants of Generative Diffusion Models
+│   ├── Denoising Diffusion Probabilistic Models
+│   ├── Score-Based Models
+│   └── Hybrid Models
+├── Applications
+│   ├── Image Generation
+│   ├── Text Generation
+│   └── Multi-Modal Generation
+├── Improvements and Extensions
+│   ├── Conditioning and Control
+│   ├── Speeding Up Inference
+│   ├── Training Stability and Efficiency
+│   └── Model Compression and Distillation
+├── Open Challenges and Future Directions
+│   ├── Efficiency of Sampling
+│   ├── Diversity and Quality Balance
+│   ├── Interpretability and Disentanglement
+│   └── A Unified Framework
+└── Conclusion and Summary
+    ├── Recap of Key Concepts
+    └── Final Remarks

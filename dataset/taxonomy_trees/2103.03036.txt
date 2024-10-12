@@ -1,0 +1,53 @@
+Graph Structure Learning (GSL)
+├── Theories of GSL
+│   ├── Graph Neural Networks (GNN) 
+│   ├── Probabilistic Graphical Models (PGMs) 
+│   └── Others 
+├── GSL Approaches
+│   ├── Direct Learning 
+│   │   ├── End-to-End GNN-Based Methods
+│   │   └── Non GNN-Based Methods
+│   ├── Two-Stage Learning 
+│   │   ├── Clustering-Based Methods
+│   │   ├── Triplet Loss-Based Methods
+│   │   └── Sparse Coding Based Methods
+│   └── Indirect Learning 
+│       ├── Transferable Representation Based Methods
+│       ├── Model Agnostic Based Methods
+│       ├── Bayesian Based Methods
+│       └── Message Passing Neural Network Based Method
+├── Prerequisite Knowledge for GSL
+│   ├── Graph Signal Processing (GSP)
+│   ├── Graph Rank Breaking Mechanism
+│   ├── Topological Analysis
+│   │   ├── Spectral Graph Theory
+│   │   ├── Graph Entropy
+│   │   └── Graph Matching
+│   └── Learning Paradigms of GNN
+│       ├── Semi-supervised Learning
+│       ├── Unsupervised Learning
+│       └── Few-shot Learning
+├── Practical Aspects of GSL
+│   ├── Graph Types Dealing with GSL
+│   │   ├── Homogeneous Graphs
+│   │   ├── Heterogeneous Graphs
+│   │   └── Dynamic Graphs
+│   ├── Application Fields of GSL
+│   │   ├── Social Networks
+│   │   ├── Bioinformatics
+│   │   ├── Computer Vision
+│   │   ├── Finance
+│   │   ├── Natural Language Processing
+│   │   ├── Traffic & Logistics
+│   │   └── Recommendation System
+│   └── Evaluation Metrics of GSL
+│       ├── Node/Link Prediction
+│       ├── Graph Classification
+│       ├── Graph Clustering
+│       └── Graph Generation
+└── Future Opportunities of GSL
+    ├── Unified Framework
+    ├── Hybrid Approaches
+    ├── GSL from Non-graphical Data
+    ├── Real-World Application Extension
+    └── Tool and Dataset Development

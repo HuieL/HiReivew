@@ -1,0 +1,51 @@
+Deep Learning for Visual Localization and Mapping: A Survey
+├── Localization and Mapping 
+│   ├── Traditional Localization and Mapping methods
+│   │   ├── Odometry
+│   │   ├── Surveillance
+│   │   ├── Wearable Devices
+│   │   └── Mobile Robotics
+│   ├── Visual Localization and Mapping
+│   └── Outliers handling in visual localization and mapping
+├── Deep Learning in Visual Localization and Mapping
+│   ├── Introduction to Deep Learning
+│   ├── Deep Learning-based Localization
+│   │   ├── Classification-based methods
+│   │   ├── Regression-based methods
+│   │   └── Metric learning-based methods
+│   ├── Deep Learning-based Mapping
+│   │   ├── Unstructured mapping methods
+│   │   ├── Semi-structured mapping methods
+│   │   └── Structured mapping methods
+│   ├── Deep Learning for Visual Odometry
+│   ├── Deep Learning for Simultaneous Localization and Mapping (SLAM)
+│   └── Deep Learning for Visual-Inertial Odometry (VIO)
+├── Deep Learning Architectures in Visual Localization and Mapping
+│   ├── Autoencoders
+│   ├── Deep Belief Networks (DBN)
+│   ├── Multi-Layer Perceptrons (MLP)
+│   ├── Recurrent Neural Networks (RNN)
+│   ├── Convolutional Neural Networks (CNN)
+│   ├── Generative Adversarial Networks (GAN)
+│   ├── Variational Autoencoders (VAE)
+│   ├── Transformer models
+│   └── Hybrid Architectures
+├── Learning Techniques in Visual Localization and Mapping
+│   ├── Supervised Learning
+│   ├── Unsupervised Learning
+│   ├── Reinforcement Learning
+│   ├── Transfer Learning
+│   ├── Few-Shot Learning
+│   └── Lifelong Learning
+├── Challenges and Solutions
+│   ├── Large-scale visual localization
+│   ├── Dynamic environments
+│   ├── Illumination changes
+│   ├── Dense map construction
+│   ├── Handling outliers
+│   └── Computational efficiency
+└── Conclusion and Future directions
+    ├── Tightly-coupled visual-inertial localization and mapping
+    ├── More pervasive usage of deep learning techniques
+    ├── GPU-based implementation for computational efficiency
+    └── Software and hardware co-design for deep learning-based visual localization and mapping

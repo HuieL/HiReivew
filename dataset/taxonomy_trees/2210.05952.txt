@@ -1,0 +1,37 @@
+3D Brain and Heart Volume Generative Models: A Survey
+├── Generative Models
+│   ├── Traditional BGMs
+│   │   └── Applications of BGMs
+│   ├── DNN Based Models
+│   │   ├── Variational Autoencoder (VAE)
+│   │   ├── Generative Adversarial Networks (GAN)
+│   │   ├── Autoencoder (AE)
+│   │   └── Variational Autoencoder-GANs (VAE-GAN)
+│   └── Evaluation Metrics
+│       ├── Quantitative Metrics
+│       └── Qualitative Metrics
+├── Brain Volume Generative Models
+│   ├── BG Model
+│   │   └── Survey of current research on BG Model
+│   ├── DNN Models
+│   │   ├── Variational Autoencoder (VAE)
+│   │   ├── Generative Adversarial Networks (GAN)
+│   │   ├── combinatorial and hybrid models
+│   │   └── Other models
+│   └── Evaluation and Comparison of Brain Volume Generative Models
+├── Heart Volume Generative Models
+│   ├── BG Model
+│   │   └── Survey of current research on BG Model
+│   ├── DNN Models
+│   │   ├── VAE based Models
+│   │   ├── GAN based Models
+│   │   └── Other models
+│   └── Evaluation and Comparison of Heart Volume Generative Models
+├── Characteristics
+│   └── Characteristics of the studied models
+├── Challenges and Future Directions
+│   ├── Challenges
+│   └── Future Directions
+└── Conclusion
+    ├── brief summary of the study
+    └── findings of the study

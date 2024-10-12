@@ -1,0 +1,40 @@
+A Survey on Graph Neural Network Acceleration: Algorithms, Systems, and Customized Hardware
+├── Acceleration of GNNs: Background
+│   ├── Graph Neural Network (GNN) Basics
+│   ├── GNN Operating System Characteristics
+│   └── GNN Acceleration Challenges
+├── Overview of GNN Acceleration
+│   ├── Framework of Algorithmic Optimization
+│   └── System/Architectural Enhancements
+├── Algorithmic Optimization Techniques
+│   ├── Sparsity and Irregularity Mitigation
+│   │   ├── Graph Simplification-based Methods
+│   │   └── Node Sampling-based Methods
+│   ├── Memory Consumption Reduction
+│   │   ├── Model Trimming
+│   │   ├── Reduced Precision Computation
+│   │   └── Graph Data Reuse
+│   └── Computation Optimization
+│       ├── Layer-wise Computation Pipelining
+│       ├── Activation and Aggregation Separation
+│       └── Neighborhood Aware Pooling
+├── System and Architectural Optimization Techniques
+│   ├── CPU-based Systems
+│   │   ├── Thread Allocation and Affinity Set
+│   │   ├── Cache Optimization
+│   │   └── Vectorization
+│   ├── GPU-based Systems
+│   │   ├── Efficient Kernel Design
+│   │   ├── Memory Access Optimization
+│   │   └── Streams and Asynchrony
+│   ├── CPU-GPU Hybrid Systems
+│   ├── Special Hardware Accelerators
+│   │   ├── GraphCore
+│   │   └── Catapult-v5
+│   └── Future GNN-specific Hardware
+├── Evaluation of GNN Acceleration 
+│   ├── Benchmarking Datasets
+│   ├── Algorithms
+│   └── Hardware Platforms
+├── Future Directions
+└── Conclusion

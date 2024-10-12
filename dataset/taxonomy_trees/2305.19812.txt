@@ -1,0 +1,32 @@
+Label-Efficient Deep Learning for 3D Point Clouds
+├── Introduction and Background
+│   ├── 3D Point Clouds
+│   └── Label-Efficiency in Deep Learning
+├── Active Learning (AL)
+│   ├── Pool-Based AL
+│   │   ├── Uncertainty Sampling
+│   │   ├── Query-By-Committee
+│   │   └── Expected Model Change
+│   ├── Stream-Based AL
+│   └── Membership Query Synthesis
+├── Self-Supervised Learning (SSL)
+│   ├── Contrastive learning 
+│   │   ├── Instance Discrimination
+│   │   ├── SimCLR
+│   │   └── MoCo
+│   ├── Exemplar Matching
+│   ├── Cross-Transformation Consistency
+│   └── Generative Modelling
+├── Label Sparsity and Label Noise
+│   ├── Label Sparsity
+│   │   ├── Data Augmentation
+│   │   └── Knowledge Distillation
+│   └── Label Noise
+│       ├── Noise-Robust Losses
+│       └── Noise-Robust Ensembles
+├── Transfer Learning (TL)
+│   ├── Pre-training and Fine-tuning
+│   ├── Domain Adaptation
+│   └── Multi-Task Learning
+│   └── Generative Modelling
+└── Future Perspectives

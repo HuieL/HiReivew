@@ -1,0 +1,32 @@
+Fairness and Bias in Robot Learning
+├── Bias and Fairness in Machine Learning
+│   ├── Defining Fairness
+│   ├── Sources of Unfairness
+│   ├── Measures of Fairness
+│   ├── Approaches to Ethics in ML
+│   │   ├── Processor-based Ethics
+│   │   └── Outcome-based Ethics
+│   └── Mitigating Unfairness
+│       ├── Pre-processing
+│       ├── In-processing
+│       └── Post-processing
+├── The Promise and Perils of Robot Learning
+│   ├── Reinforcement Learning
+│   ├── Supervised Learning
+│   ├── Unsupervised Learning
+│   ├── Transfer Learning
+│   └── Lifelong Learning
+├── The State-of-the-art in Fairness for Robot Learning
+│   ├── Bias Detection
+│   ├── Fairness Enhancing Interventions
+│   ├── Transparency and Explainability
+│   │   ├── Visualization Techniques
+│   │   └── Interpretability Techniques
+│   ├── Laws and Policies
+│   ├── Social Perspectives
+│   └── Hardware Limitations
+├── Challenges and Opportunities
+│   ├── Limited Dataset
+│   ├── Unpredictable Environments
+│   ├── Bias in Human-Robot Interaction
+│   └── Ultimate Fallacies

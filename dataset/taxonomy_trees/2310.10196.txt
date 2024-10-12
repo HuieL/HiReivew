@@ -1,0 +1,41 @@
+Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook
+├── Background and Motivation
+│   ├── Brief history of large models
+│   ├── Limitations of traditional time series and spatio-temporal models
+│   └── Evolution to large models
+├── Frameworks for Large Models
+│   ├── Factorization-based models
+│   ├── State space models
+│   ├── Recursive regression models
+│   └── End-to-End neural network-based models
+├── Neural Network Approaches
+│   ├── Recurrent Neural Network (RNN)
+│   │    ├── Long Short Term Memory (LSTM)
+│   │    └── Gated Recurrent Unit (GRU)
+│   ├── Convolutional Neural Network (CNN)
+│   ├── Auto Encoder and Variational Auto Encoder (VAE)
+│   ├── Transformer
+│   │    ├── Vanilla transformer
+│   │    ├── Temporal Fusion Transformer
+│   │    └── Time Series Transformer
+│   └── Graph Neural Network (GNN)
+├── Large Model Applications
+│   ├── Vanilla Applications
+│   ├── Multivariate Time Series Forecasting
+│   ├── Anomaly Detection
+│   └── Dynamic Time Warping
+├── Issues in Large Model Applications
+│   ├── Scalability issues     
+│   ├── Computational cost 
+│   ├── Data privacy issues 
+│   └── Lack of formal proofs of model stability and theoretical understanding
+├── The Future of Large Models
+│   ├── Improving computational efficiency
+│   ├── Incorporating expert knowledge
+│   ├── Balancing accuracy and interpretability
+│   ├── Addressing privacy and fairness issues
+│   └── Fusion of traditional and large models
+└── Conclusions 
+    ├── Major contributions 
+    ├── Current limitations 
+    └── Future work

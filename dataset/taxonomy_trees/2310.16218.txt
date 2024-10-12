@@ -1,0 +1,44 @@
+Knowledge Editing for Large Language Models: A Survey
+├── Approaches to Direct Update
+│   ├── Unrolling Neural Solvers
+│   │   └── Learning Rate Search
+│   ├── Differentiable Data Structures
+│   │   ├── Neural Turing Machines
+│   │   └── Differentiable Neural Computer
+│   ├── Memory Augmented Neural Networks
+│   ├── Extension to Transformer Models
+│   ├── Transformer Models for Edit Propagation
+│   ├── Neural Cache Model
+│   ├── Meta-Learning
+│   │   └── Model Agnostic Meta-Learning
+│   └── Applications of Direct Update
+├── Approaches to Model Re-training
+│   ├── Continual Learning
+│   │   ├── Elastic Weight Consolidation
+│   │   ├── Importance Weighted Continual Learning
+│   │   └── Parameter Isolation
+│   ├── Prompt-based Learning
+│   │   ├── Template-based Prompts
+│   │   ├── Latent Variable Models for Prompt Learning
+│   │   └── Prompt-based Continual Learning
+│   ├── Rule-based Learning
+│   │   ├── Rule-Informed Fine-Tuning
+│   │   └── Guided Fine-Tuning
+│   ├── Fine-tuning with Synthetic Data
+│   │   ├── Text Infilling
+│   │   └── Denoising Autoencoder
+│   ├── Knowledge Distillation
+│   └── Applications of Model Re-training
+├── Evaluation for Knowledge Editing
+│   ├── Defining Evaluation Metrics
+│   ├── Evaluating Effectiveness of Editing
+│   ├── Evaluating Generalization after Editing
+│   ├── Evaluating Storage Capacity
+│   └── Evaluating Retention Capacity
+├── Discussion
+│   ├── Comparing Direct Updates and Model Re-training
+│   ├── Comparison between Different Kinds of Edits
+│   ├── Adapting More Explanations
+│   │   └── Neuro-Symbolic Models
+│   └── Addressing Data Efficiency and Accuracy Trade-offs 
+└── Conclusion and Future Work

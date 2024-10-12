@@ -1,0 +1,42 @@
+Deep Learning for Visual Speech Analysis: A Survey
+├── Visual Speech Analysis Tasks
+│   ├── Speechreading
+│   ├── Speech Enhancement
+│   └── Speaker Recognition
+├── Datasets
+│   ├── Audio-Visual Speech Corpora
+│   └── Visual-Only Speech Corpora
+├── Learning Models for Visual Speech Analysis
+│   ├── Traditional Neural Networks
+│   │   ├── Autoencoders
+│   │   ├── Convolutional Neural Networks
+│   │   └── Recurrent Neural Networks
+│   ├── Deep Learning-based Models
+│   │   ├── 3D Convolutional Networks
+│   │   ├── Self-Supervised Learning
+│   │   ├── Multi-Task Learning
+│   │   ├── Cross-Modal Learning
+│   │   └── End-to-end Learning
+│   └── Recent Advances
+│       ├── Transformers
+│       ├── Generative Models
+│       ├── Graph Neural Networks
+│       └── Few-Shot Learning
+├── Performance Metrics
+├── Comparative Study of Visual Speech Analysis Methods
+│   ├── Classification-based Speechreading
+│   ├── Regression-based Speechreading
+│   ├── Speech Enhancement
+│   └── Speaker Identification and Verification
+├── Challenges and Future Directions
+│   ├── Challenges
+│   │   ├── Data Scarcity
+│   │   ├── Variability
+│   │   ├── Modelling Complexity
+│   │   └── Performance Evaluation
+│   └── Future Directions
+│       ├── Multimodal Data Fusion
+│       ├── Unsupervised and Semi-Supervised Learning
+│       ├── Deep Learning Architectures
+│       └── Explainability and Interpretability
+└── Conclusion.

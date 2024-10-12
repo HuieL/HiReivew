@@ -1,0 +1,40 @@
+Explainable Graph Neural Networks (GNNs)
+├── Background and Introduction
+│   ├── Scope
+│   ├── Definition of Terms
+│   ├── Purpose
+│   └── Structure of the Paper
+├── Fundamentals of GNNs
+│   ├── Basic Concepts
+│   ├── Categories of GNNs
+│   │   ├── Graph Convolutional Networks (GCNs)
+│   │   ├── Graph Attention Networks (GATs)
+│   │   ├── Graph Isomorphism Networks (GINs)
+│   │   ├── GraphSAGE
+│   │   └── ChebNet
+│   └── Relevant Models
+├── Explainability Techniques in GNNs
+│   ├── Feature Importance Methods
+│   ├── Message Importance Methods
+│   ├── Neuron Importance Methods
+│   ├── Layer Importance Methods
+│   ├── Node Importance Methods
+│   ├── Path Importance Methods
+│   ├── Subgraph Importance Methods
+│   └── Model Agnostic Methods
+├── Applications and Evaluation Metrics
+│   ├── Application Domains
+│   │   ├── Biological Networks
+│   │   ├── Social Networks
+│   │   ├── Recommendation Systems
+│   │   ├── Protein Interaction Networks
+│   │   └── Citation Networks
+│   └── Evaluation Metrics
+│       ├── Fidelity
+│       ├── Robustness
+│       └── Comprehensibility
+└── Future Research Opportunities
+    ├── Attention-aware Explanation
+    ├── Inference Time Model Explanation
+    ├── Unified Framework for Explainable GNNs
+    └── GNN Explanation in Data-hungry Problems

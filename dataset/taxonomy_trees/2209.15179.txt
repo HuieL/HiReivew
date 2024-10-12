@@ -1,0 +1,69 @@
+Physical Adversarial Attack Meets Computer Vision: A Decade Survey
+├── Taxonomy and Overview
+│   ├── Classification of Adversarial Attacks
+│   │   ├── Digital Adversarial Attacks
+│   │   ├── Physical Adversarial Attacks
+│   │   └── Other Ways of Classification
+│   ├── Physical Adversarial Attack Techniques in Literature
+│   ├── Digital Domain Vs Physical Domain
+│   ├── Open Research Problems
+│   └── Application Scenarios
+├── Digital Domain Adversarial Attacks
+│   ├── Traditional Attack Algorithms
+│   │   ├── Gradient-Based Algorithms
+│   │   │   ├── Fast Gradient Sign Method
+│   │   │   ├── Zeroth-order Optimization
+│   │   │   ├── Projected Gradient Descent
+│   │   │   ├── DeepFool
+│   │   │   └── C&W L2 Attack
+│   │   └── Directly Searching for Adversarial Examples
+│   │       ├── HopSkipJump Attack
+│   │       ├── Simba
+│   │       ├── AutoAttack
+│   │       └── TUAA
+│   └── Evolution of Adversarial Attacks in Digital Domain
+├── Physical Domain Adversarial Attacks
+│   ├── Transformation of Digital Adversarial Examples to Physical World
+│   │   ├── Dataset Creation
+│   │   ├── Influence of Transformation
+│   │   ├── 3D Rotation
+│   │   ├── Weather Conditions
+│   │   └── Distance
+│   ├── Generation of Physical Adversarial Attacks
+│   │   ├── Physical Adversarial Stickers
+│   │   ├── Physical Adversarial Patches
+│   │   ├── Adversarial Graffiti
+│   │   ├── Advertisement Boards
+│   │   ├── Glasses Frames
+│   │   └── Clothes and Masks
+│   └── Evaluation of Physical Adversarial Attacks
+│       ├── Black-box Attacks
+│       ├── White-box Attacks
+│       └── Effect of Object Size on Adversarial Attack
+├── Defending Against Physical Adversarial Attacks
+│   ├── Traditional Defense Techniques
+│   │   ├── Adversarial Training
+│   │   ├── Input Preprocessing
+│   │   │   ├── JPEG Compression
+│   │   │   ├── Total Variance Minimization
+│   │   │   ├── Bit-depth Reduction
+│   │   │   ├── Image Cropping/Resizing
+│   │   │   ├── Thermometer Encoding
+│   │   │   └── Feature Squeezing
+│   │   └── Detection Based Defense
+│   ├── Defense Against Physical Attacks
+│   │   ├── Active Methods
+│   │   ├── Passive Methods
+│   │   └── Hybrid Methods
+│   └── Application Scenarios
+├── Research Problems and Challenges
+│   ├── Existing Problems
+│   ├── Future Research Directions
+│   └── Evaluation of Adversarial Attacks and Defenses
+├── Applications and Datasets
+│   ├── Domains of Application
+│   └── Datasets and Tools
+│       ├── Adversarial Datasets
+│       ├── Adversarial Libraries and Benchmarking Tools
+│       └── Defense Libraries and Tools
+└── Conclusion and Future Work

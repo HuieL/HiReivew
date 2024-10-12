@@ -1,0 +1,50 @@
+Fairness-Aware Graph Neural Networks: A Survey
+├── Related Work
+│   ├── Graph Neural Networks
+│   ├── Algorithmic Fairness
+│   └── Fairness-Aware Machine Learning
+├── Taxonomy of Fair-GNNs
+│   ├── Problem Definitions
+│   │   ├── Individual Fairness
+│   │   ├── Group Fairness
+│   │   └── Custom Fairness Definitions
+│   ├── Data Bias Mitigation
+│   │   ├── Pre-Porcessing
+│   │   ├── In-Processing
+│   │   └── Post-Processing
+│   ├── Model Bias Mitigation
+│   │   ├── Initial Configuration
+│   │   ├── Loss Function Regularisation
+│   │   └── Architecture Design
+│   └── Evaluation Metrics
+│       ├── Statistical Parity Difference
+│       ├── Equalized Odds Difference
+│       └── Theil Index
+├── Methodologies of Fair-GNNs 
+│   ├── Pre-Processing Based Methods 
+│   │   ├── Data Reweighting
+│   │   ├── Data Transformation
+│   │   └── Adversarial Perturbation
+│   ├── In-Processing Based Methods 
+│   │   ├── Regularization-Based Methods
+│   │   │   ├── Spectral Regularization
+│   │   │   ├── Statistic Regularization
+│   │   │   └── Adversarial Regularization
+│   │   └── Optimization-Based Methods
+│   │       └── Lagrangian Duality
+│   └── Post-Processing Based Methods 
+│       └── Outcome Transformation
+├── Fair-GNNs Applications
+│   ├── Social Networks
+│   ├── Finance
+│   ├── Healthcare
+│   └── Transportation
+└── Conclusion and Research Directions
+    ├── Existing Challenges
+    │   ├── Limited Fairness Definitions
+    │   ├── Lack of Comprehensive Studies
+    │   └── Performance Trade-off Management
+    └── Future Research Directions
+        ├── Learning with Unseen Classes
+        ├── Heterogeneous Graph Data
+        └── Federated Learning.

@@ -1,0 +1,32 @@
+Integrating (Human) Feedback for Natural Language Generation
+├── Overview of Feedback Integration
+│   ├── Demonstrations: Expert Examples
+│   └── Comparisons: Relative Assessment
+├── Learning from Demonstrations
+│   ├── Search-based Methods
+│   │   ├── Classic Search-based Methods
+│   │   ├── Recent Deep Learning Methods
+│   │   └── Variants: Reinforcement Learning from Comparison Data
+│   └── Cloning-based Methods
+│       ├── Supervised Fine-Tuning
+│       └── Variants: Reward Models, Reward Augmentation and Offline Reinforcement Learning
+├── Learning from Comparisons
+│   ├── Basic Approach: Direct Ranking
+│   ├── Pure Reinforcement Learning with Reward Models
+│   ├── Ranked Reward Learning
+│   └── Variants: DialShap and LaSy
+├── Feedback Integration in Practical NLG Systems
+│   ├── Pure Imitation: OpenAI Codex
+│   ├── Model Tweaking: Hugging Face
+│   ├── Session-based Interaction: Loqui
+│   └── Supervision at Scale: AI Dungeon
+├── Theoretical Aspects and Touchpoints with Other Disciplines
+│   ├── Machine Learning Theory
+│   ├── Behavioral Economics and Interactive POMDPs
+│   ├── Human Computer Interaction
+│   └── Information Retrieval
+└── Open Problems and Outlook
+    ├── Robustness
+    ├── Feedback Bias
+    ├── Human Factors
+    └── Efficiency and Scalability.

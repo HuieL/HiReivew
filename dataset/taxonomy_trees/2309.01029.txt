@@ -1,0 +1,37 @@
+Explainability for Large Language Models: A Survey
+├── NLP Explainability Methods
+│   ├── Instance-Level Explanation
+│   │   ├── Feature Relevance & Salience Maps
+│   │   ├──── Attribution (Textual, Visual)
+│   │   ├──── Probing
+│   │   ├──── Counterfactual & Contrastive Explanations
+│   │   ├──── Annotated datasets
+│   │   └──── Visualization Techniques
+│   └── Concept-Level Explanation
+│   ├──── Rule Extraction & Concept Activation Vectors
+│   └──── Generative Concept Models
+├── Evaluation of Explanations for LLMs
+│   ├──── Direct Assessment
+│   │   ├──── Qualitative Analysis   
+│   │   ├──── Post-hoc Human Evaluation
+│   │   └──── Evaluation Data Sets
+│   ├──── Indirect Assessment
+│   │   ├──── Alteration-Based Evaluation   
+│   │   └──── Proxy Tasks
+│   └──── Generalizability of Assessment
+├── Datasets for Evaluation of Explanation in LLMs
+│   ├── Text: Tasks and Scenarios
+│   │   ├──── Natural Language Inference   
+│   │   ├──── Machine Translation
+│   │   ├──── Style Transfer
+│   │   ├──── Hate speech/AAbusive Speech Detection
+│   │   └──── Fact Verification
+│   └── Multimodal
+│   ├──── VQA (Visually Grounded Reasoning)
+│   └──── Dialogue Systems
+└── Open Research Directions
+    ├── Transformation of LLMs into Smaller, More Understandable Models
+    ├── Evaluating the Need for Explainability
+    ├── Developing Guidelines and Standards
+    ├── Persuasiveness of Explanations
+    └── Interpretability of Higher-Order Features.

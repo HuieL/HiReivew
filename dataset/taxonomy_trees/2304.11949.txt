@@ -1,0 +1,47 @@
+Geometric Relational Embeddings: A Survey
+├── Models
+│   ├── Translational Models
+│   │   ├── TransE
+│   │   ├── STransE
+│   │   ├── MTransE
+│   │   ├── TranSparse
+│   │   ├── TractE
+│   │   └── ComplEx-N3
+│   ├── Euclidean Models
+│   │   ├── DisMult
+│   │   ├── HolE
+│   │   ├── ComplEx
+│   │   ├── ANALOGY
+│   │   └── CrossE
+│   ├── Hyperbolic Models
+│   │   ├── TransH
+│   │   ├── TransR
+│   │   ├── TransD
+│   │   ├── ManifoldE
+│   │   ├── TorusE
+│   │   ├── NTN
+│   │   ├── MuRP
+│   │   └── MuTrans
+│   └── Future of Geometric Models
+├── Tasks and Evaluation Metrics
+│   ├── Link Prediction
+│   │   ├── Hit Ratio at Rank 10 (HR@10)
+│   │   ├── Mean Reciprocal Rank (MRR)
+│   │   └── Area Under the ROC Curve (AUC-ROC)
+│   ├── Triple Classification
+│   ├── Entity Classification
+│   ├── Relation Prediction
+│   └── Entity Alignment
+├── Datasets
+│   ├── YAGO3-10
+│   ├── FB15k-237
+│   ├── WN18RR
+│   ├── DBpedia
+│   ├── DBLP
+│   └── Google Knowledge Graph (KG)
+└── Open Issues and Future Directions
+    ├── Models with External Lexical Knowledge
+    ├── Attention Mechanisms
+    ├── Generative Models
+    ├── AutoML
+    └── Integration of Different Model Paradigm.

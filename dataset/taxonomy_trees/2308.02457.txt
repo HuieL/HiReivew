@@ -1,0 +1,37 @@
+Temporal Knowledge Graph Completion (TKGC)
+├── Preliminaries
+│   ├── Definition and Notation
+│   ├── Problem Statement
+│   └── Evaluation Metrics
+├── Temporal KG Embedding
+│   ├── Translation Based Models
+│   │   ├── DISTMULT
+│   │   └── ComplEx (Temporal)
+│   └── Temporal Embedding Models
+│       ├── TA-DistMult
+│       ├── TNTComplEx
+│       ├── DE-SimplE
+│       ├── TM-E
+│       ├── HiErarchical Temporal Graph Network 
+│       └── Hybrid
+├── Temporal Reasoning Models
+│   ├── TIMEPLEX
+│   ├── TTransE
+│   ├── ET-LSTM
+│   └── T-ATransE
+├── Contextual TKGC Models
+│   ├── Recurrent Event Network
+│   ├── TRESCAL
+│   └── Interpretable Path Ranking Model
+├── Graph Neural Network-Based Models
+│   ├── R-GCN
+│   └── Temporal Message Passing GNN
+├── Model Comparison and Evaluation
+│   ├── Summary of Models 
+│   ├── Datasets
+│   └── Performances 
+└── Future Directions
+    ├── Enrichment of Temporal Graph Representation
+    ├── Improving Temporal Reasoning
+    ├── Enhancing Contextual TKGC
+    └── GNN-based TKGC Approaches

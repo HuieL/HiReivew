@@ -1,0 +1,48 @@
+Data-centric Graph Learning: A Survey
+├── Preliminary
+│   ├── Graph Representation
+│   └── Deep Graph Learning Models
+│       ├── Graph Neural Networks
+│       ├── Graph Convolutional Networks
+│       └── Graph Attention Networks
+├── Data-centric Challenges in Graph Learning
+│   ├── Lack of Labeled Data
+│   ├── Input Space Augmentation
+│   ├── Output Space Augmentation
+│   │   ├── Node Classification
+│   │   ├── Graph Classification
+│   │   └── Link Prediction
+│   ├── Label Noise Augmentation
+│   ├── Privileged Information Augmentation
+│   ├── Dynamic Graph Augmentation
+│   └── Multi-view Graph Augmentation
+├── Data-centric Solutions in Graph Learning
+│   ├── Data Labeling
+│   │   ├── Label Propagation
+│   │   ├── Multi-source Label Fusion
+│   │   └── Learning with Auxiliary Information
+│   ├── Data Augmentation
+│   │   ├── Neighborhood Augmentation
+│   │   ├── Subgraph Augmentation
+│   │   ├── Attribute Augmentation
+│   │   ├── Topological Augmentation
+│   │   ├── Adversarial Augmentation
+│   ├─── Interpolation Augmentation
+│   │   └── Dynamic Graph Augmentation
+│   ├── Data Cleaning
+│   │   ├── Structural Outlier Detection
+│   │   ├── Attribute Outlier Detection
+│   │   └── Robust Learning with Noisy Labels
+│   └── Dataset Collection and Benchmark
+│       ├── Graph Dataset Collection
+│       └── Benchmark Suites
+└── Future Directions and Open Challenges
+    ├── Structured Label Space
+    ├── Unsupervised and Self-supervised Learning
+    ├── Learning with Edge Labels
+    ├── Learning from Few Labels
+    ├── Data-centric Approaches to Dynamic Graph
+    ├── Noisy Labels in Graph Learning
+    ├── Hybrid Learning Paradigm
+    ├── Privacy-preserving in Data Labeling
+    └── Generalizing to Unseen Graphs

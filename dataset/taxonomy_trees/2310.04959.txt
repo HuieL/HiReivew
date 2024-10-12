@@ -1,0 +1,39 @@
+Prompting Methods
+├── Prompt Development Strategies
+│   ├── Prompt Initialization
+│   │   ├── Random Initialization
+│   │   ├── Intuitive Initialization
+│   │   └── Transfer Learning-based Initialization
+│   ├── Prompt Optimization
+│   │   ├── Fine-tuning
+│   │   ├── Propensity-based Prompting
+│   │   └── Contextual Prompting
+│   └── Prompt Selection
+│       ├── Traditional Prompt Selection
+│       └── Advanced Prompting Techniques
+├── Prompt Taxonomy
+│   ├── Static Prompts
+│   ├── Dynamic Prompts
+│   ├── Knowledge-based Prompts
+│   └── Experience-based Prompts
+├── Experimental Strategies
+│   ├── Datasets
+│   │   ├── Academic Datasets
+│   │   └── Industrial Datasets
+│   ├── Evaluation Metrics
+│   │   ├── Recall
+│   │   ├── Precision
+│   │   └── F-score
+│   └── Benchmark Tasks
+│       ├── Natural Language Processing (NLP) Tasks
+│       ├── Computer Vision (CV) Tasks
+│       └── Reinforcement Learning (RL) Tasks
+├── Prompts vs Other Methods
+│   ├── Prompts vs Supervised Learning
+│   ├── Prompts vs Transfer Learning
+│   └── Prompts vs Zero-shot Learning
+└── Analyses
+    ├── Prompting vs Non-promting Strategies
+    ├── Robustness of Prompting Methods
+    ├── Scalability of Prompting Methods
+    └── Domain Adaptability of Prompting Methods.

@@ -1,0 +1,41 @@
+Self-Supervised Learning for Time Series Analysis: Taxonomy, Progress, and Prospects
+├── Self-Supervised Learning 
+│    ├── Concepts and Overview 
+│    └── Major Approaches 
+│         ├── Predictive Methods 
+│         ├── Generative Methods 
+│         └── Contrastive Methods 
+├── Time Series Analysis Tasks 
+│    ├── Time Series Classification 
+│    ├── Time Series Clustering 
+│    ├── Time Series Anomaly Detection 
+│    └── Time Series Forecasting 
+├── Self-Supervised Learning Models for Time Series Analysis 
+│    ├── Pretext Tasks in Time Series 
+│         ├── Future Prediction 
+│         ├── Reconstruction
+│         ├── Density Estimation
+│         ├── Temporal Ordering 
+│         ├── Contrastive Learning 
+│         └── Combination 
+│    ├── Transformation Functions in Time Series 
+│         ├── Local Transformation 
+│         ├── Global Transformation 
+│         └── Combination 
+│    ├── Self-Supervised Learning Algorithms in Time Series 
+├── Evaluation Metrics
+├── Applications of Self-Supervised Learning in Time Series Analysis 
+│    ├── Health Informatics 
+│    ├── Finance
+│    ├── IoT Sensing 
+│    ├── Telecommunication 
+│    ├── Electric Power Systems 
+│    ├── Transportation 
+│    └── Other Fields
+├── Challenges and Future Directions 
+│    ├── Explainability Problem
+│    ├── Multivariate Time Series
+│    ├── High-Order Sequential Patterns
+│    ├── Large-Scale Time Series
+│    └── Multimodal Time Series
+└── Conclusion 

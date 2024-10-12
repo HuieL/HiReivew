@@ -1,0 +1,28 @@
+Recommender Systems and Large Language Models (LLMs)
+├── Traditional Recommender Systems
+│   ├── Collaborative Filtering
+│   |   ├── User-Based Collaborative Filtering
+│   |   └── Item-Based Collaborative Filtering
+│   ├── Content-Based Filtering
+│   └── Hybrid Recommender Systems
+├── Emerging Trends: LLMs in Recommender Systems
+│   ├── Pre-training Models for Recommender Systems
+│   ├── Fine-tuning LLMs for Recommendation
+│   ├── Jointly Training LLMs and Recommender Systems
+│   └── LLMs for Explanation in Recommender Systems
+├── Use Cases of LLMs in Recommender Systems
+│   ├── Personalized Recommendation
+│   │   ├── User Profiling
+│   │   ├── Personalized Search
+│   │   └── Sequence-based Recommendation
+│   ├── Context-aware Recommendation
+│   ├── Group Recommendation
+│   └── Cross-domain Recommendation
+├── Evaluation Metrics for Recommender Systems with LLMs
+│   ├── Offline Evaluation Metrics
+│   ├── Online Evaluation Metrics
+│   └── User Study
+└── Conclusion and Future Directions
+    ├── Current Issues in LLMs for Recommender Systems
+    ├── Open Problems
+    └── Possible Future Trends.

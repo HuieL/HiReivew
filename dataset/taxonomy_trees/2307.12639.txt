@@ -1,0 +1,33 @@
+Fake News Detection Through Graph-based Neural Networks: A Survey
+├── Fake News and Graphs
+│   ├── Definition of Fake News
+│   ├── Motivation of Graph-based Techniques
+│   └── Different Types of Graph Utilization in Fake News Detection
+├── Basics of Graph-based Neural Networks
+│   ├── Recap of Graph Theory
+│   └── Overview of Graph Neural Networks
+├── Critical Review of Graph-based Fake News Detection Methodologies
+│   ├── Spreading Pattern-centric Methods
+│   │   ├── Recurrent model-based spreading patterns
+│   │   ├── Spreading tree-based methods
+│   │   └── Propagation path-based methods
+│   ├── Network Propagationcentric Methods
+│   │   ├── Multi-view graph representation learning
+│   │   ├── Graph convolutional techniques
+│   │   └── Message passing neural network-based models
+│   ├── Behavior-centric Methods
+│   │   ├── User behavior-centric models
+│   │   └── User network-centric models
+│   └── Content and Knowledge-centric Methods
+│       ├── Text data-based techniques
+│       ├── Multi-modal data-based techniques
+│       └── Knowledge graph-based methods
+├── Evaluation Metrics
+│   └── Quantitative and Qualitative Evaluation Techniques
+├── Research Challenges and Future Directions
+│   ├── Domain Adaptation
+│   ├── Early Detection
+│   ├── Graph Dynamic Temporal Models
+│   ├── Low-resource Fake News Detection
+│   └── Explainability
+└── Conclusion

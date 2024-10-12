@@ -1,0 +1,42 @@
+Temporal Link Prediction: A Unified Framework, Taxonomy, and Review
+├── Temporal Network Modeling
+│   ├── Static Link Prediction (SLP)
+│   ├── Temporal Link Prediction (TLP)
+│   │   ├── Temporal Patterns
+│   │   └── Contacts' Duration
+│   └── Temporal Network Representation
+│       ├── Temporal Network
+│       ├── Time Series of Graphs
+│       └── Graph Stream
+├── Temporal Link Prediction Tasks
+│   ├── Link Inference
+│   │   ├── Intra-Contact Link Inference
+│   │   └── Inter-Contact Link Inference
+│   ├── Link Forecasting
+│   │   ├── Static Network Forecasting
+│   │   └── Dynamic Network Forecasting
+│   └── Link Nowcasting
+├── Approaches to Temporal Link Prediction
+│   ├── Statistical Approaches
+│   │   ├── Time Series
+│   │   │   ├── Autoregression
+│   │   │   └── Moving Average
+│   │   └── Temporal Graph Signal Processing
+│   ├── Classical Machine Learning Approaches
+│   │   ├── Time-Aware Features
+│   │   │   ├── Recency, Frequency, and Duration
+│   │   │   └── Contacts’ Inter-arrival Time
+│   │   ├── Regression
+│   │   ├── Decision Trees
+│   │   ├── and Random Forest
+│   │   └── SVM
+│   ├── Deep Learning Approaches
+│   │   ├── Graph Neural Networks
+│   │   ├── Temporal Graph Neural Networks
+│   │   ├── and Graph Convolutional Networks
+│   ├── Temporal Walks
+│   │   └── Random Walks
+│   └── Community Information
+├── Evaluation Metrics
+│   └── Receiver Operating Characteristic (ROC)
+└── Conclusion

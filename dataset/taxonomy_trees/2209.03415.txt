@@ -1,0 +1,36 @@
+Neural Trees (NT)
+├── Types of NT
+│   ├── Decision-Parameterized Neural Networks 
+│   ├── Fully-Connected Neural Networks
+│   ├── Convolutional Neural Networks
+│   └── Recurrent Neural Networks
+├── Analysis of NT Structures
+│   ├── Binary Tree
+│   ├── High-Dimensional Tree
+│   ├── QuadTree
+│   └── Octree
+├── Training of NT
+│   ├── Fixed Structure 
+│   ├── Stochastic Training Methods 
+│   │   ├── Monte Carlo Tree Search 
+│   │   └── Evolutionary Algorithms
+│   └── Deterministic Training Methods
+│       ├── Reinforcement Learning
+│       └── Backpropagation
+├── Applications
+|   ├── Regression Problems
+|   ├── Classification Problems
+|   └── Ranking Problems
+├── Experimental Evaluation
+│   ├── Datasets
+│   ├── Performance Metrics
+│   └── Evaluation Results
+├── Comparisons with Other Learning Paradigms
+|   ├── Support Vector Machines
+|   ├── Random Forests
+|   └── Bayesian Networks
+└── Future Research Directions
+    ├── Learning Deeper Trees
+    ├── Learning Broader Trees
+    ├── Improving Training Methods
+    └── Developing New Applications of NT.

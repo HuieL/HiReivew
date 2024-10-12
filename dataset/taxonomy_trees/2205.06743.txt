@@ -1,0 +1,45 @@
+Few-shot Learning (FSL)
+├── Concepts of FSL
+│   ├── Definition and Scenario
+│   ├── Meta-learning (Learning to Learn)
+│   └── Transfer Learning
+├── FSL Techniques
+│   ├── Data augmentation
+│   ├── Metric-based methods
+│   │   ├── Embed and compare
+│   │   ├── Matching networks
+│   │   ├── Prototypical networks
+│   │   └── Relation networks
+│   ├── Gradient-based methods
+│   │   ├── Model-Agnostic Meta Learning (MAML)
+│   │   ├── Reptile
+│   │   └── First-order MAML
+│   ├── Hallucination-based methods
+│   │   └── Data hallucination
+│   └── Hybrid methods
+├── Core problems in FSL
+│   ├── Defining the problem space
+│   ├── Understanding task and class relationship
+│   ├── Learning and generalization issue
+│   └── Data scarcity issue
+├── Evaluation methods for FSL
+│   ├── Benchmark datasets
+│   │   ├── Image classification
+│   │   ├── Object detection
+│   │   │   └── Few-shot Object Detection Dataset (FSOD)
+│   │   ├── Semantic segmentation
+│   │   │   └── Few-shot Semantic Segmentation Dataset (FSSD)
+│   │   └── Others
+│   └── Performance measurement
+├── Applications of FSL
+│   ├── Computer vision
+│   ├── Natural Language Processing (NLP)
+│   ├── Speech recognition
+│   └── Signature verification
+└── Challenges and Opportunities
+    ├── Real-world deployability
+    ├── Shaping up the problem space
+    ├── Data-independent techniques
+    ├── Scalability
+    ├── Evaluation Metrics
+    └── Overcoming the cold-start problem

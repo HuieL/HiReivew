@@ -1,0 +1,27 @@
+Advances and Challenges of Multi-task Learning Method in Recommender System: A Survey
+├── Recommender System
+│   ├── Collaborative Filtering (CF)
+│   │   ├── User-based CF
+│   │   └── Item-based CF
+│   └── Content-based Filtering (CBF)
+├── Multi-task Learning (MTL)
+│   ├── Hard Parameter Sharing
+│   ├── Soft Parameter Sharing
+│   └── Task Relation Learning
+├── MTL-based Recommender Systems
+│   ├── User Profiling Task 
+│   │   ├── User Interest Modeling
+│   │   ├── User Social Influence Modeling
+│   │   └── User Behavior Sequence Modeling
+│   ├── Item Profiling Task
+│   │   ├── Item Content Modeling
+│   │   ├── Item Popularity Modeling
+│   │   └── Item Sequential Modeling
+│   └── Rating/ Ranking Task
+│       ├── Rating Prediction
+│       └──Top-K Item Recommendation
+├── Existing Problems and Future Directions
+│   ├── Challenges
+│   ├── Open Issues
+│   └── Future Trends
+└── Conclusions

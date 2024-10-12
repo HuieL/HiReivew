@@ -1,0 +1,37 @@
+Interpretable Cross-modal Reasoning (ICR)
+├── ICR Paradigms
+│   ├── Supervised Paradigm
+│   │   ├── Cross-modal Alignment
+│   │   │   ├── Scratch Learning
+│   │   │   ├── Two-stage Learning
+│   │   │   └── Unified Learning
+│   │   └── Cross-modal Complement
+│   │       ├── Image Captioning
+│   │       ├── Visual Question Answering
+│   │       └── Storytelling
+│   └── Self-Supervised Paradigm
+│       ├── Pretext Tasks
+│       └── Contrastive Learning
+├── Interpretability in ICR
+│   ├── Evaluation Metrics
+│   │   ├── Qualitative Evaluation
+│   │   └── Quantitative Evaluation
+│   └── Interpretability Techniques
+│       ├── Attention Mechanism
+│       ├── Disentangled Representation
+│       ├── Curriculum Learning
+│       └── Model-Agnostic
+├── Future Directions
+│   ├── Fine-grained ICR
+│   ├── Unsupervised or Weakly-supervised ICR
+│   ├── Multimodal Reasoning
+│   ├── Efficient Training and Inference
+│   └── Reliable and Fair ICR
+├── Comparative Study
+│   ├── Evaluation Measures
+│   └── Baselines
+└── Application Scenarios
+    ├── Medical Care
+    ├── Education
+    ├── Law
+    └── Art

@@ -1,0 +1,32 @@
+Large Language Models (LLMs) in Learning on Graphs
+├── Context and Motivation
+│   ├── Historical Development of LLMs
+│   └── Importance and Applications of Graph Learning
+├── Different types of LLMs
+│   ├── Transformer models
+│   │   ├── BERT
+│   │   ├── GPT
+│   │   └── RoBERTa
+│   └── Recurrent Neural Networks
+│       ├── LSTM
+│       └── GRU
+├── Techniques of LLMs applied on Graphs
+│   ├── Graph Convolutional Networks (GCN)
+│   ├── Graph Attention Networks (GAT)
+│   └── Graph Transformer
+├── Applications
+│   ├── Semantic Role Labeling
+│   ├── Named Entity Recognition
+│   └── Sentiment Analysis
+├── Evaluation Metrics
+│   ├── Node Classification Accuracy
+│   ├── Graph Classification Accuracy
+│   └── Link Prediction Accuracy
+├── Related Work and Comparisons
+│   ├── Graph Neural Networks
+│   ├── Convolutional Neural Networks for graphs
+│   └── Attention models for graphs
+└── Future Research Directions
+    ├── Combining Graph Theoretic Methods with LLMs
+    ├── Addressing Scalability Issues
+    └── Improving Interpretability and Robustness of LLMs on Graphs

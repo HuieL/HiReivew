@@ -1,0 +1,55 @@
+NeRF: Neural Radiance Field in 3D Vision, A Comprehensive Review
+├── Basic modeling of NeRF
+│   ├── Radiance Field
+│   ├── NeRF model
+│   ├── Radiance Transfer
+│   └── Volume Rendering
+├── Sampling Strategy
+│   ├── Regular sampling
+│   ├── Stratified sampling
+│   ├── Importance sampling
+│   │   ├── Hierarchical Volume Sampling (HVS)
+│   │   ├── Coarse-to-fine Sampling
+│   │   └── Monte Carlo Path Tracing Sampling
+│   └── Adaptive sampling
+│       ├── Binary Search
+│       ├── Golden Section Search (GSS)
+│       ├── Adaptive interval search
+│       └── Optimization-based search
+├── Spatial Encoding
+│   ├── Fixed 3D coordinate encoding
+│   │   ├── Trigonometric functions
+│   │   ├── ReLU MLP
+│   │   └── Fourier features
+│   └── Learned 3D coordinate encoding
+│       ├── MLP-based encoding
+│       ├── Autoencoding-based encoding
+│       └── Optimized Fourier features
+├── Directional Encoding
+│   ├── Fixed 2D coordinate encoding
+│   │   ├── Spherical harmonics
+│   │   └── Fourier features
+│   └── Learned 2D coordinate encoding
+│       ├── MLP-based encoding
+│       └── Autoencoding-based encoding
+├── Neural Rendering
+│   ├── Optimization-based Neural Rendering 
+│   ├── Rendering Order
+│   ├── Light Source Rendering
+│   ├── Neural Reflectance Fields
+│   └── Neural Transport
+├── NeRF Extensions
+│   ├── NeRF in the Wild
+│   ├── NeRF++
+│   ├── FastNeRF
+│   ├── NeRF-W
+│   ├── DESNeRF
+│   └── InverseNeRF
+├── NeRF Applications
+│   ├── 3D Reconstruction
+│   ├── Image Inpainting
+│   ├── Portrait Relighting
+│   ├── Surface Light Fields
+│   ├── Dynamic Scene Reconstruction
+│   └── Novel View Synthesis
+├── Computational Cost and Efficiency

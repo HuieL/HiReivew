@@ -1,0 +1,50 @@
+Video Diffusion Models
+├── Basic Concept and Importance
+│   ├── Fundamental Aspect of Video Distribution
+│   │   ├── Early Studies
+│   │   └── Recent Studies
+│   └── Importance in Various Fields
+│       ├── Advertising
+│       ├── Viral Marketing
+│       └── Influence Maximization
+├── Categories of Video Diffusion Models
+│   ├── Macroscopic Models
+│   │   ├── Susceptible-Infected (SI) Model
+│   │   ├── Susceptible-Infected-Recovered (SIR) Model
+│   │   ├── Susceptible-Infected-Susceptible (SIS) Model
+│   │   └── Linear Threshold (LT) Model
+│   └── Microscopic Models
+│       ├── Independent Cascade (IC) Model
+│       ├── Competitive Linear Threshold (CLT) Model 
+│       └── Complex Contagion Diffusion Models
+├── Impact Factors on Video Diffusion
+│   ├── Social Network Factors
+│   │   ├── Homophily
+│   │   ├── Influentials
+│   │   └── Ties Strength
+│   ├── Content Features
+│   │   ├── Virality
+│   │   ├── Popularity
+│   │   └── Quality
+│   └── External Factors
+│       ├── Marketing Interventions
+│       ├── Paid Advertising
+│       └── News and Events
+├── Measurement of Video Diffusion
+│   ├── Network Structure Measurements
+│   │   ├── Degree Centrality
+│   │   ├── Betweenness Centrality
+│   │   └── Closeness Centrality
+│   └── Diffusion Process Measurements
+│       ├── Speed of Diffusion
+│       ├── Breadth of Diffusion
+│       └── Depth of Diffusion
+└── Applications and Future Investigations
+    ├── Existing Applications
+    │   ├── Video Marketing Strategies
+    │   ├── Viral Video Predictions
+    │   └── Influence Maximization
+    └── Future Investigation Aspects
+        ├── Multilayer Network Diffusion
+        ├── Context-Driven Diffusion
+        └── Video Diffusion in Emerging Social Media Platforms

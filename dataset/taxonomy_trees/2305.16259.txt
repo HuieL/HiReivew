@@ -1,0 +1,58 @@
+Neural Natural Language Processing for Long Texts: A Survey on Classification and Summarization
+├── Text Classification
+│   ├── Traditional Approaches
+│   └── Deep Learning Approaches
+│       ├── Convolutional Neural Networks (CNN)
+│       ├── Recurrent Neural Networks (RNN)
+│       ├── Attention Mechanisms
+│       └── Transformers
+├── Text Summarization
+│   ├── Statistical Approaches
+│   └── Neural Network Approaches
+│       ├── Sequence-to-Sequence Model
+│       ├── Sequence-to-Sequence with Attention Mechanism
+│       ├── Pointer Networks
+│       ├── Generator-Pointer Networks
+│       ├── Copy-and-Paste Networks
+│       ├── Hierarchical Networks
+│       ├── Transformers
+│       └── Pretrained Transformers
+├── Benchmarks and Datasets
+│   ├── Text Classification Datasets
+│   │   ├── IMDB
+│   │   ├── Yelp Review Polarity
+│   │   ├── Yahoo! Answers
+│   │   ├── AG's News
+│   │   ├── DBPedia
+│   │   ├── Sogou News
+│   │   ├── Amazon Review Full
+│   │   └── Amazon Review Polarity
+│   └── Text Summarization Datasets
+│       ├── English Gigaword
+│       ├── CNN/Daily Mail
+│       ├── Multi News
+│       ├── Big Patent
+│       ├── WikiHow
+│       ├── ArXiv
+│       ├── PubMed
+│       └── XSum
+├── Evaluation Metrics
+│   ├── Classification Metrics
+│   │   ├── Accuracy
+│   │   ├── Precision
+│   │   ├── Recall
+│   │   └── F1 Score
+│   └── Summarization Metrics
+│       ├── R-1
+│       ├── R-2
+│       ├── R-SU4
+│       └── ROUGE-L
+├── Applications
+│   ├── Clinical Documentation
+│   ├── Legal Document Processing
+│   ├── Scientific Literature Processing
+│   ├── News Reporting
+│   └── Customer Service 
+└── Conclusion and Future Directions 
+    ├── Challenges and Limitations 
+    └── Potential Future Research Themes

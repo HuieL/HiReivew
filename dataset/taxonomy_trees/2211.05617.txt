@@ -1,0 +1,50 @@
+Debiasing Methods for Fairer Neural Models in Vision and Language
+├── Bias in AI Systems
+│   ├── Sources of Bias
+│   │   ├── Data Collection Bias
+│   │   ├── Labeling Bias
+│   │   └── Model and Algorithm Bias
+│   └── Measurement of Bias
+│       ├── Disagreement Measures
+│       ├── Statistical Parity Measures
+│       ├── Group Fairness Measures
+│       ├── Individual Fairness Measures, and 
+│       └── Causal Reasoning Measures
+├── Debiasing Methods
+│   ├── Preprocessing Techniques
+│   │   ├── Rebalancing Techniques
+│   │   ├── Reweighting Techniques
+│   │   └── Data Augmentationand Synthetic Data Generation
+│   ├── In-processing Techniques
+│   │   ├── Fairness-aware Learning
+│   │   ├── Adversarial Debiasing
+│   │   └── Regularization-based Debiasing
+│   └── Postprocessing Techniques
+│       ├── Prediction thresholding and 
+│       └── Model Ensembling and Calibration
+├── Fairness in Computer Vision
+│   ├── Object Detection and Recognition
+│   ├── Face Analysis
+│   └── Generative Models
+├── Fairness Aware NLP
+│   ├── Word Embedding
+│   └── Text Classification and Generation
+├── Evaluation Metrics for Fairness in AI
+│   ├── Existing Metrics
+│   │   ├── Demographics Parity
+│   │   ├── Equalized Odds
+│   │   ├── Equality of Opportunity
+│   │   └── Treatment Equality
+│   └── Proposed Metrics
+│       ├── Overall CFM-based Metrics
+│       └── Age and Gender based on CFM metrics
+├── Open Source Fairness Toolkits
+│   ├── Fairness 360 (AIF360)
+│   ├── Fairlearn
+│   ├── What-if Tool
+│   ├── Themis, and
+│   └── FairKit-learn
+└── Discussion and Future Research
+    ├── Complex Trade-offs and Developments
+    ├── Responsibilities of Researchers and Practitioners
+    └── Future Directions

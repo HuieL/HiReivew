@@ -1,0 +1,30 @@
+Social Search in Online Social Platforms
+├── Problem Taxonomy
+│   ├── Query Processing
+│   │   ├── Keyword-based
+│   │   └── Semantic-based
+│   ├── Retrieval Model
+│   │   ├── Boolean model
+│   │   ├── Vector space model
+│   │   └── Probabilistic model
+│   ├── Aggregation and Diversification
+│   │   ├── Aggregation strategies
+│   │   └── Diversification strategies
+│   └── Social Network Analysis
+│       ├── Network measures
+│       ├── Network models
+│       └── Community detection
+├── Social Search Evaluation
+│   ├── Retrieval Effectiveness
+│   ├── Evaluation Metrics
+│   └── Evaluation Frameworks and Datasets
+├── Applications
+│   ├── Recommendation systems
+│   ├── User behavior understanding
+│   ├── Social network visualization and analysis
+│   └── Event detection and forecasting
+└── Future Directions
+    ├── Personalization and user modeling
+    ├── Collaborative search and sharing
+    ├── Privacy and ethics in Social Search
+    └── Intelligent applications and services

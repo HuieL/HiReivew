@@ -1,0 +1,32 @@
+Large Language Models for Software Engineering: A Systematic Literature Review
+├── Background and Related Work
+│   ├── Large Language Models
+│   ├── Applications in Software Engineering
+│   └── Machine Learning in Software Engineering
+├── Methodology
+│   ├── Research Questions 
+│   ├── Search Strategy
+│   │   ├── Automated Search 
+│   │   └── Manual Search 
+│   ├── Study Selection
+│   │   ├── Inclusion Criteria 
+│   │   └── Exclusion Criteria 
+│   ├── Data Extraction  
+│   │   ├── Capture of Descriptive Information 
+│   │   ├── Data Analysis and Synthesis  
+│   │   ├── Validity Threats 
+│   └── Threats to Validity
+├── Results
+│   ├── Overview
+│   ├── RQ1: What are the SE tasks for which large language models have been used?
+│   ├── RQ2: What are the achievements and the limitations of the use of large language models in SE?
+│   ├── RQ3: Which large language models have been used in SE?
+│   └── RQ4: What are the used configurations of large language models in SE?
+├── Discussion
+│   ├── Research Trends
+│   ├── Methodological Considerations
+│   └── Implications for Research and Practice
+└── Conclusions and Future Work
+    ├── Summary of Findings
+    ├── Contributions
+    └── Future Work

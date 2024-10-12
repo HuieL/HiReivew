@@ -1,0 +1,40 @@
+Machine Learning in Access Control: A Taxonomy and Survey
+├── Traditional Access Control Mechanisms
+│   ├── Discretionary Access Control (DAC)
+│   ├── Mandatory Access Control (MAC)
+│   └── Role-Based Access Control (RBAC)
+│
+├── Access Control Models
+│   ├── Centralized Access Control Models 
+│   ├── Distributed Access Control Models 
+│   └── Decentralized Access Control Models
+│
+├── Machine Learning (ML) Techniques in Access Control
+│   ├── Supervised ML Techniques 
+│   │   ├── Decision Trees
+│   │   ├── Support Vector Machines
+│   │   ├── Naïve Bayes
+│   │   ├── K-Nearest Neighbors
+│   │   └── Artificial Neural Networks
+│   ├── Unsupervised ML Techniques
+│   │   ├── Clustering
+│   │   └── Association Rule Mining
+│   ├── Semi-Supervised and Transductive ML Techniques
+│   └── Reinforcement Learning
+│
+├── Applications and Case Studies
+│   ├── ML for Conventional Access Control Systems
+│   ├── ML for Adaptive Access Control in IoT 
+│   ├── ML for Risk-Based and Trust-Based Access Control 
+│   ├── ML for Privacy-Preserving Access Control 
+│   └── ML for Access Control in Online Social Networks
+│
+├── Challenges and Future Trends
+│   ├── Overfitting 
+│   ├── Scalability
+│   ├── New and Emerging Threats
+│   ├── Data Heterogeneity 
+│   ├── Reinforcement Learning for Access Control 
+│   └── Explainable Access Control
+│
+└── Conclusion

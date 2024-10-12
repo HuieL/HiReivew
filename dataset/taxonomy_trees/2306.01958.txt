@@ -1,0 +1,42 @@
+Explainability of Graph Neural Networks(GNNs)
+├── Preliminary
+│   ├── Graph Theory
+│   ├── Basics of GNNs
+│   │   ├── Graph Convolution Networks (GCN)
+│   │   ├── GraphSAGE
+│   │   ├── Graph Attention Networks (GAT)
+│   │   └── Graph Isomorphism Network (GIN)
+│   ├── Reasoning behind explainability
+│   └── Evaluation Metrics
+├── Methodologies for Explainability
+│   ├── Interpretation Techniques
+│   │   ├── Post-Hoc Explanation
+│   │   │   ├── Saliency Methods
+│   │   │   ├── Perturbation-based Methods
+│   │   │   ├── Rule-based Explanations
+│   │   │   └── Attention-based Approaches
+│   │   └── Intrinsic Explanation
+│   │       ├── Architecture-based Methods
+│   │       └── Training-based Methods
+│   ├── Importance of Feature Attribution
+│   │   ├── Node Importance
+│   │   ├── Edge Importance
+│   │   ├── Subgraph Importance
+│   │   └── Path Importance
+│   └── Importance of Graph Structure Attribution
+├── Applications
+│   ├── Scientific Discovery
+│   ├── Fraud Detection
+│   ├── Social Network Analysis
+│   ├── Recommendation Systems
+│   └── Drug Discovery
+├── Evaluation of Explainability
+│   ├── Qualitative Evaluation
+│   ├── Quantitative Evaluation
+│   └── User Studies
+└── Open Challenges
+    ├── Explanations for Dynamic Graphs
+    ├── Lack of Standard Benchmarks
+    ├── Scalability for Large Graphs
+    ├── Low-fidelity Explanations
+    └── Lack of Robustness and Resilience to Attacks

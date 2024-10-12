@@ -1,0 +1,37 @@
+Deep Gait Recognition
+├── Related Work
+│   ├── Conventional Gait Recognition
+│   ├── Shallow Learning based Gait Recognition
+│   └── Deep Learning based Gait Recognition
+├── Deep Learning based Gait Recognition
+│   ├── Gait Representation
+│   │   ├── Gait Template
+│   │   ├── Gait Energy Image (GEI)
+│   │   ├── Gait Flow Image (GFI)
+│   │   └── Gait optical Flow (GOF)
+│   ├── Convolutional Neural Network (CNN) based Gait Recognition
+│   │   ├── Basic CNN
+│   │   ├── Advanced CNN
+│   │   └── Fine-tuned CNN
+│   ├── Recurrent Neural Network (RNN) based Gait Recognition
+│   ├── Autoencoder (AE) based Gait Recognition
+│   └── Generative Adversarial Network (GAN) based Gait Recognition
+├── Datasets for Deep Gait Recognition
+│   ├── CASIA
+│   ├── OU-ISIR
+│   ├── TUM-GAIT
+│   ├── USF
+│   ├── SOTON
+│   └── KY4D Gait
+├── Challenges in Deep Gait Recognition
+│   ├── View Variations
+│   ├── Clothing Variations
+│   ├── Carrying Conditions
+│   ├── Speed Variations
+│   ├── Gender Variations
+│   ├── Time Lapse
+│   └── Cooperative vs Non-cooperative
+└── Future Trends in Deep Gait Recognition
+    ├── Cross-domain Learning
+    ├── Big Data Analytics
+    └── Benchmarking.

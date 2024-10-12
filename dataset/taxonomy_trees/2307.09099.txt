@@ -1,0 +1,44 @@
+Multi-Objective Neural Architecture Search (MONAS)
+├── Methods For MONAS
+│   ├── Evolutionary Algorithm-based Methods
+│   │   ├── NSGANet
+│   │   ├── MONAS
+│   │   ├── DPP-Net
+│   │   ├── FairNAS
+│   │   └── AlphaX-NAS
+│   ├── Regularization-based Methods
+│   │   ├── ChamNet
+│   │   ├── CARS
+│   │   └── FBNet
+│   ├── Predictive Modelbased Methods
+│   │   ├── ENCO
+│   │   ├── MEENet
+│   │   ├── MORL-HPO
+│   │   └── PC-DARTS
+│   └── Hybrid Methods
+│       ├── Mulberry
+│       ├── PPONAS
+│       └── Double
+├── Evaluation Metrics
+│   ├── Metrics for Neural Architecture Design
+│   │   ├── Performance Metric
+│   │   ├── Resource Use Metric
+│   │   └── Trade-off Metric
+│   └── Metrics for MONAS Techniques
+│       ├── Comparison with the Pareto front
+│       ├── Generalization error
+│       └── Efficiency 
+├── Datasets and Benchmarks
+│   ├── CIFAR-10
+│   ├── ImageNet
+│   ├── COCO
+│   └── Cityspaces
+├── Visible Trends and Open Issues
+│   ├── Handling Multi-objectives Simultaneously
+│   ├── Exploring Better Measures
+│   ├── Smoothing the Search Landscape
+│   ├── Quality and Diversity Trade-off
+│   ├── Transferability between Different Datasets and Tasks
+│   ├── Beyond the Pareto Front
+│   └── When to Stop the Search
+└── Conclusion

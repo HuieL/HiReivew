@@ -1,0 +1,41 @@
+The Role of Crowds in Combating Online Misinformation: Annotators, Evaluators, and Creators
+├── Crowdsourcing Annotation
+│   ├── Annotation Tasks
+│   │   ├── Fact-checking annotation tasks
+│   │   ├── Stance Detection annotation tasks
+│   │   ├── Fake News Detection annotation tasks
+│   │   └── Reputation-based annotation tasks
+│   ├── Annotation Platforms
+│   │   ├── Amazon Mechanical Turk (AMT)
+│   │   ├── Figure Eight
+│   │   └── Prolific Academic
+│   └── Quality Control Strategies
+│       ├── Prequalification Tests
+│       ├── Majority Voting
+│       ├── Expectation-Maximization techniques
+│       ├── Annotation Layers
+│       └── Gold Standard Annotators
+├── Crowdsourcing Evaluation
+│   ├── Evaluation Criteria
+│   │   ├── Accuracy of labels
+│   │   ├── Coverage of Labels
+│   │   └── Handling of Ambiguities
+│   ├── Collection Methods
+│   │   ├── Online Surveys
+│   │   └── In-person Studies
+│   ├── User Characteristics
+│   │   ├── Active vs Passive users
+│   │   ├── Verification Craving Users
+│   │   └── Frequent Social Media users
+│   └── Evaluation Platform
+│       └── Amazon Mechanical Turk (AMT)
+├── Crowdsourcing Creation
+│   ├── Creation Tasks
+│   │   ├── Creating Misinformation News
+│   │   ├── Creating Misinformation Rumors
+│   │   └── Creating Deceptive Reviews 
+│   ├── Creation Platforms
+│   │   ├── Amazon Mechanical Turk (AMT)
+│   │   └── Prolific Academic
+│   └── Ethics and Potential Dangers
+└── Conclusion

@@ -1,0 +1,30 @@
+Graph Unlearning
+├── Motivation
+│   ├── Data Remediation
+│   │   ├── Right-to-be-Forgotten Laws
+│   │   └── Data Breaches
+│   └── Model Audit and Governance
+│       ├── Anti-Discrimination Regulations
+│       └── Model Version Management
+├── Basics of Graph Unlearning
+│   ├── Online Polynomial-time Graph Unlearning
+│   ├── Offline Polynomial-time Graph Unlearning
+│   ├── Sub-linear Time Graph Unlearning
+│   └── Challenges
+├── Algorithmic Design
+│   ├── Node Addition
+│   ├── Node Deletion
+│   │   ├── Change the embedding of nodes directly associated with deleted nodes
+│   │   └── Recomputation-based methods
+│   └── Edge Deletion
+│       ├── Change the embedding of nodes directly associated with deleted edges
+│       └── Recomputation-based methods
+├── General Graph Processing Tasks
+│   ├── Graph Properties
+│   ├── Graph Clustering
+│   ├── Graph Drawing
+│   └── Graph Sparse
+└── Research Opportunities
+    ├── Differential Privacy Based Graph Unlearning
+    ├── Machine Learning Based Graph Unlearning
+    └── Application to Other Data Types- Text, Image, Video etc.

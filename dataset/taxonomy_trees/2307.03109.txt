@@ -1,0 +1,38 @@
+A Survey on Evaluation of Large Language Models
+├── Performance Evaluation
+│   ├── Pre-training methods
+│   ├── Datasets
+│   ├── Oversight of limitations
+│   ├── Concerns of overfitting
+│   ├── Geometric analysis of ELMs
+│   └── Analyses and Comments on Existing Lines of Work
+├── Behavior Characteristics
+│   ├── Real-World Impact
+│   ├── Ethical Considerations
+│   ├── Discriminability and Robustness
+│   ├── Controllability
+│   ├── Generation characteristics
+│   ├── Supplementary Skills
+│   ├── Memory Capabilities
+│   └── ELMs in Social Networks
+├── Architecture and Training Enhancements
+│   ├── Model improvements
+│   ├── Training Setups
+│   ├── Evaluating Improvements
+│   └── Training Protocols
+├── External Scenarios
+│   ├── Translation
+│   ├── Sentiment Analysis
+│   ├── Paraphrase Detection
+│   ├── Text Classification
+│   ├── Intent Recognition
+│   ├── Question Answering
+│   ├── Named Entity Recognition
+│   └── Other Scenarios
+└── Future Directions
+    ├── Systematic Evaluation Frameworks
+    ├── Enhancing Transparency of ELMs
+    ├── Evaluation in Real Application Scenarios
+    ├── Mitigating Model Misbehavior
+    ├── New methods for Performance Evaluation
+    └── Examination of Characteristics beyond benchmark tasks

@@ -1,0 +1,41 @@
+Solving and Discovering Differential Equations using DNNs
+├── Background and Basic Concepts
+│   ├── Differential Equations
+│   ├── Deep Neural Networks 
+│   ├── Optimization Methods 
+│   └── Deep Learning Libraries 
+├── Neural Electronic Circuits
+│   ├── Background and Model
+│   ├── Different Applications 
+│   └── Current Research Trends 
+├── Solving Parametric Partial Differential Equations (PDEs)
+│   ├── Background and Model 
+│   ├── Different Applications  
+│   └── Current Research Trends 
+├── Solver-Free DNN methods
+│   ├── Model and Different methods 
+│   └── Current Research Trends 
+├── Solving Initial and Boundary Value Problems 
+│   ├── Model and Different methods 
+│   └── Current Research Trends
+├── Learning Dynamical Systems from Data
+│   ├── Model and Different methods
+│   ├── Different Applications 
+│   └── Current Research Trends
+├── Inverse Problems
+│   ├── Model and Different methods
+│   ├── Different Applications 
+│   └── Current Research Trends
+├── Uncertain Quantification and Robust Optimization 
+│   ├── The Concept and Different methods 
+│   ├── Different Applications 
+│   └── Current Research Trends
+├── Applications in Physics and Engineering
+│   ├── Energy and Power Systems
+│   ├── Control Systems
+│   ├── Fluids and Solids
+│   ├── Heat and Mass Transfer
+│   └── Other Applications
+├── Software Libraries for Solving and Discovering DEs.
+├── Open Problem and Future Work
+└── Conclusions.

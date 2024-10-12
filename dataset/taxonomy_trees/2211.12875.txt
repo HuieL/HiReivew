@@ -1,0 +1,47 @@
+Deep Graph Clustering (DGC)
+├── Complexity
+│   ├── DGC w/o Interaction: Models without explicit node interaction
+│   |    ├── Deep Autoencoders
+│   |    ├── Deep Matrix Factorization
+│   |    │    ├── Normalized Cut-Based
+│   |    │    ├── Unified Matrix Factorization
+│   |    │    └── Spectral Learning Based Nonnegative MF
+│   |    ├── Deep Nonnegative Matrix Factorization
+│   |    ├── Deep Multi-view Clustering
+│   |    ├── Generative Models
+│   |    └── Other Models
+│   ├── DGC w Interaction: Models with explicit node interaction
+│   └── Iterative Network
+│       ├── Traditional Graph Neural Network
+│       │    ├── Graph Convolutional Network
+│       │    ├── Graph Attention Network
+│       │    └── Graph Isomorphism Network
+│       ├── Node2Vec
+│       └── Other Methods
+├── Scalability
+│   ├── Memory Footprint: Model size and its growth as function of graph size
+│   ├── Computational Efficiency: Training time and its growth as function of graph size
+│   └── Robustness: Variation in model performance across different graph sizes
+├── Fidelity and Expressivity
+│   ├── Structural Fidelity: Ability to capture the underlying graph structure
+│   └── Content Fidelity: Ability to incorporate node features
+├── Evaluation Metrics and Benchmarks
+│   ├── Internal Metrics 
+│   ├── External Metrics
+│   ├── Real-world Datasets 
+│   ├── Synthetic Datasets
+│   ├── Link Prediction Datasets
+│   └── Commercial Datasets
+├── Application Fields
+│   ├── Social Network
+│   ├── Bioinformatics
+│   ├── Traffic
+│   ├── Citation Network
+│   ├── Link Prediction
+│   ├── Fine-grained Image
+│   ├── 3D Point Cloud
+│   └── Other applications
+└── Open Resources
+    ├── Libraries
+    ├── Courses and Tutorials 
+    └── Workshops and Challenges

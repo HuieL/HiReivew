@@ -1,0 +1,48 @@
+Explainable Reinforcement Learning (XRL)
+├── Explainability Concepts
+│   ├── Transparency
+│   ├── Interpretability
+│   └── Explainability
+├── Explainability Desiderata
+│   ├── Explanation's Target Audience
+│   │   ├── Users
+│   │   ├── Stakeholders
+│   │   └── Designers
+│   └── Explanation's Goals
+│       ├── Verification
+│       ├── Improvement
+│       ├── Validation
+│       ├── Understanding
+│       ├── Trust
+│       ├── Control
+│       ├── Social Acceptance
+│       └── Responsibility
+├── Explainable RL Models
+│   ├── Model-free RL Models
+│   │   ├── Deep Q-Networks (DQN)
+│   │   ├── Policy Gradients/Actor-Critic Models
+│   │   └── Value Iteration Networks (VIN)
+│   └── Model-based RL Models
+│       ├── World Models
+│       ├── Monte Carlo Tree Search (MCTS)
+│       └── Neural-symbolic Models
+├── Post-hoc Explanation Methods
+│   ├── Visualization Techniques
+│   │   ├── Layer-wise Relevance Propagation (LRP)
+│   │   ├── Grad-CAM (Saliency Maps)
+│   │   └── t-SNE (High-dimensional Data Visualization)
+│   ├── Feature Attribution Methods
+│   │   ├── Shapley Values
+│   │   ├── Integrated Gradients
+│   │   └── DeepLIFT
+│   └── Textual Explanations
+│       ├── Logical Expressions
+│       └── Natural Language Explanations
+├── Evaluation of Explanations
+│   ├── Quantitative Evaluation
+│   └── Qualitative Evaluation
+├── Future Research Directions
+│   ├── Multimodal Explanations
+│   ├── Personalized Explanations
+│   └── Interactive Explanations
+└── Conclusion

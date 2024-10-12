@@ -1,0 +1,31 @@
+Transformers in 3D Point Clouds: A Survey
+├── Preliminaries
+│   ├── 3D Point Clouds
+│   │   ├── Dense Point Clouds
+│   │   └── Sparse Point Clouds
+│   ├── Transformer Structure
+│   │   ├── Self-Attention Mechanism
+│   │   ├── Multi-Head Attention
+│   │   └── Positional Encoding
+│   └── Comparison with other Deep Learning Structures
+│       ├── Convolutional Neural Networks (CNN)
+│       ├── Graph Convolutional Networks (GCN)
+│       └── Recurrent Neural Networks (RNN)
+├── Transformer Variants in 3D Point Clouds
+│   ├── Sparse Convolutional Transformers
+│   ├── Transformer with Graph Convolution
+│   ├── Transformer with Voxel Convolution
+│   ├── Transformer with Point Convolution
+│   └── Pure Transformers
+├── Applications of Transformers in 3D Point Clouds
+│   ├── 3D Data Classification
+│   ├── 3D Data Segmentation
+│   ├── 3D Data Detection
+│   └── 3D Data Completion
+├── Further Research Issues
+│   ├── Dealing with Large Scale Point Clouds
+│   ├── Pre-training Transformers on 3D Point Clouds
+│   └── Improvement of Transformer-Based Models 
+└── Conclusions and Future work
+    ├── Summary of the Study
+    └── Future Directions in the Field

@@ -1,0 +1,40 @@
+Relation Extraction (RE)
+├── Techniques used for Relation Extraction
+│   ├── Sequence to Sequence Models
+│   ├── Neural Networks based Models
+│   ├── Graph Neural Networks (GNNs)
+│   ├── Transformer-based Models
+│   └── Hybrid Models
+├── Feature-based Approaches
+│   ├── Manual Feature Engineering
+│   ├── Automatic Feature Engineering
+├── Neural Models
+│   ├── Convolutional Neural Networks (CNN)
+│   ├── Recurrent Neural Networks (RNN)
+│   ├── Long Short-Term Memory (LSTM)
+│   └── Graph Neural Networks (GNN)
+├── Advanced Methods
+│   ├── Representation Learning
+│   ├── Knowledge Graphs
+│   ├── Transfer Learning
+│   └── Zero-Shot Learning
+├── Corpus and Datasets for RE
+│   ├── SemEval
+│   ├── TAC-KBP
+│   ├── ACE
+│   ├── NYT
+│   └── WikiData
+├── Evaluation Metrics
+│   ├── Precision
+│   ├── Recall
+│   └── F1-Score
+├── Applications
+│   ├── Information Extraction
+│   ├── Knowledge Base Building
+│   ├── Question-Answering Systems
+│   ├── Text Summarization
+│   └── Machine Translation
+└── Future Prospects 
+    ├── Explainable Relation Extraction
+    ├── Multimodal Relation Extraction
+    └── Resource Scarce Languages

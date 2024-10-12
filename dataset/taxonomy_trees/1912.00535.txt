@@ -1,0 +1,49 @@
+Deep Learning for Visual Tracking: A Comprehensive Survey
+├── Definition and Evaluation Criteria for Visual Tracking
+│   ├── Definitions
+│   ├── Evaluation Criteria
+│   ├── Evaluation Protocol
+│   └── Evaluation Metrics
+├── Traditional Visual Tracking
+│   ├── Mean-Shift Tracking
+│   ├── Particle Filter Tracking
+│   ├── Kernelized Correlation Filter Tracking
+│   └── Structured SVM Tracking
+├── Deep Learning-Based Visual Tracking
+│   ├── Deep Feature-based Tracking
+│   ├── Deep Network-based Tracking
+│   ├── Recursive Networks Simplex Networks 
+│   └── Motion Model
+├── Meta-Algorithm and Training Strategies
+│   ├── Tracking via Meta-Algorithm
+│   └── Training Strategies
+├── Datasets and Protocols for Visual Tracking
+│   ├── Datasets
+│   ├── Protocols
+├── Benchmark and Competitions
+│   ├── Visual Object Tracking
+│   ├── TrackingNet
+│   ├── The DAVIS Challenge
+│   └── UAV20L
+├── Target-Aware Tracking
+│   ├── Object Proposal-based Tracking
+│   ├── Semantic Information-based Tracking
+│   ├── Segment Information-based Tracking
+│   └── 3D Information-based Tracking
+├── Recent Advances in Deep Learning for Visual Tracking
+│   ├── Siamese Networks
+│   ├── Generative Adversarial Networks
+│   ├── Reinforcement Learning
+│   ├── Meta Learning
+│   ├── Feature Pyramid Networks
+│   ├── Attention Mechanisms
+│   └── Other Recent Advances
+├── Applications
+│   ├── Applications in Robotics
+│   ├── Applications in Autonomous Driving
+│   ├── Applications in Surveillance
+│   ├── Applications in Augmented Reality
+│   └── Applications in Unmanned Aerial Vehicles
+└── Conclusion and Future Directions
+    ├── Challenges and Possible Directions
+    └── Future Directions

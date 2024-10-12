@@ -1,0 +1,27 @@
+Visually Adversarial Attacks and Defenses in the Physical World: A Survey
+├── Background
+│   ├── Definitions and Terminologies
+│   └── Adversarial Attack and Defense Approaches
+│       ├── Adversarial Attack
+│       └── Adversarial Defense
+├── Categorized Review of Visually Adversarial Techniques
+│   ├── Physical Attacks and Defenses
+│   │   ├── Adversarial examples
+│   │   ├── Backdoor attack
+│   │   └── Defenses for physical world attacks
+│   └── Digital Attacks and defenses
+│       ├── Attacking object detectors
+│       │   ├── Attacking YOLO detector
+│       │   └── Attacking Faster-RCNN detector
+│       ├── Defenses against digital attacks
+│       └── Performance metrics for digital adversarial defenses
+├── Advanced Visually Adversarial Techniques
+│   ├── Attack/defense against 3D object detectors
+│   ├── Attack/defense in real-time scenarios
+│   ├── Attack/defense against face recognition 
+│   ├── Attack/defense against semantic segmentation
+│   └── Attack/defense against black-box models
+├── Perspectives 
+│   ├── Future Directions in Visually Adversarial Techniques
+│   └── Open challenges
+└── Conclusion

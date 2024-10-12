@@ -1,0 +1,33 @@
+Taxonomy of Attacks on Open-Source Software Supply Chains
+├── Attack Taxonomy
+│   ├── Based on Attack Scenario
+│   │   ├── Type I: Incident Repositories
+│   │   ├── Type II: Malicious Libraries
+│   │   ├── Type III: Library Hijacking
+│   │   └── Type IV: Malignant Contributors
+│   └── Based on Attack Injection Method
+│       ├── Method I: Unauthorized Access
+│       ├── Method II: Social Engineering
+│       ├── Method III: Typosquatting
+│       ├── Method IV: Supply Chain Influence
+│       └── Method V: Legitimate Access
+├── Defense Mechanisms
+│   ├── Authentication, authorization, and access controls
+│   ├── Library trust scoring
+│   ├── Signature-based detection
+│   ├── Behavior-based detection
+│   ├── Code Review
+│   ├── Sandboxing
+│   └── Reproducible builds
+├── Case Studies
+│   ├── PHP: PEAR Incident
+│   ├── Ruby: Strong_password Incident
+│   ├── JavaScript: Event-stream Incident
+│   ├── Python: Various Typosquatting Incidents
+│   └── Java: Webmin Incident
+└── Future Research Directions
+    ├── Incident response
+    ├── Library trust scoring
+    ├── Fine-grained library dependency management
+    ├── Minimization of attack surface
+    └── Continuous assurance against supply chain attacks.

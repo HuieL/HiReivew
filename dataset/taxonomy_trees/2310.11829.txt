@@ -1,0 +1,46 @@
+Towards Graph Foundation Models
+├── Graph Foundation Model (GFM) Paradigm 
+│   ├── Challenges for Graph Foundation Models
+│   │   ├── Node-wise Consistency
+│   │   ├── Graph-wise Consistency
+│   │   ├── Multi-modal Data
+│   │   ├── Temporal Graphs
+│   │   └── Giant Graphs
+│   ├── Paradigm Overview
+│   │   ├── Denoising AutoEncoders (DAEs)
+│   │   ├── Contrastive Learning
+│   │   ├── Generative Pretraining
+│   │   ├── Reinforcement Learning
+│   │   └── Self-supervised Learning
+│   └── Variants
+│       ├── Graph Neural Networks (GNNs)
+│       ├── Graph Transformer Networks (GTNs)
+│       ├── Graph Attention Networks (GATs)
+│       └── Graph Convolutional Networks (GCNs)
+├── GFM Architectures
+│   ├── GraphSAGE
+│   ├── GAT
+│   ├── GCN
+│   ├── GPT-GNN
+│   ├── GIN
+│   ├── GPR-GNN
+│   └── H-GCN
+├── GFM Applications
+│   ├── Social Network Analysis
+│   ├── Molecular Biology
+│   ├── Image Analysis
+│   ├── Natural Language Processing
+│   ├── Recommendation Systems
+│   └── Cybersecurity
+├── Benchmarks and Datasets
+│   ├── OGB
+│   ├── SNAP
+│   ├── ZINC
+│   └── BioSNAP
+└── Future Research Directions
+    ├── Scalability
+    ├── Data Noise
+    ├── Node Classification
+    ├── Graph Regression
+    ├── Graph Generation
+    └── Temporal and Dynamic Graphs

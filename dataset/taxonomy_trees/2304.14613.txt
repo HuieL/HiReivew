@@ -1,0 +1,24 @@
+Deep Intellectual Property Protection: A Survey
+├──Deep Learning
+│  ├──Background of Deep Learning
+│  ├──Adversarial Attacks on Deep Learning
+│  └──Protective Measures for Deep Learning
+├──Intellectual Property Rights Protection in AI
+│  ├──Need for IPR Protection in AI
+│  ├──Traditional Means for IPR Protection
+│  └──IPR Protection in Deep Learning
+├──Protection Methods for Deep Learning
+│  ├──Traditional Protection
+│  ├──DeepMarks
+│  ├──Passive Watermarking
+│  ├──Active Watermarking
+│  ├──Certification-based Protection
+│  └──White-box Protection
+├──Open Problems and Challenges
+│  └──Scalability
+│  └──Robustness
+│  └──Coverage
+│  └──Efficiency
+│  └──Self-Proving
+│  └──Quantifiability
+└──Conclusion

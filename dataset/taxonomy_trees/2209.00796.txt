@@ -1,0 +1,46 @@
+Diffusion Models: A Comprehensive Survey of Methods and Applications
+├── Underlying Theory
+│   ├── Introduction to Stochastic Differential Equations
+│   │   └── Forward and backward Kolmogorov equations
+│   ├── Connection between Stochastic Differential Equations and Generative Models 
+│   │   ├── Markov Chains
+│   │   ├── From Stochastic Differential Equations to Generative Models 
+│   │   └── From Generative Models to Stochastic Differential Equations 
+│   ├── Equilibrium and Non-equilibrium Processes 
+│   │   ├── Under-damped Langevin dynamics 
+│   │   ├── Over-damped Langevin dynamics 
+│   │   └── Non-equilibrium processes 
+│   └── Interpretation of Diffusion Models 
+├── Training Algoritms
+│   ├── Score Matching 
+│   ├── Noise-Contrastive Estimation 
+│   ├── Variational lower bound
+│   ├── Minimum Divergence Principle
+│   ├── Bridging methods
+│   └── Adverserial Training 
+├── Practical algorithms
+│   ├── Early Methods
+│   ├── Denoising Diffusion Probabilistic Models
+│   └── Use-Case-specific Modifications
+├── Advanced Techniques
+│   ├── Variational Layers
+│   ├── Jittering
+│   ├── Learned Step Sizes
+│   ├── Pre-trained Classifiers
+│   ├── Tempered Models
+│   └── Variance Reduction Techniques
+├── Applications
+│   ├── Images
+│   │   ├── Super-resolution
+│   │   ├── Inpainting
+│   │   ├── Deblurring
+│   │   └── Denoising
+│   ├── Text
+│   ├── 3D Shapes
+│   └── Time Series
+└── Extensions and related models
+    ├── Flows
+    ├── Autoregressive models
+    ├── GANs
+    ├── Energy models
+    └── Hybrid models

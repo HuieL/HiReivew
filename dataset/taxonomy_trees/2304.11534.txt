@@ -1,0 +1,37 @@
+Graph Neural Networks for Text Classification: A Survey
+├── Related Work
+│   ├── Traditional Text Classification
+│   ├── Graph-Based Semi-Supervised Learning for Text Classification
+│   ├── Neural Network Based Text Classification
+│   └── Graph Neural Networks
+│       ├── Graph Convolutional Networks (GCN)
+│       ├── GraphSage
+│       ├── Graph Attention Networks (GAT)
+│       └── Graph Isomorphism Network (GIN)
+├── A Taxonomy of Graph Neural Networks for Text Classification
+│   ├── Graph Representation Learning Approaches
+│   │   ├── Global Aggregation Methods
+│   │   ├── Local Aggregation Methods
+│   │   └── Hierarchical Aggregation Methods
+│   ├── Graph Structure Construction Approaches
+│   │   ├── Static Graph Structure
+│   │   ├── Dynamic Graph Structure
+│   │   └── Hybrid Graph Structure
+│   └── Node Type in Graph Construction
+│       ├── Words as Nodes
+│       ├── Documents as Nodes
+│       └── Hybrid Nodes
+├── Applications
+│   ├── Sentence Classification
+│   ├── Document Classification
+│   ├── Aspect-Level Sentiment Classification
+│   └── Other Applications
+├── Evaluation and Discussion
+│   ├── Evaluation Metrics
+│   ├── Datasets
+│   ├── Performance
+│   ├── Case Study
+│   └── Discussion
+└── Conclusions and Future Directions
+    ├── Conclusions
+    └── Future Directions

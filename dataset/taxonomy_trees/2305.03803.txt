@@ -1,0 +1,38 @@
+Trojans in Neural Models of Source Code: Taxonomy and Techniques
+├── Approaches to Trojan a Model
+│   ├── Corrupt Backdoored Data
+│   ├── Corrupt the Training Process
+│   ├── Post-Training Modification of Trained Model
+├── Trojan Trigger Design 
+│   ├── Explicit Triggers
+│   │   ├── Keyword-based Triggers
+│   │   ├── API-based Triggers
+│   │   ├── Logic Bomb Triggers
+│   │   └── Comment-based Triggers
+│   ├── Implicit Triggers
+│   │   ├── Data Flow-based Triggers
+│   │   └── Control Flow-based Triggers
+├── Deployment Strategies
+│   ├── Static Code Analysis Tasks
+│   │   ├── Typo Fixing
+│   │   ├── Code Commenting
+│   │   ├── Code Translation
+│   │   ├── Vulnerability Detection
+│   │   └── Other Static Code Analysis Trojans
+│   ├── Runtime Tasks
+│   │   ├── Source Code Completion
+│   │   ├── API Recommendation
+│   │   ├── Code Summarization
+│   │   └── Other Runtime Trojans
+├── Trojan Detection and Mitigation Strategies
+│   ├── Anomaly Detection
+│   │   └── Literature
+│   ├── Signature-based Detection
+│   ├── Behavior-based Detection
+│   ├── Nesting and Obfuscation Techniques
+│   └── Countermeasures
+└── Open Research Directions
+    ├── Designing More Stealthy Trojans
+    ├── Improved Trojan Detection Techniques
+    ├── Investigating Other Types of Neural Trojans
+    └── Establishing a Standard Evaluation Benchmark for Neural Trojan Models in Source Code

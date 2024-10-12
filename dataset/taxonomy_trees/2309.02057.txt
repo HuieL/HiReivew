@@ -1,0 +1,25 @@
+Robust Recommender System: A Survey and Future Directions
+├── Robust RecSys
+│   ├── Explorations based on data
+│   │   ├── Data Noise
+│   │   ├── Data Sparsity
+│   │   ├── Cold Start problems
+│   │   └── Heterogeneous and Multi-Modal data
+│   ├── Explorations based on algorithms and models
+│   │   ├── Traditional Collaborative Filtering Algorithms
+│   │   ├── Deep Learning Based Algorithms
+│   │   ├── Reinforcement Learning Based Algorithms
+│   │   └── Graph Based Algorithms
+│   └── Research based on robustness of the system
+│       ├── Shilling Attacks
+│       ├── Privacy-Preserving Issues
+│       ├── Fairness Issues
+│       └── Transparency and Explainability Issues
+├── Open Issues and Future Directions
+│   ├── Hybrid and Ensemble Models
+│   ├── Adaptive and Real-Time RecSys
+│   ├── Cross-Domain and Multi-Task RecSys
+│   ├── Personalized and User-centric RecSys
+│   ├── Privacy-Preserving and Fair RecSys
+│   └── Explainable and Transparent RecSys
+└── Conclusion and Discussions

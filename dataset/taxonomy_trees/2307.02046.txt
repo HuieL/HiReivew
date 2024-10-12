@@ -1,0 +1,35 @@
+Recommender Systems in the Era of Large Language Models (LLMs)
+├── Language Models (LMs) and Large Language Models (LLMs)
+│   ├── Transformer Models (e.g., GPT-3, T5)
+│   ├── BERT-based Models (e.g., RoBERTa, BERT)
+│   └── Distillation Techniques
+├── Classification of LLM-Based Recommender Systems
+│   ├── Transformers for Implicit Feedback(collaborative)
+│   │   ├── Seq2Seq model with copy mechanism
+│   │   └── BERT-based models
+│   ├── Transformers for Explicit Feedback(collaborative)
+│   │   ├── Transformer-based sequence models
+│   │   └── Multi-modal GPT-3 trainable on both reviews and metadata
+│   ├── Transformers for Content-Based Recommendation
+│   │   ├── News recommendation using GPT-2
+│   │   ├── Movie recommendation using GPT-2
+│   │   └── Multi-modal Recommendation with BERT: using both reviews and product images
+│   ├── Transformers for Contextual Bandits
+│   │   ├── Transformer with Thompson Sampling 
+│   │   └── Transformer for Multi-armed bandit problem
+│   └── Transformers for Session-Based Recommendation
+│       ├── BERT4Rec
+│       └── SASRec
+├── Evaluation of LLM-Based Recommender Systems
+│   ├── Offline Evaluation
+│   │   ├── Metrics: R@K, NDCG@K, MRR@K, HR@K, AUC, LogLoss, MAP
+│   │   ├── Datasets: ML-20M, Amazon, Ta-Feng, Digikala, PON-P2P-UIUC, Yahoo! Music, Frappe
+│   └── Online Evaluation
+│       ├── AB testing 
+│       └── Counterfactual Evaluation
+├── Future Directions
+│   ├── Bridging the Gap between Collaborative Filtering and Content-Based Models with LLMs
+│   ├── Mixed Models of LLMs and Graph Neural Networks
+│   ├── Leveraging LLMs for Cold-Start Scenario
+│   └── Addressing the Fairness, Transparency and Explainability Concerns in LLM-Based Systems
+└── Conclusion

@@ -1,0 +1,40 @@
+AI-generated Text Detection
+├── Deep Learning based methods for text generation
+│   ├── Sequence-to-Sequence models
+│   ├── Variational Autoencoders
+│   └── Transformers
+│       ├── GPT-3
+│       └── T5
+├── Features of Synthetic Text
+│   ├── Statistical properties
+│   ├── Stylometric features
+│   ├── Semantic coherence
+│   └── Specific language phenomena
+├── AI-generated Text Detection Techniques
+│   ├── Classification based detection
+│   │   ├── Feature-based methods
+│   │   ├── Neural-based methods
+│   │   └── Hybrid methods
+│   ├── Comparison based detection
+│   |   ├── Language Models
+│   |   ├── Transformers
+│   |   └── Seq2Seq Models
+│   ├── Metadata based detection
+│   └── User Interaction based detection
+├── Datasets for AI-generated Text Detection
+│   ├── GLUE
+│   ├── SQuAD
+│   ├── GPT-2 Samples
+│   └── Grover
+├── Evaluation Metrics for Detection Methods
+│   ├── Accuracy
+│   ├── Precision
+│   ├── Recall
+│   └── F1 score
+├── Challenges in AI-generated Text Detection
+│   ├── Lack of ground truth data
+│   ├── Successive finetuning
+│   ├── Generative diversity
+│   ├── Multi-modal deepfakes
+│   └── Language Specificity 
+└── Conclusion and future directions.

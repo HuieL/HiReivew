@@ -1,0 +1,46 @@
+Neurosymbolic AI
+├── Theoretical Aspects of Neurosymbolic AI
+│   ├── Symbols and Connectionism
+│   ├── Cognition and Neurosymbolic Systems
+│   ├── Neurons and Rules
+│   │   └── Interactions between Rules
+│   ├── Modelling Human Cognition
+│   ├── Episodic Memory and Neural Networks
+│   ├── analogical Reasoning
+│   │   └── Higher Order Analogical Reasoning
+│   └── Causal Reasoning
+├── Implementation Aspects of Neurosymbolic AI
+│   ├── Implementing Symbolic Reasoning
+│   │   ├── Rule-based symbolic reasoning
+│   │   ├── Ontology-Based Reasoning
+│   │   ├── Logical reasoning
+│   │   └── First-order and Higher-order Reasoning
+│   ├── Implementing Connectionist Reasoning
+│   │   ├── Neural Networks
+│   │   │   ├── FeedForward Neural Networks
+│   │   │   ├── Convolutional Neural Networks
+│   │   │   └── Recurrent Neural Networks
+│   │   ├── Unsupervised Learning: Competitive Learning and Self-Organizing maps
+│   │   ├── Temporal Pattern Learning and Prediction
+│   │   └── Bayesian methods and Graphical Models
+│   └── Implementing Hybrid Reasoning
+│       ├── Embedding symbolic knowledge in neural networks
+│       ├── Realising symbol-like functionality in neural networks
+│       ├── Learning symbolic knowledge from data
+│       └── Combining rule-based and connectionist systems
+├── Benchmarks and Evaluation of Neurosymbolic AI
+│   ├── Benchmarks
+│   │   ├── Single-Task Benchmarks
+│   │   ├── Multi-Task and Lifelong-Learning Benchmarks
+│   │   └── Open-World Benchmarks
+│   └── Evaluation Metrics
+│       ├── Accuracy
+│       ├── Structured Similarity
+│       ├── Causal Score
+│       └── Explainability and Interpretability
+└── Challenges and Future Research Directions
+    ├── Explainability and Transparency
+    ├── Scalability and Efficiency
+    ├── Symbol Grounding Problem
+    ├── Integration of Different Types of Knowledge
+    └── Interactivity Between Human and System

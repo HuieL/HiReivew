@@ -1,0 +1,59 @@
+Large Language Model Alignment
+├── Alignment Problem
+│   ├── Motivation
+│   ├── Importance
+│   │   └── Human Values
+│   └── Alignment Approaches
+├── Narrow value learning (NVL)
+│   ├── Direct Reinforcement Learning
+│   │   ├── Rewards Models
+│   │   │   ├── Proximal Policy Optimization (PPO)
+│   │   │   ├── DAgger
+│   │   │   ├── Inverse reward design (IRD)
+│   │   │   ├── Value-difference learning (VDL)
+│   │   │   ├── Quantilizers
+│   │   │   └── Debate
+│   │   └── Limitations
+│   └── Imitation Learning
+│       ├── Behavioural Cloning
+│       │   ├── Limitations
+│       │   ├── SAIL
+│       │   ├── Apprenticeship learning
+│       │   └── DAgger
+│       └── Learning from Human Feedback (LFHF)
+│           ├── Reward Modeling
+│           └── Counterfactual Data
+|
+├── Broad Value Learning (BVL)
+│   ├── Existing Approaches
+│   │   ├── CIRL
+│   │   ├── Assistance games
+│   │   └── Cooperative IRL
+│   └── Limitations
+├── Meta-Alignment
+│   ├── Interpretability
+│   │   ├── Feature visualization
+│   │   ├── Building blocks
+│   │   ├── Concept Activation Vectors (CAVs)
+│   │   └── Circuit analyses
+│   ├── Transparency and Controllability
+│   │   ├── Update Steering
+│   │   ├── Gradient Surgery
+│   │   └── Learned optimizers
+│   ├── Approximate Steering
+│   │   ├── Models of ML models
+│   │   └── World Models
+│   └── Capability Control
+├── Testing for Alignment
+│   ├── Expert testing
+│   ├── Red teaming
+│   ├── Adversarial Testing
+│   └── Robustness Tests
+├── Conceptual and Philosophical Considerations
+│   ├── AGI Alignment Challenges
+│   ├── Ontological Crises
+│   └── Decision Theory and Ethics
+└── Case Studies
+    ├── Context Window
+    ├── More Expressive Models
+    └── Novel Architectures

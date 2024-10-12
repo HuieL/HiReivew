@@ -1,0 +1,28 @@
+Imbalanced Learning on Graphs
+├── Problem Definitions
+│   ├── Node Classification
+│   ├── Graph Classification
+│   └── Link Prediction
+├── Data Sampling Techniques
+│   ├── Random Oversampling and Undersampling
+│   ├── Informed Undersampling
+│   ├── Synthetic Minority Oversampling
+│   └── Hybrid Methods
+├── Cost-sensitive Learning Techniques
+│   ├── Direct Methods
+│   ├── Potential Function
+│   └── Meta-learning Algorithms
+├── Ensemble Learning Techniques
+│   ├── Bagging and Boosting
+│   └── Active Learning
+├── Learned Representation based Techniques
+│   ├── Node Representation Learning
+│   ├── Graph Representation Learning
+│   └── Node Attribute Augmentation
+└── Hybrid Approaches
+    ├── Sampling and Ensemble
+    ├── Sampling and Representation
+    ├── Cost-sensitive and Ensemble
+    ├── Cost-sensitive and Representation
+    ├── Ensemble and Representation
+    └── Multi-way Hybrid

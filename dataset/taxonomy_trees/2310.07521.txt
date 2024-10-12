@@ -1,0 +1,28 @@
+Factuality in Large Language Models
+├── Large Pretrained Models (LMs)
+│   ├── Explicit Knowledge in LMs
+│   │   ├── Fact Verification
+│   │   ├── Factual Correctness of Language Generation
+│   │   ├── Factual Consistency
+│   │   └── Factual Informativeness
+│   └── Implicit Knowledge in LMs
+│       ├── Zero-shot Learning and Prompt Engineering
+│       ├── Retrieval Augmented Models
+│       ├── Knowledge Store Models
+│       └── Web-based Models
+├── Factuality Evaluation of Different Models
+│   ├── FEVER
+│   ├── RACE
+│   ├── ELI5
+│   └── TREC
+├── Domain-specific Models
+│   ├── Low-resource and Non-English Languages
+│   ├── MultiModal Models
+│   └── Structured Data and Programming Languages
+├── Challenges and Future Directions
+│   ├── Addressing Factuality Issues
+│   ├── Verification Mechanism and Fact-checking Simple Solutions
+│   └── Tweaking Generation Strategies
+└── Related Work
+    ├── Prior works on Factuality Issues
+    └── Existing Factuality Models and Solutions

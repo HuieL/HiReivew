@@ -1,0 +1,44 @@
+Data Optimization in Deep Learning: A Survey
+├── Data Curation
+│   ├── Data Curation Processes
+│   ├── Knowledge Extraction
+│   ├── Metadata Creation
+│   ├── Storage and Maintenance
+│   ├── Data Retrieval and Analysis
+│   └── Data Preservation and Accessibility
+├── Data Compression
+│   ├── Lossy Compression Techniques
+│   ├── Lossless Compression Techniques
+│   ├── Hybrid Compression Techniques
+│   └── Compression Performance Analysis
+├── Data Augmentation
+│   ├── Traditional Image Data Augmentation Techniques
+│   ├── Deep Learning-based Image Data Augmentation
+│   └── Text Data Augmentation
+├── Data Selection
+│   ├── Subsampling
+│   ├── Active Learning
+│   └── Transfer Learning
+├── Data Generation
+│   ├── Generative Models
+│   └── Data Synthesis
+├── Data Sanitization
+│   ├── Data Cleaning
+│   └── Data De-noising
+├── Data Imputation
+│   ├── Complete Case Analysis
+│   ├── Mean/Median/Mode Imputation
+│   ├── Regression Imputation
+│   ├── Stochastic Regression Imputation
+│   ├── Hot-Deck Imputation
+│   └── Multiple Imputations
+├── Handling Class Imbalance
+│   ├── Sampling-based Techniques
+│   ├── Cost-Sensitive Techniques
+│   └── Hybrid Techniques
+├── Data Quality Measurement
+│   ├── Data Relevance
+│   ├── Data Validity
+│   └── Data Reliability
+├── Optimization Tools and Software
+└── Challenges and Future Cues

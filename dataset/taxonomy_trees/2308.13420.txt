@@ -1,0 +1,39 @@
+Reinforcement Learning-assisted Evolutionary Algorithm (RL-EA)
+├── Fundamentals of RL-EA
+│   ├── Evolutionary Algorithms
+│   ├── Reinforcement Learning
+│   └── RL-EA Symbiosis Mechanisms
+├── Classifications of RL-EA
+│   ├── RL Assists EA
+│   │   ├── Parameter Setting
+│   │   ├── Genetic Operators
+│   │   ├── Variant Selection
+│   │   └── Learning Preferences
+│   ├── EA Assists RL
+│   │   ├── Structure Optimization of RL
+│   │   ├── Policy Initialization
+│   │   └── RL Strategy Selection
+│   └── RL and EA Co-evolve
+│       ├── Multi-agent Systems
+│       └── RL Environments
+├── Application Domains
+│   ├── Robot Control
+│   ├── Game Playing
+│   ├── Traffic Control
+│   ├── Power Systems
+│   ├── Job Shop Scheduling
+│   └── Electronic Trading
+├── Evaluation Criteria
+│   ├── Convergence Rate
+│   ├── Optimality
+│   └── Complexity
+├── Comparative Studies
+│   ├── RL-EA vs Pure RL
+│   ├── RL-EA vs Pure EA
+│   └── RL-EA vs Other Hybrid Models
+└── Open Research Opportunities
+    ├── Fine-grained RL-EA Mechanisms
+    ├── Customized RL-EA Design
+    ├── Benchmark Problem Set
+    ├── Real-world Applications
+    └── Theoretical Research

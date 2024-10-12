@@ -1,0 +1,47 @@
+Autonomous Driving with Vision-Language Models (VLMs)
+├── Development Stages in Autonomous Driving
+│   ├── Sensing
+│   ├── Scene perception
+│   ├── Path planning
+│   └── Control
+├── Types of VLMs impact in Autonomous Driving
+│   ├── Languages for Object-Centric Perception
+│   │   ├── Image Captioning
+│   │   ├── Video Description
+│   │   └── Visual Question Answering
+│   ├── Languages for Scene Understanding
+│   │   ├── Visual Relation Detection
+│   │   └── Spatial Language Understanding
+│   ├── Language for Temporal Modeling
+│   │   ├── Storytelling
+│   │   ├── Future Event Prediction
+│   │   └── Visual Dialogue
+│   ├── Language for Interaction and Control
+│   │   ├── Instruction Following
+│   │   └── Visual Navigation
+│   └── Pre-training Methods
+│       ├── BERT
+│       ├── GPT
+│       └── CLIP
+├── VLM Architectures
+│   ├── CNN-RNN Architecture
+│   └── Transformer Architecture
+├── Learning Techniques for VLMs
+│   ├── Supervised Learning
+│   ├── Reinforcement Learning
+│   └── Self-Supervised Learning
+├── Evaluation Metrics
+│   ├── BLEU
+│   ├── METEOR
+│   ├── ROUGE-L
+│   └── CIDEr
+├── Practical Considerations
+│   ├── Multi-modality
+│   ├── Contextual Understanding
+│   ├── Real-time Processing
+│   └── Safety Measures
+└── Future Directions
+    ├── Improving Scene Understanding
+    ├── Enhancing Interaction Models
+    ├── Strengthening Robustness
+    └── Promoting the Practicality of VLMs in Autonomous Driving.

@@ -1,0 +1,54 @@
+Green Deep Learning
+├── Green Deep Learning Methodologies
+│   ├── Data-Driven Techniques
+│   │   └── Energy-Efficient Deep Learning Data Processing Techniques
+│   ├── Hardware Driven Techniques
+│   │   ├── Approaches Accelerating Computation and Reducing Energy Consumption
+│   │   └── Implementations of Deep Learning on Hardware for Reducing Energy
+│   ├── Model-Driven Techniques 
+│   │   ├── Energy-Efficient Deep Learning Model Techniques
+│   │   ├── Compact and Lightweight Models
+│   │   └── Neural Architecture Search
+│   └── Hybrid Techniques
+├── Metrics for Green Deep Learning 
+│   ├── Energy-Based Metrics 
+│   │   ├── Carbon Footprint
+│   │   ├── Energy Consumption
+│   │   └── Energy Efficiency
+│   ├── Model Metrics
+│   │   ├── Model Size
+│   │   ├── Computational Complexity
+│   │   ├── Inference Time
+│   │   └── Accuracy
+│   └── Hardware Metrics
+│       ├── Energy Consumption
+│       └── Peak Power Usage
+├── Tools for Green Deep Learning
+│   ├── Power Profiling
+│   ├── Energy Prediction
+│   ├── Energy Estimation
+│   └── Energy Optimization
+├── Datasets for Green Deep Learning
+│   ├── Standard Benchmarks
+│   ├── Domain-Specific Benchmarks
+│   └── Real-World Datasets
+├── Challenges and Opportunities in Green Deep Learning
+│   ├── Challenges
+│   │   ├── Computing Resources
+│   │   ├── Measurement
+│   │   ├── Inference Optimization
+│   │   ├── Scale and Diversity
+│   │   ├── Interpretability
+│   │   └── Green Washing
+│   └── Opportunities
+│       ├── Green Policies
+│       ├── Green Deep Learning for Climate Change
+│       ├── Continuing Research on Low Computational Resource Utilization
+│       └── Integration with Other Tech Domains for Holistic Green Tech Efforts
+└── Future Directions for Green Deep Learning
+    ├── Fine-Grained Energy Estimation
+    ├── Model and Hardware Co-optimization
+    ├── Energy-Aware Deep Learning Courses and Ethics
+    ├── Green Certificate for AI System
+    ├── Environmental Impact Documentation
+    └── International Standard for Green Machine Learning

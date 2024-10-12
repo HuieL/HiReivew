@@ -1,0 +1,36 @@
+Diffusion Models for Medical Image Analysis: A Comprehensive Survey
+├── Mathematics of Diffusion Process
+│   ├── Brownian Motion and Wiener Process
+│   ├── Stochastic Differential Equations (SDEs)
+│   └── Fokker-Planck and Kolmogorov Forward Equations  
+├── Types of Diffusion Models
+│   ├── Gaussian Diffusion Models
+│   ├── Non-Gaussian Diffusion Models 
+│   ├── Multivariate Diffusion Models
+│   └── Multiscale Diffusion Models
+├── Medical Image Analysis Using Diffusion Models
+│   ├── Image Reconstruction
+│   ├── Image Registration
+│   ├── Image Segmentation
+│   └── Image Synthesis
+├── Learning Diffusion Models From Medical Image Data
+│   ├── Supervised Learning Schemes
+│   ├── Unsupervised Learning Schemes
+│   ├── Self-supervised Learning Schemes
+│   └── Reinforcement Learning Schemes
+├── Datasets Used for Evaluation of Diffusion Models
+│   ├── Publicly Available Datasets
+│   └── Private Datasets
+├── Evaluation Metrics
+│   ├── Quantitative Metrics
+│   └── Qualitative Metrics
+├── Applications of Diffusion Models in Clinical Practice
+│   ├── Disease Detection
+│   ├── Disease Classification
+│   ├── Disease Segmentation
+│   └── Disease Prognosis
+└── Challenges and Future Directions
+    ├── Data Availability and Annotations
+    ├── Model Complexity and Computational Efficiency
+    ├── Model Generalizability and Transferability
+    └── Clinical Implementation and Validation

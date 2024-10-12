@@ -1,0 +1,27 @@
+Heterogeneous Federated Learning (HFL)
+├── Heterogeneity in Federated Learning
+│   ├── System Heterogeneity
+│   │   ├── Communication Heterogeneity
+│   │   └── Computational Heterogeneity
+│   ├── Statistical Heterogeneity
+│   │   ├── Distribution Heterogeneity
+│   │   └── Class Imbalance Heterogeneity
+│   └── Behavioral Heterogeneity
+├── Federated Optimization Methods Under System Heterogeneity
+│   ├── FedAvg
+│   ├── Communication-Efficient Methods
+│   └── Computationally-Efficient Methods
+├── Federated Learning Methods Under Statistical Heterogeneity
+│   ├── Data Distribution-driven Methods
+│   ├── Meta Learning-based Methods
+│   └── Advanced Learning Theory-based Methods
+├── Federated Learning Methods under Behavioral Heterogeneity
+│   ├── Privacy-Preserving Techniques
+│   ├── Incentive Mechanisms
+│   └── Security and Robustness Measures
+├── Open Challenges and Future Directions
+│   ├── Modelling Heterogeneity
+│   ├── Handling Heterogeneity
+│   ├── Stakeholders' Optimization
+│   └── Benchmark and Standard
+└── Conclusion

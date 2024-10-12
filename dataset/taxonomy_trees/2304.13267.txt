@@ -1,0 +1,36 @@
+Bayesian Federated Learning: A Survey
+├── Concepts and Fundamentals of FL 
+│   ├── Intuitions and Formulations
+│   └── Modern FL algorithms
+├── Bayesian Techniques
+│   ├── Basics of Bayesian Inference
+│   ├── Bayesian Neural Networks (BNNs)/Variational Inference
+│   │   ├── Mean-field Variational Inference
+│   │   └── Variational Autoencoder
+│   ├── Simulation-based Inference
+│   ├── Monte Carlo Methods
+│   │   ├── Markov Chain Monte Carlo
+│   │   └── Hamiltonian Monte Carlo
+│   └── Stochastic Gradient Descent methods
+├── Bayesian Federated Learning
+│   ├── Bayesian Inference for FL
+│   ├── Challenges in Bayesian FL
+│   │   ├── Data scarcity and Heterogeneity
+│   │   ├── Communication Latency
+│   │   └── Model Uninterpretability
+│   └── Methods
+│       ├── Variational Federated Learning
+│       ├── Improved Variational FL
+│       └── Stochastic Gradient MCMC for FL
+├── Applications of Bayesian FL 
+│   ├── Health Care
+│   ├── Internet of Things
+│   └── Network Traffic Prediction
+├── Experimental Studies 
+│   ├── Evaluation Metrics
+│   └── Benchmarks Datasets
+└── Future Research Directions
+    ├── New Variants of Bayesian FL
+    ├── Scalability Issues and Solutions
+    ├── Improve Model Interpretability
+    └── Address Privacy and Security Concerns

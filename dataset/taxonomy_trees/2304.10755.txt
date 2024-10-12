@@ -1,0 +1,39 @@
+Interpretable and Robust AI in EEG Systems: A Survey
+├── EEG Signal Preprocessing
+│   ├── Signal Acquisition
+│   ├── Artifact Removal
+│   │   ├── Blind Source Separation
+│   │   ├── Wavelet Transform
+│   │   └── Adaptive filtering
+│   ├── Feature Extraction
+│   │   ├── Time Domain Features
+│   │   ├── Frequency Domain Features
+│   │   ├── Time-Frequency Domain Features
+│   │   └── Cepstral Features
+│   └── Feature Selection
+│       ├── Filter Methods
+│       ├── Wrapper Methods
+│       └── Embedded Methods
+├── EEG Systems
+│   ├── ERP-based Systems
+│   ├── SSVEP-based Systems
+│   ├── MRCP-based Systems
+│   └── Hybrid Systems
+├── Interpretability in AI Models for EEG Systems
+│   ├── Local Interpretability
+│   ├── Global Interpretability
+│   │   ├── Interpretability of DNN
+│   │   ├── Interpretability of CNN
+│   │   ├── Interpretability of RNN
+│   │   └── Interpretability of Other Models
+│   └── Evaluation metrics for Interpretability
+├── Robustness in AI Models for EEG Systems
+│   ├── Robustness Against Interference
+│   ├── Robustness Against Variability
+│   └── Evaluation Metrics for Robustness
+├── Open Research Problems
+│   ├── Interpretation of EEG Signals
+│   ├── Challenges of Real-time EEG Systems
+│   ├── Robustness and Adaptability of AI Models
+│   └── Legal and Ethical Aspects of EEG Signal Analysis
+└── Conclusion

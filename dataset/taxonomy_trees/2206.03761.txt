@@ -1,0 +1,32 @@
+Fairness of Recommender Systems
+├── Fairness Concerns
+│   ├── Consumer Side
+│   │   └── Under-representation problems
+│   ├── Provider Side
+│   │   └── Biased exposure distribution
+│   └── Biases in Recommender Systems
+│       ├── Pre-existing biases
+│       ├── Algorithmic biases
+│       └── Emerging biases
+├── Fairness Definitions and Metrics
+│   ├── Individual Fairness
+│   ├── Group Fairness
+│   ├── Diversity and Fairness
+│   ├── Statistical Parity
+│   ├── Demographic Parity
+│   └── Disparate Impact
+├── Fairness Enhancement Approaches
+│   ├── Pre-processing Approaches
+│   ├── In-processing Approaches
+│   ├── Post-processing Approaches
+│   └── Hybrid Approaches
+├── Evaluation of Fairness
+│   ├── Experimental Evaluations
+│   ├── Theoretical Analysis
+│   └── User Studies
+└── Open Problems and Future Directions
+    ├── Overcoming Discrimination
+    ├── Making Trade-offs
+    ├── Ensuring User Privacy
+    ├── Adopting Fairness in the Real World
+    └── Fairness-Aware Recommendation Algorithms

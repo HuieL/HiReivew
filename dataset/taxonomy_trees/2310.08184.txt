@@ -1,0 +1,44 @@
+Learning from Models Beyond Fine-Tuning: A Survey
+├── Learning with Pretrained Models
+│   ├── Fine-Tuning
+│   ├── Derivative Techniques (from Fine-tuning)
+│   │   ├── Continued Pretraining
+│   │   ├── Partial Fine-tuning
+│   │   └── Multi-task Fine-tuning
+├── Beyond Fine-Tuning Techniques
+│   ├── Rule-based Decision Making
+│   │   ├── Zero-shot Learning
+│   │   └── Few-shot Learning
+│   ├── Data Construction and Completion
+│   │   ├── Data-to-text Generation
+│   │   ├── Text Completion
+│   │   ├── Text Summarization
+│   │   └── Code Generation
+│   ├── Structure Extraction and Prediction
+│   │   ├── Named Entity Recognition
+│   │   ├── POS Tagging
+│   │   ├── Dependency Parsing
+│   │   ├── Slot Filling
+│   │   └── NLU
+│   ├── World Modeling
+│   │   ├── Text-based Gaming
+│   │   ├── Science Fiction Generation
+│   │   └── Story Generation
+│   ├── Instruction Following
+│   │   ├── Task-oriented Dialogue
+│   │   ├── Task-oriented Instruction Following
+│   │   └── Text-based Gaming
+│   └── Knowledge Grounding
+│       ├── Question Answering
+│       ├── Information Retrieval
+│       └── Text Classification
+├── Open Challenges
+│   ├── Knowledge-Based Reasoning
+│   ├── Cross-Modal Integration
+│   ├── Real-World Deployment
+│   ├── Data Privacy
+│   └── Synthesizing Techniques
+└── Conclusion
+    ├── The Relationship between PLMs and FT
+    ├── The Power of PLMs and the Limitations
+    └── Challenges and Future Directions

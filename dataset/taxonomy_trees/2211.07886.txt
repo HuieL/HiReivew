@@ -1,0 +1,29 @@
+Efficient Open Domain Question Answering
+├── Overview of Open-Domain Question Answering (ODQA)
+│   ├── Definition of ODQA
+│   └── Challenges of ODQA
+├── Traditional ODQA Systems
+│   ├── Document Retrieval-based Systems
+│   ├── Semantic Matching-based Systems
+│   ├── Machine Reading Comprehension-based Systems
+│   └── Knowledge Base-based Systems
+├── Modern ODQA Systems
+│   ├── Transformer-based Systems
+│   ├── Graph-based Systems
+│   ├── Learning to Rank Systems
+│   └── Hybrid Systems
+├── Important Components of ODQA
+│   ├── Question Understanding
+│   ├── Document Retrieval
+│   ├── Document Reading
+│   ├── Answer Extraction
+│   └── Answer Verification
+├── Evaluation Metrics
+│   ├── Answer Quality
+│   ├── Efficiency
+│   └── Interpretability
+└── Future Research Directions
+    ├── Exploring New Paradigms
+    ├── Leveraging Unstructured and Structured Data
+    ├── Cross Linguistic and Multimodal ODQA
+    └── Improving Efficiency and Interpretability

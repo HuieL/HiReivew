@@ -1,0 +1,27 @@
+The Expressive Power of Graph Neural Networks: A Survey
+├── Expressive Power of GNNs
+│   ├── Weisfeiler-Lehman (WL) Isomorphism Test
+│   │   ├── WL Test and Message Passing GNNs 
+│   │   └── Beyond WL Test 
+│   ├── Graph Level Expressive Power
+│   │   ├── Universal Approximator 
+│   │   ├── Reachability 
+│   │   └── PageRank 
+│   ├── Node Level Expressive Power
+│   │   ├── K Local 
+│   │   ├── K Path Reachable 
+│   │   └── PageRank 
+│   ├── Eigenvalues and Eigenvectors
+│   └── Complexities
+├── Expressive Power in Practice
+│   ├── GNN Variants
+│   │   ├── ChebNet
+│   │   ├── GraphSAGE
+│   │   ├── Graph Attention Networks (GATs)
+│   │   ├── Graph Convolutional Networks (GCNs)
+│   │   └── Graph Isomorphism Networks (GINs)
+│   ├── Data Analysis
+│   │   ├── Real-World Graph Datasets
+│   │   └── Synthetic Graph Datasets
+│   ├── Training
+│   └── Evaluation

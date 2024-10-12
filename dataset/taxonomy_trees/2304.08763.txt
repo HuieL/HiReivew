@@ -1,0 +1,36 @@
+A Survey for Biomedical Text Summarization: From Pre-trained to Large Language Models
+├── Biomedical Text Summarization Tasks
+│   ├── Abstract Generation for Publications
+│   ├── Sentence Tagging
+│   └── Multimodal Summarization
+├── Supervised Learning Methods
+│   ├── Classification
+│   ├── Sequence Labelling
+│   └── Sequence Generation
+├── Deep Learning-based Methods
+│   ├── Neural Network-based Methods
+│   ├── Recurrent Neural Network-based Methods
+│   ├── Convolution Neural Network-based Methods
+│   └── Auto-Encoder-based Methods
+├── Pre-trained Language Models
+│   ├── General Domain Pre-trained Language Models
+│   ├── Biomedical Domain-Specific Language Models
+│   └── Fine-Tuning Strategy
+├── Large Language Models
+│   ├── Pre-trained Language Models
+│   ├── Data Creation Strategy for Training
+│   └── Post-Processing Strategy for Summaries
+├── Automatic Evaluation Metrics
+│   ├── Traditional Metrics
+│   ├── Metrics Based on Embeddings
+│   └── Metrics Based on Pre-trained Models
+├── Datasets and Systems
+│   ├── Datasets
+│   │   ├── Abstract
+│   │   ├── Full Text
+│   │   ├── Clinical Note
+│   │   ├── Patient Information
+│   │   └── Mixture
+│   ├── Open-Source Systems
+│   ├── Closed-Source Systems
+│   └── Medical Decision Systems
