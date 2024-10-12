@@ -3,7 +3,3 @@
 This folder contains survey papers we used from arixv, and cited papers of them are extracted with title and abstract for retrieval and generation. Need to download the graphs and place to the corresponding folder.
 
 **survey_info.txt**: the first col is the arixv id and second col is the title of the survey.
-
-**trees** folder: pyg graph where the first node is a survey and the other nodes are references to the survey.
-
-**graphs** folder: pyg The graph is actually a 2-hop ego-graph for each survey, and the central node (the survey) has been removed.
