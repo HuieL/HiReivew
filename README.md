@@ -1,3 +1,3 @@
 # HiReivew
 
-Will release before Oct 16th.
+Data and code for submission of HiReview: Hierarchical Taxonomy-Driven Automatic Literature Review Generation.
