@@ -1,0 +1,22 @@
+The Oscars of AI Theater: A Survey on Role-Playing with Language Models
+├── Methodologies 
+│   ├── Early Methods
+│   ├── Pre-training Language Models
+│   └── Fine-Tunning Language Models
+├── Application Fields
+│   ├── Game Design
+│   ├── Dialogue Systems
+│   ├── Interactive Storytelling
+│   └── Other Applications
+├── Detection and Analysis of AI Role-Playing
+│   ├── Detection Methods
+│   ├── Evaluation Techniques
+│   └── Analysis of Role-Playing
+├── Open Challenges and Future Directions
+│   ├── Immersion and Consistency
+│   ├── Narrative Understanding and Creativity
+│   ├── Ethics and Policies
+│   └── Interactivity and Adaptability
+└── Conclusion
+    ├── Summary
+    └── Future Perspectives

@@ -1,0 +1,34 @@
+Graph Neural Networks in Epidemic Modeling
+├── Graph Neural Network Fundamental
+│   ├── Graph Convolution Networks (GCN)
+│   ├── ChebNet
+│   ├── GraphSAGE
+│   └── GAT
+├── Epidemic Models
+│   ├── Classical Models
+│   │   ├── SIR
+│   │   ├── SEIR
+│   │   └── SIQR
+│   └── Advanced Models
+│       ├── Network-based Models
+│       └── Deep Learning Models
+├── GNNs for Epidemic Modeling
+│   ├── GCN-based Methods
+│   ├── GraphSAGE-based Methods
+│   ├── GAT-based Methods
+│   └── Other GNN-based Methods
+├── Optimization and Learning Strategies
+│   ├── Reinforcement Learning
+│   ├── Multi-task Learning
+│   ├── Transfer Learning
+│   └── Active Learning
+├── Applications
+│   ├── Prediction of Epidemic Spreading
+│   ├── Optimal Control of Epidemic Spreading
+│   └── Parameter Estimation of Epidemic Models
+└── Challenges and Future Directions
+    ├── Lack of Interpretability
+    ├── Complicated Model Structures and Overfitting Issue
+    ├── Scalability
+    ├── Dynamic Graph Epidemic Modeling
+    └── Multi-modal Data Fusion.

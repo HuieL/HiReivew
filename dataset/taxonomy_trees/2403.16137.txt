@@ -1,0 +1,39 @@
+Self-Supervised Graph Foundation Models: Knowledge-Based Perspective
+├── Self-Supervised Learning for GNN
+│   ├── Contrastive Learning Methods
+│   │   ├── GraphCL
+│   │   ├── GCC
+│   │   ├── InfoGraph
+│   │   ├── Subgraph Contrastive Learning
+│   │   └── DGI
+│   ├── Reconstruction based Methods
+│   │   ├── VGAE
+│   │   ├── PRW
+│   │   └── GRACE
+│   └── Prediction based Methods
+│       ├── GPT-GNN
+│       ├── Graphormer
+│       └── SEAL
+├── Critical Aspects of Self-Supervised GNN Models
+│   ├── Auxiliary Tasks
+│   ├── Augmentation Techniques
+│   ├── Encoder Architectures
+│   └── Loss functions
+├── Applicability
+│   ├── Drug Discovery
+│   ├── Social Network Analysis
+│   ├── Traffic Flow Prediction
+│   └── Document Classification
+├── Evaluation Metrics and Datasets
+│   ├── Evaluation Metrics
+│   ├── Datasets
+│   │   ├── ENZYMES
+│   │   ├── D&D 
+│   │   ├── PROTEINS
+│   │   ├── SBMs, and ZINC
+│   │   └── Amazon, PubMed and Cora
+├── Challenges and Future Directions
+│   ├── Graph Augmentation Challenges
+│   ├── How to best exploit self-supervised learning
+│   └── How to evaluate SSL for GNN
+└── Conclusion

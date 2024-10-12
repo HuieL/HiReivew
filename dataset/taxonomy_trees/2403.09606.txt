@@ -1,0 +1,31 @@
+Large Language Models and Causal Inference in Collaboration
+├── Background
+│   ├── Language Models
+│   │   ├── Autoregressive Models
+│   │   ├── Encoder-decoder Frameworks
+│   │   └── Transformer Architectures
+│   └── Causal Inference
+│       ├── Potential Outcomes Framework
+│       ├── Structural Causal Models
+│       └── Propensity Score Frameworks
+├── Language Models to support Causal Inference
+│   ├── Predicting Treatment Propensity
+│   ├── Balancing Covariates
+│   ├── Text Embeddings in Causal Inference 
+│   └── Treatment Effects Estimation
+├── Causal Inference to improve Language Models
+│   ├── Causal Inference for Model Interpretability 
+│   ├── Causal Inference for Transfer Learning
+│   └── Causal Inference for Model Debiasing 
+├── Applications
+│   ├── Healthcare
+│   ├── Finance
+│   ├── e-Commerce
+│   └── Social Science
+├── Challenges and Future Directions
+│   ├── Causal Identification
+│   ├── Interpretability and Explainability
+│   ├── Fairness and Bias
+│   └── Metasurface Design
+└── Conclusion
+    └── Summary of integrating Language Models and Causal Inference

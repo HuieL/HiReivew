@@ -1,0 +1,37 @@
+Mobile Edge Intelligence for Large Language Models: A Contemporary Survey
+├── Mobility-Aware Large Language Models (LLMs)
+│   ├── Overview of LLMs
+│   │   ├── Transformer Models
+│   │   ├── GPT-3
+│   │   └── BERT系列
+│   ├── LLMs in Mobile Edge Intelligence
+│   └── Challenges
+├── Computation Offloading for LLMs
+│   ├── Overview of Computation Offloading
+│   ├── Offloading Methods for LLMs
+│   │   ├── Cloud-Based Offloading
+│   │   ├── Edge-Device Cooperative Offloading
+│   │   └── Multi-Edge Collaborative Offloading
+│   └── Open Issues
+├── Data Offloading for LLMs
+│   ├── Overview of Data Offloading
+│   ├── Data Offloading Methods for LLMs
+│   │   ├── Device-to-Device
+│   │   ├── Edge-Assisted
+│   │   └── Hybrid
+│   └── Open Issues
+├── Network Slicing for LLMs
+│   ├── Introduction to Network Slicing
+│   ├── Network Slicing for LLMs
+│   │   ├── Soft Network Slicing
+│   │   ├── Hard Network Slicing
+│   │   └── Hybrid Network Slicing
+│   └── Open Issues
+├── Federated Learning for LLMs
+│   ├── Introduction to Federated Learning
+│   ├── FL Models for LLMs
+│   │   ├── On-Device Federated Learning
+│   │   ├── Server-Based Federated Learning
+│   │   └── Hybrid Federated Learning
+│   └── Open Issues
+└── Conclusion & Future Directions

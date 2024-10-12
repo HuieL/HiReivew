@@ -1,0 +1,30 @@
+Enhancing Efficiency in Vision Transformer Networks
+├── Enhancing Efficiency in Vision Transformers
+│   ├── Designing Efficient Vision Transformer Architectures
+│   │   ├── Reducing the Complexity of the Transformer Module
+│   │   │   ├── Lite Transformer
+│   │   │   ├── Compressed Transformers
+│   │   │   ├── Performer
+│   │   │   └── Linformer
+│   │   ├── Exploiting Local Structures in Images
+│   │   │   ├── Swin Transformer
+│   │   │   ├── CvT
+│   │   │   └── PVT
+│   │   └── Improving the Computational Efficiency in Training
+│   │       ├── DeiT
+│   │       └── T2T-ViT
+│   ├── Improving Model Accuracy with Limited Resources
+│   │   ├── Adding Additional Supervisory Signals
+│   │   │   ├── PaDML
+│   │   │   └── DETR
+│   │   ├── Enhancing Initialization and Pre training
+│   │   │   └── DINO
+│   │   └── Increasing Data Efficiency
+│   │       ├── WyPR
+│   │       └── meProp
+│   └── Hardware-specific Methods
+│       ├── FPGA-specific Methods
+│       │   └── Light-ViT
+│       └── Mobile-specific Methods
+│           └── MobileViT
+└── Comparative Analysis & Evaluation

@@ -1,0 +1,35 @@
+Measuring Non-Typical Emotions for Mental Health: Computational Approaches
+├── Machine Learning Techniques
+│   ├── Supervised Learning
+│   ├── Unsupervised Learning
+│   └── Reinforcement Learning
+├── Deep Learning Techniques
+│   ├── Convolutional Neural Networks (CNN)
+│   ├── Recursive Neural Networks (RNN)
+│   ├── Long Short-Term Memory (LSTM)
+│   └── Transformer Networks
+├── Natural Language Processing (NLP)
+│   ├── Lexicon-based approaches
+│   ├── Machine learning-based approaches
+│   └── Deep learning-based approaches
+├── Sentiment Analysis
+│   ├── Text-based Sentiment Analysis
+│   └── Speech-based Sentiment Analysis
+├── Psycholinguistic Analysis
+│   ├── LIWC (Linguistic Inquiry and Word Count)
+│   └── Empath 
+├── Emotion Recognition from Multi-modal Data
+│   ├── Emotion Recognition from Text
+│   ├── Emotion Recognition from Audio
+│   ├── Emotion Recognition from Video
+│   └── Emotion Recognition from Physiological Signals
+├── Data Collection Techniques for Mental Health Research
+│   ├── Social Media Mining
+│   ├── Clinical Interviews and Self-reports
+│   ├── Wearable Devices and Smartphones
+│   └── Online Surveys and Experiments
+└── Evaluation Metrics and Challenges
+    ├── Performance Metrics
+    ├── Ethics and Privacy Concerns
+    ├── Handling Imbalanced Data
+    └── Cross-cultural and Gender Differences

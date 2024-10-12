@@ -1,0 +1,31 @@
+Preserving Privacy in Large Language Models
+├── Threats to Privacy
+│   ├── Inference Attacks
+│   │   ├── Attribute Inference
+│   │   └── Membership Inference
+│   ├── Eavesdropping Attacks
+│   └── Other Potential Threats 
+│       ├── Poisoning Attacks
+│       └── Backdoor Attacks
+├── Privacy Protection Measures
+│   ├── Data Masking
+│   │   ├── Anonymization
+│   │   ├── Pseudonymization
+│   │   └── Data Synthesis
+│   ├── Cryptographic Techniques
+│   │   ├── Secure Multiparty Computation
+│   │   ├── Homomorphic Encryption
+│   │   └── Differential Privacy
+│   ├── Privacy-preserving Machine Learning
+│   │   ├── Federated Learning
+│   │   └── Split Learning
+│   ├── Redaction of Sensitive Information
+│   └── Policy and Regulation Measures
+├── Challenges and Future Directions
+│   ├── Balancing Privacy and Utility
+│   ├── Legal and Ethical Challenges
+│   ├── Technical Challenges
+│   └── Adversarial Machine Learning
+└── Case Studies
+    ├── Privacy in GPT-3
+    └── Privacy in Transformer Models

@@ -1,0 +1,35 @@
+Prompt Engineering in Large Language Models (L-LM)
+├── Categorization of Prompt Engineering
+│   ├── Basic Prompting
+│   │   └── Prompt Designing
+│   └── Advanced Prompting
+│       ├── Optimized Prompting
+│       ├── Dynamic Prompting
+│       ├── Incorporate Prompting
+│       ├── Visual Prompting
+│       ├── Guided Prompting
+│       └── Contrastive Prompting
+├── Applications  
+│   ├── Text Generation
+│   ├── Text Classification
+│   ├── Question Answering
+│   ├── Named Entity Recognition
+│   ├── Sentiment Analysis
+│   ├── Language Translation
+│   ├── Summarization
+│   ├── Dialogue Systems
+│   ├── Topic Modeling
+│   ├── Program Synthesis
+│   ├── Image Generation
+│   └── Drug Discovery
+├── Comparison with Other Techniques
+│   ├── Full Fine-tuning
+│   ├── Linear Probing
+│   ├── Partial Fine-tuning
+│   └── Others
+└── Future Work & Open Questions
+    ├── Effectiveness of Prompts
+    ├── Limitations of Current Prompting Methods
+    ├── New Application Scenarios   
+    ├── Towards Universal Prompting Systems
+    └── Theoretical Understanding

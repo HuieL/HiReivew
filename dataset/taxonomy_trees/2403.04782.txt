@@ -1,0 +1,30 @@
+Temporal Knowledge Graph (TKG) 
+├── TKG Concept 
+│   ├── Definitions
+│   └── Properties
+├── TKG Variants
+│   ├── Static TKG
+│   └── Dynamic TKG
+├── Representation Learning
+│   ├── Embedding Techniques
+│   │   ├── Factorization based Methods
+│   │   ├── Translation based Methods
+│   │   └── Neural Network based Methods
+│   └── Learning Dynamics
+│       ├── Recurrent Models
+│       ├── Temporal Convolutional Models
+│       └── Self-attention Models
+├── Applications of TKG
+│   ├── Temporal Link Prediction
+│   ├── Temporal Entity Alignment
+│   ├── Temporal Question Answering
+│   └── Temporal Path Querying
+├── Evaluation Metrics
+│   ├── Link Prediction Metrics
+│   ├── Ranking Metrics
+│   └── Classification Metrics
+└── Future Directions
+    ├── Handling Uncertainty in TKGs
+    ├── Improving Temporal Information Utilization 
+    ├── Enhancing Embedding Techniques
+    └── Exploring more real world applications

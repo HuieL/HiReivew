@@ -1,0 +1,29 @@
+Gradient-based Feature Attribution in Explainable AI
+├── Feature Attribution Methods
+│   ├── Gradient-based Methods
+│   │   ├── Simple Gradient
+│   │   ├── Integrated Gradients
+│   │   ├── Grad-CAM and variants
+│   │   └── SmoothGrad
+│   ├── Perturbation-based Methods
+│   ├── Surrogate-based Methods
+│   └── Influence-based Methods
+├── Evaluation of Feature Attribution Methods
+│   ├── Quantitative Evaluation
+│   │   ├── Faithfulness
+│   │   ├── Monotonicity
+│   │   └── Stability
+│   ├── Qualitative Evaluation
+│   │   ├── Visual Interpretability
+│   │   └── User Studies
+│   └── Comparison with Other Methods
+├── Applications in Different Domains
+│   ├── Image Classification
+│   ├── Text Classification
+│   ├── Healthcare
+│   ├── Finance
+│   └── Cybersecurity
+└── Future Directions
+    ├── Dealing with Limitations of Gradient-based Methods
+    ├── Enhancing Explainability with Alternative Methods
+    └── The Interplay of Ethics and Explainability

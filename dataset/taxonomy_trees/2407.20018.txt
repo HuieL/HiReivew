@@ -1,0 +1,31 @@
+Efficient Training of Large Language Models on Distributed Infrastructures
+├── Training Infrastructure
+│   ├── Single-node GPU Systems
+│   ├── Distributed GPU Systems
+│   │   ├── Commodity Clusters
+│   │   └── Specialized Supercomputers
+│   └── Cloud-based Infrastructures
+├── Distributed Data Parallelism
+│   ├── Synchronous Training
+│   │   ├── Ring All-reduce
+│   │   └── Hierarchical All-reduce
+│   ├── Asynchronous Training
+│   └── Hybrid Approach
+├── Training Workflows
+│   ├── Model Parallelism
+│   │   ├── Pipeline Model Parallelism
+│   │   └── Tensor Model Parallelism
+│   ├── Mixed Precision Training
+│   │   ├── Tensor Core Utilization
+│   │   └── Gradient Scalar
+│   ├── Adaptive Learning Rate Algorithms
+│   ├── Layer-wise Learning and Normalization Techniques
+│   ├── Model Pruning and Quantization
+│   └── Energy-efficient Training Methodologies
+├── Future Directions
+│   ├── Scalable and Efficient Inter-connect
+│   ├── Efficient Accelerators
+│   └── Software optimizations
+└── Conclusion
+    ├── Summary
+    └── Future Prospects

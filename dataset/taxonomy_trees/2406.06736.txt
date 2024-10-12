@@ -1,0 +1,23 @@
+Long-Term Fairness Inquiries and Pursuits in Machine Learning: A Survey of Notions, Methods, and Challenges
+├── Fairness Notions
+│   ├── Immediate Fairness Notions
+│   │   ├── Group Fairness
+│   │   ├── Individual Fairness
+│   │   └── Intersectional Fairness
+│   └── Long-Term Fairness Notions
+│       ├── Notions from Economics
+│       └── Notions from Game Theory and Reinforcement Learning
+├── Long-Term Fairness Metrics
+│   ├── Outcome Difference Metrics
+│   ├── Opportunity Difference Metrics
+│   └── Residual Impact Metrics
+├── Methods for Long-Term Fairness 
+│   ├── Pre-processing Methods
+│   ├── In-processing Methods
+│   └── Post-processing Methods
+└── Challenges and Future Directions
+    ├── Limited Data Availability
+    ├── The Dynamics of Long-Term Fairness
+    ├── The Role of Time in Long-Term Fairness
+    ├── Intersectionality and Long-Term Fairness
+    └── Managing Trade-offs Between Accuracy and Fairness

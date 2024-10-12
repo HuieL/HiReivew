@@ -1,0 +1,48 @@
+Element-Wise Representation and Reasoning in Zero-Shot Image Recognition
+├── Basic Concepts
+│   ├── Zero-Shot Learning (ZSL)
+│   ├── Generalized Zero-Shot Learning (GZSL)
+│   └── Transductive Zero-Shot Learning (TZSL)
+├── Approaches
+│   ├── Embedding-based methods
+│   │   ├── Following the early embedding-based methods
+│   │   ├── Semantic input derived from class names
+│   │   ├── Semantic input using textual description
+│   │   │   ├── Text-prototype-based methods
+│   │   │   └── Cognition-based methods
+│   │   ├── Semantic input from alternative sources
+│   │   └── Attribute-based ZSL methods
+│   ├── Discriminative ZSL methods
+│   │   ├── The softmax function in classification
+│   │   └── The loss function in training
+│   ├── Generative ZSL methods
+│   │   ├── GANs based methods
+│   │   └── Cycle-GAN based methods
+│   └── Hybrid ZSL methods
+├── Evaluation Metrics
+│   ├── Conventional ZSL
+│   ├── Generalized ZSL
+│   └── Comparison to state-of-the-art methods
+├── Benchmark Datasets
+│   ├── Standard ZSL datasets
+│   │   ├── Animals With Attributes (AWA)
+│   │   ├── SUN Attribute (SUN)
+│   │   ├── CUB-200-2011
+│   │   └── aPascal/aYahoo (aPY)
+│   ├── Non-standard ZSL datasets
+│   │   ├── ImageNet
+│   │   ├── MS COCO
+│   │   ├── Places
+│   │   └── Large Scale Visual Recognition Challenge (LSVRC) 
+│   ├── GZSL datasets
+│   │   ├── NABirds
+│   │   ├── xMedia
+│   │   └── iNaturalist 
+│   └── Deeply-supervised datasets
+│       ├── DeepFashion
+│       └── Cars
+└── Challenges and Future Directions
+    ├── Limitation of semantic representations
+    ├── Limitation of model complexity
+    ├── How to make ZSL more practical
+    └── How to construct more meaningful GZSL datasets

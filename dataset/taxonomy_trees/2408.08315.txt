@@ -1,0 +1,41 @@
+Segment Anything for Videos
+├──Video Segmentation Approaches
+│  ├──Supervised Learning
+│  │   ├──Semantic Segmentation
+│  │   │   ├──Per-Pixel Classification Models
+│  │   │   ├──Recurrent Models
+│  │   │   └──Mutable Models
+│  │   └──Instance Segmentation
+│  ├──Unsupervised Learning
+│  │   ├──Hand-Crafted Features & Motion Estimation
+│  │   ├──Clustering & Pseudo Labelling
+│  │   └──Self-Supervised Learning
+│  └──Weakly-Supervised Learning
+│      ├──Using Images
+│      ├──Using Text
+│      └──Using Scribbles
+├──Datasets and Benchmarks
+│  ├──Supervised Semantic Segmentation
+│  ├──Supervised Instance Segmentation
+│  ├──Unsupervised Semantic Segmentation
+│  ├──Unsupervised Instance Segmentation
+│  └──Weakly-supervised Semantic & Instance
+├──Evaluation Metrics
+│  ├──Pixel-level Metrics
+│  ├──Object-level Metrics
+│  └──Boundary-level Metrics
+├──Applications
+│  ├──Autonomous Driving
+│  ├──Robotics
+│  ├──Human-Computer Interaction
+│  ├──Sports Analysis
+│  ├──Healthcare
+│  └──Media Production
+└──Challenges and Opportunities
+    ├──Improvements on Existing Methods
+    ├──Need for Broad Benchmarks
+    ├──Real-Time Segmentation
+    ├──Scalability to Diverse Objects
+    ├──Domain Adaptation & Generalization
+    ├──Use of Less Annotated Data
+    └──Integration with Higher-Level Tasks

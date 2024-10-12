@@ -1,0 +1,45 @@
+Datasets for Large Language Models
+├── Evaluation Metrics for Datasets
+│   ├── Diversity of the dataset
+│   ├── Dataset size
+│   ├── Costs of creation
+│   └── Bias and fairness
+├── Type of Datasets
+│   ├── Pre-training datasets
+│   │   ├── Books datasets
+│   │   ├── Web datasets
+│   │   │   ├── Common Crawl
+│   │   │   ├── ClueWeb09
+│   │   │   └── Wikipedia
+│   │   └── Other datasets
+│   │       ├── Toronto Book Corpus
+│   │       ├── Wikipedia
+│   │       └── BookCorpus
+│   └── Fine-tuning datasets
+│       └── Popular benchmarks
+│           ├── SuperGLUE
+│           ├── GLUE
+│           ├── SQuAD
+│           ├── OpenWebText
+│           └── Other benchmarks (Wikidata, ImageClef, etc.)
+├── Dataset Curation Methods
+│   ├── Data Collection
+│   ├── Data Cleaning
+│   └── Data Labeling
+├── Content Characteristics of Datasets
+│   ├── Language Characteristics
+│   ├── Genre Characteristics
+│   ├── Contextual Information
+│   └── Modalities of the Data
+├── Biases in Datasets
+│   ├── Detection of Biases
+│   ├── Measurement of Biases
+│   └── Mitigation Strategies for Biases
+├── Legal and Ethical Considerations
+│   ├── Privacy Concerns
+│   ├── Copyrights
+│   └── Ethical Practices
+└── Discussion and Future Directions
+    ├── The need for diverse datasets
+    ├── New methodologies for dataset construction
+    └── Ethical considerations in future dataset design

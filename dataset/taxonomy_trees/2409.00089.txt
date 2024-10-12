@@ -1,0 +1,36 @@
+Watermarking Techniques for Large Language Models
+├── Basics of Watermarking
+│   ├── Traditional Watermarking
+│   ├── Deep Learning-based Watermarking
+│   └── Adversarial Watermarking
+├── Watermarking Techniques
+│   ├── Model Watermarking
+│   │   └── Techniques
+│   │       ├── Backdoor Injection
+│   │       ├── Parameter Encoding
+│   │       └── Side Information
+│   └── Data Watermarking
+│       └── Techniques
+│           ├── Generative Models
+│           ├── Adversarial Noise
+│           └── Label Manipulation
+├── Watermarking in NLP
+│   ├── Challenges in NLP Models
+│   │   ├── Black-box Access
+│   │   ├── White-box Access
+│   │   └── Transferability of Watermarks
+│   └── Watermarking Techniques for NLP
+├── Evaluation Metrics
+│   ├── Robustness
+│   ├── Fidelity
+│   │   └── Perceptual Quality
+│   └── Capacity
+├── Applications and Use-Cases
+│   ├── Ownership Verification
+│   ├── Protection against Model Theft
+│   └── Ensuring Data Privacy
+└── Future Directions
+    ├── Exploring New Watermarking Techniques
+    ├── Building Robust and Fidelity Watermarks
+    ├── Developing Watermarking Standards
+    └── Enhancing Real-world Utility

@@ -1,0 +1,48 @@
+Large Language Models for Education (LLE)
+├── Tools Supported by LLE
+│   ├── Textbook Authoring
+│   ├── Motivation and Engagement
+│   ├── Virtual Tutors
+│   │   ├── Explanations
+│   │   └── For Students
+│   ├── Content Generation
+│   ├── Grading and Assessment
+│   ├── Revision Suggestions
+│   └── Plagiarism Detection
+├── Techniques in LLE
+│   ├── Supervised Learning
+│   │   ├── Open-domain Questions
+│   │   ├── Multidomain Questions
+│   │   └── Science and Math Questions
+│   ├── Reinforcement Learning
+│   │   ├── Reward Shaping
+│   │   ├── Curriculum Learning
+│   │   └── Metrics and Evaluation
+│   ├── Learning from Demonstration
+│   │   ├── Dataset Engineering
+│   │   ├── Pre-training
+│   │   └── Fine-tuning
+│   └── Unsupervised Learning
+│       ├── Sentence Completion
+│       ├── Natural Language Understanding
+│       └── Natural Language Generation
+├── Evaluation Platforms and Metrics in LLE
+│   ├── Simulator-Based Evaluation
+│   ├── Cross-Lingual Understanding
+│   ├── Moral Character
+│   │   ├── Gender Bias
+│   │   └── Race and Ethnicity Bias
+│   └── Appropriateness and Reliability
+├── Applications of LLE
+│   ├── Extracurricular Education
+│   ├── Language Learning
+│   ├── Programming Help
+│   ├── Reading Aid
+│   └── Identifying Needs of Students
+└── Future Outlook
+    ├── Aligning with Curriculum Standards
+    ├── Interactivity and Dialog Systems
+    ├── Personalization and Adaptivity
+    ├── Explainable LLE
+    ├── Privacy and Security
+    └── Regulation and Policy

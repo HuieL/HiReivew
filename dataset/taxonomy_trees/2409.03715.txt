@@ -1,0 +1,45 @@
+Applications and Advances of Artificial Intelligence in Music Generation: A Review
+├── Music Generation 
+│   ├── Overview
+│   ├── Challenges 
+│   ├── Evaluation Metrics
+│   │   ├── Perceptual Ratings
+│   │   ├── Objective Metrics
+│   │   ├── Statiscs of Notes
+│   │   └── Structural Metrics
+│   └── Music Generation Systems
+├── Rule-Based Systems
+│   ├── Markov Chains
+│   ├── Grammars
+│   ├── Genetic Algorithms
+│   ├── Chaos And Fractals
+│   ├── Cellular Automata
+│   ├── Swarm Intelligence
+│   └── Nature-Inspired Algorithms
+├── AI and Machine Learning
+│   ├── Overview
+│   ├── Application and Techniques
+│   │   ├── Probabilistic Models
+│   │   ├── Reinforcement Learning
+│   │   ├── Unsupervised Learning
+│   │   ├── Bayesian Networks
+│   │   ├── Training Neural Networks
+│   │   └── Transforming Autoencoders
+│   └── Neural Networks in Music Generation
+├── Deep Learning
+│   ├── Overview
+│   ├── Advances and Applications in Music Generation
+│   │   ├── Recurrent Neural Network
+│   │   ├── Long Short-Term Memory Networks
+│   │   ├── Convolutional Neural Networks
+│   │   ├── Variational Autoencoders
+│   │   ├── Transformers
+│   │   └── Generative Adversarial Networks
+│   └── Evaluation Metrics for Deep Learning
+├── Future Trends
+│   ├── Overview
+│   ├── Interactive Music Generation
+│   ├── Learning from Less Data
+│   ├── Music Understanding
+│   └── Transdisciplinary Opportunities
+└── Conclusion & Future Work.

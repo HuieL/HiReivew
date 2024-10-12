@@ -1,0 +1,32 @@
+The Pursuit of Fairness in Artificial Intelligence Models: A Survey
+├── Background and Introduction
+├── Terminology Clarification
+│   ├── Fairness in Machine Learning
+│   └── Discrimination Measures
+├── Overview of Fairness in Machine Learning 
+│   ├── Overview of Discrimination Types
+│   ├── Adversarial Learning
+│   └── Privacy Preserving Learning
+├── Fairness in Diverse Applications
+│   ├── Credit Scoring
+│   ├── Recommender Systems
+│   ├── Medical Applications
+│   ├── Hiring Decisions
+│   ├── Criminal Justice Decisions
+│   └── Search Engines
+├── Discrimination Discovery and Removal Approaches
+│   ├── Preprocessing Approaches
+│   ├── In-Processing Approaches
+│   └── Post-processing Approaches
+├── Result Analysis: Comparing the Fairness of Different Models
+│   ├── Multiple Model Result Analysis
+│   └── Single Model Result Analysis
+├── Fairness Measures in Machine Learning
+│   ├── Individual Fairness Measures
+│   ├── Group Fairness Measures
+│   └── Miscellaneous Fairness Measures
+├── Challenges and Future Directions
+│   ├── Fairness Dataset Challenges & Future Development
+│   ├── Fairness Discrimination Measure Challenges & Future Development
+│   └── Fairness Removal Approach Challenges & Future Development
+└── Conclusion.

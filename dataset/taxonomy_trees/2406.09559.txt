@@ -1,0 +1,40 @@
+Indic AI Research Landscape
+├── Indic Artificial Intelligence
+│   ├── 16 Indic Scripts
+│   ├── 22 Scheduled Languages
+│   └── Thousands of Dialects
+├── Literature Review
+│    ├── Sanskrit Computational Linguistics
+│    └── Modern Indic Languages
+├── Datasets and Resources
+│   ├── Textual Datasets
+│   │   ├── Raw Monolingual Corpora
+│   │   ├── Parallel Corpora
+│   │   ├── Dictionaries
+│   │   ├── Word/Phrase Similarity and Relatedness
+│   │   ├── Sentiment Analysis and Opinion Mining
+│   │   ├── Parsing and Syntactic Annotation
+│   │   ├── Summarization
+│   │   └── Dialogs and Question-Answering
+│   ├── Speech Datasets
+│   ├── Visual Datasets
+│   │   ├── Images and Vision
+│   │   └── Videos
+│   └── Multimodal Datasets
+├── Methodologies, Tools, and Solutions
+│   ├── Text Processing and Analysis
+│   ├── Speech and Audio
+│   └── Vision and Videos
+├── Evaluation of Systems
+│   ├── Competitions and Shared Tasks
+│   │   ├── Text Processing Competitions
+│   │   ├── Speech Processing Competitions
+│   │   └── Vision and Video Processing Competitions
+│   └── Evaluation Metrics
+│       ├── Text
+│       ├── Speech and Audio
+│       └── Vision and Video
+└── Future Directions
+    ├── Low Resource Languages
+    ├── Multimodal Systems
+    └── Cultural Sensitivity and Ethical AI

@@ -1,0 +1,26 @@
+Controllable Generation with Text-to-Image Diffusion Models
+├── Denoising Score Matching
+│   ├── Score Matching
+│   └── Denoising Score Matching Framework
+├── The Diffusion Process in Text-to-Image generation
+│   ├── Forward and Backward Processes
+│   └── Sampling from the Model
+├── Diffusion Model Architectures
+│   ├── UNet-based Architectures
+│   ├── ViT-based Architectures
+│   └── Hybrid Architectures
+├── Guiding Text-to-Image Diffusion
+│   ├── Attention Mechanisms
+│   ├── Auxiliary Losses
+│   ├── Conditioning Schemes
+│   └── Advanced Techniques
+├── Controllable Generation
+│   ├── Style Control
+│   ├── Layout Control
+│   └── Fine-grained Attribute Control
+├── Evaluation Metrics and Datasets
+│   ├── Evaluation Metrics
+│   └── Datasets
+└── Applications and Future Directions
+    ├── Applications
+    └── Future Directions

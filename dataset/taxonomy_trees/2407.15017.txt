@@ -1,0 +1,36 @@
+Knowledge Mechanisms in Large Language Models
+├── Explicit Knowledge Mechanisms
+│   ├── Knowledge Graph (KG)
+│   │   ├── KG based Graph Neural Networks
+│   │   ├── KG based Transformer Model
+│   │   └── KG based Pre-training Knowledge Enhanced Models
+│   └── Textual Knowledge Representations
+│       ├── Knowledge rich pre-training corpora
+│       ├── Contextualized knowledge infusion
+│       └── Knowledge based multi-step reasoning
+├── Implicit Knowledge Mechanisms
+│   ├── Pre-training Strategies
+│   │   ├── Masked Language Modeling (MLM)
+│   │   ├── Permutation Language Modeling (PLM)
+│   │   ├── Replacement Token Detection (RTD)
+│   │   ├── Electra
+│   │   └── Translation Language Modeling (TLM)
+│   └── Model Architectures
+│       ├── Recurrent Neural Network (RNN)
+│       ├── Transformer Model
+│       ├── Different Scale of Models
+├── Hybrid Knowledge Mechanisms
+│   ├── External Knowledge Integration
+│   │   ├── Commonsense knowledge
+│   │   ├── Domain knowledge
+│   │   ├── Multiple knowledge
+│   │   └── Visual knowledge
+│   └── Pre-training fine-tuning Paradigm
+│       ├── Few-shot learning
+│       ├── Multitask learning
+│       └── Lifelong learning
+└── Perspective and Future Directions
+    ├── Model Interpretability
+    ├── Environmental Footprint
+    ├── Abuse and Misinformation
+    └── Legal and Ethical Implications

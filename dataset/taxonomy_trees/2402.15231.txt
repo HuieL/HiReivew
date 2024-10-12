@@ -1,0 +1,20 @@
+Transferability Estimation 
+├── Transferability Estimation Methods
+│   ├── Instance-based Methods
+│   ├── Model-based Methods
+│   │   ├── Direct Estimation Methods
+│   │   └── Indirect Estimation Methods
+│   └── Dataset-based Methods
+│       ├── Feature Representation Distance
+│       ├── Dataset Dissimilarity
+│       └── Other Related Work
+├── Applications and Strategies of Transferability Estimation
+│   ├── Model Selection
+│   ├── Dataset Recommendation
+│   ├── Accurate Estimation of Predictive Accuracy in Classic Tasks
+│   └── Accurate Estimation of Predictive Accuracy in Prevailing Learning Scenarios
+└── Future Research directions
+    ├── Balanced Learning and Transferability Estimation
+    ├── Cross-domain Transferability Estimation
+    ├── Explainable Transferability Estimation
+    └── Integration of Multiple Indicators

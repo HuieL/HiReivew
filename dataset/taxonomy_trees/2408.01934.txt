@@ -1,0 +1,29 @@
+A Survey and Evaluation of Adversarial Attacks for Object Detection
+├── Types of Adversarial Attacks
+│   ├── Black-box Attacks
+│   ├── White-box Attacks
+│   ├── Gray-box Attacks
+│   └── Universal Adversarial Attack
+├── Adversarial Attack Approaches
+│   ├── Gradient-based Methods
+│   │   ├── Fast Gradient Sign Method
+│   │   └── Iterative Gradient Sign Method
+│   ├── Optimization-based Methods
+│   │   ├── Deepfool
+│   │   └── Carlini & Wagner (C&W) Method
+│   └── Generative Adversarial Networks (GANs)-based Method
+├── Evaluation Metrics
+│   ├── Adversarial Robustness
+│   ├── Transferability
+│   └── Visual Quality of the Adversarial Examples
+├── Defense Mechanisms
+│   ├── Gradient Obfuscation
+│   ├── Proactive Defense
+│   ├── Certifiable Defenses
+│   └── Detector-based Defense
+└── Challenges and Future Directions
+    ├── Imperceptibility
+    ├── Physical-world Attacks
+    ├── Attack on Different Object Detection Networks
+    ├── Time-constrained Situations
+    └── Against Defenses

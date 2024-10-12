@@ -1,0 +1,27 @@
+Out-Of-Distribution Adaptation on Graphs (OODA)
+├── Out-Of-Distribution Adaptation for Graphs
+│   ├── Out-Of-Distribution Adaptation in node classification
+│   ├── Out-Of-Distribution Adaptation in graph classification
+│   │   ├── Certified robustness and Out-Of-Distribution Adaptation
+│   │   └── Feature generalization improvement
+│   ├── Out-Of-Distribution Adaptation in graph generation
+│   │   └── Adversarial robustness improvement
+│   └── Out-Of-Distribution Adaptation in graph embedding
+├── Methodology of Out-Of-Distribution Adaptation
+│   ├── Dataset shift
+│   ├── Subgraph generation
+│   ├── Meta-learning
+│   ├── Data augmentation
+│   └── Domain adaptation
+├── Evaluation Protocols
+│   ├── Out-Of-Distribution Adaptation Evaluation metrics
+│   │   ├── Generalization error 
+│   │   └── Hypothesis testing 
+│   ├── Out-Of-Distribution Adaptation Evaluation datasets 
+├── Theoretical Analysis
+│   ├── Theoretical generalization bounds
+│   ├── Certifiably OOD robustness
+└── Discussion and Prospects
+    ├── Challenges in Out-Of-Distribution Adaptation
+    ├── Possible Future Directions
+    └── Final Remarks

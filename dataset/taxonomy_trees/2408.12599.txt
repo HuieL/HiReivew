@@ -1,0 +1,37 @@
+Controllable Text Generation for Large Language Models: A Survey
+├── Text Generation as a Search Problem
+│   ├── Beam Search
+│   ├── Top-k Sampling
+│   ├── Top-p Sampling
+│  │   └── Advanced Strategies
+├── Text Generation as a Learning Problem
+│   ├── Decoder-only Models
+│   └── Encoder-decoder Models
+├── Control over Content
+│   ├── Input Conditioning Methods
+│   │   ├── Control Tokens
+│   │   ├─ Prompt-based Techniques
+│   │   ├─ Dialogue Systems
+│   │   ├─ Pretraining with Control Tokens
+│   │   └── Planning
+│   ├── Post-processing methods
+├── Control over Style
+│   ├── Neural Style Transfer for Text
+│   │   ├── Unpaired Style Transfer
+│   │   └── Paired Style Transfer
+│   ├── Expressing Style through Constraints
+│   │   ├── Genre and Form Constraints
+│   │   └── Surface Level Constraints 
+│   ├── Adversarial Style Control
+├── Control over Length
+│   ├── Prescribed Length Control
+│   └── Relative Length Control
+├── Control over Narrative Point of View
+├── Evaluation of Controllable Text Generation
+│   ├── Automated Metrics
+│   ├── Token Overlap Metrics
+│   ├── Embedding Overlap Metrics
+│   ├── Style Transfer Evaluation Metrics
+│   ├── Human Evaluation
+└── Challenges and Future Directions
+

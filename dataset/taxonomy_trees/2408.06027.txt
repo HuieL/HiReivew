@@ -1,0 +1,43 @@
+EEG-Based Emotion Recognition: A Graph-Based Perspective
+├── EEG-Based Emotion Recognition
+│   ├── Applications of Emotion Recognition
+│   ├── Physical-Based Emotion Recognition
+│   └── Neurological-Based Emotion Recognition
+│       ├── EEG (Electroencephalography)
+│       └── fMRI (Functional Magnetic Resonance Imaging)
+├── Graph Signal Processing
+│   ├── Matrix-Based Methods
+│   └── Operator-Based Methods
+├── Graph Construction
+│   ├── Rules
+│   ├── Data-Driven
+│   └── Hybrid Construction
+├── Graph Neural Networks
+│   ├── Recurrent GNNs
+│   ├── Convolutional GNNs
+│   └── Graph Auto-Encoders
+│       ├── Encoder-Decoder Architecture
+│       └── Variational and Adversarial GAEs
+├── Applications in EEG-Based Emotion Recognition
+│   ├── Single-Graph Based Models
+│   └── Multi-Graph Based Models
+│       ├── Multi-modal Fusion
+│       ├── Temporal Fusion
+│       └── Spatial Fusion
+├── Experimental Designs and Datasets
+│   ├── Experimental Settings
+│   ├── Baseline Methods
+│   │   ├── Traditional ML/DL Methods
+│   │   ├── Single-Graph Models
+│   │   └── Multi-Graph Models
+│   └── Datasets
+│       ├── DEAP Dataset
+│       ├── SEED Dataset
+│       ├── Emotion-EEG Dataset
+│       └── MAHNOB-HCI Dataset
+└── Conclusion and Future Directions
+    ├── Conclusion
+    └── Future Directions
+        ├── Multi-modal Fusion
+        ├── Temporal Fusion
+        └── Spatial Fusion

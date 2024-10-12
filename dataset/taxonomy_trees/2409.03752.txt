@@ -1,0 +1,29 @@
+Attention Heads of Large Language Models: A Survey
+├── Attention in Large Language Models
+│   ├── Multi-Head Self-Attention
+│   ├── Particular Attention Heads
+│   ├── Relation to Human Language Understanding
+│   └── Characteristics of Attention Heads
+├── Study of Attention Heads
+│   ├── Probing Techniques
+│   │   ├── Static Probing
+│   │   └── Dynamic Probing
+│   ├── Analysis Through Visualization
+│   ├── Interpretability Through Attention Heads
+│   ├── Attention Pattern Skews
+│   └── Comparison of Attention Heads in Different Models
+├── Attention Heads' Effects on Performance
+│   ├── Impact on Model Responsiveness
+│   ├── Ablation Studies
+│   └── Fine-tuning with Selective Heads
+├── Pruning and Compression of Attention Heads
+│   ├── Attention Head Pruning Techniques
+│   ├── Model Compression and Distillation with Pruned Heads
+│   └── Redundancy Among Attention Heads
+├── Limitations and Pitfalls
+│   ├── Over-Interpretation of Attention Maps
+│   ├── Limitations of Probing Techniques
+│   └── Overemphasis on Specific Attention Heads
+└── Conclusion
+    ├── Prospects for Future Research
+    └── Final Remarks

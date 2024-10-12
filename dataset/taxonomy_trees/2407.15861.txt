@@ -1,0 +1,28 @@
+Adversarial Attacks and Defenses on Text-to-Image Diffusion Models
+├── Background and Terminologies
+│   ├── Diffusion Models
+│   └── Adversarial Attacks and Defenses
+│       ├── Adversarial Attacks
+│       └── Adversarial Defenses
+├── Adversarial Attacks on Text-to-Image Diffusion Models
+│   ├── Attack Types
+│   |   ├── White-box Attacks
+│   |   └── Black-box Attacks
+│   └── Attack Techniques
+│       ├── Fast Gradient Sign Method (FGSM)
+│       ├── Basic Iterative Method (BIM)
+│       ├── Carlini and Wagner Attack (C&W)
+│       └── Jacobian-based Saliency Map Attack (JSMA)
+├── Adversarial Defenses on Text-to-Image Diffusion Models
+│   ├── Defense Mechanisms
+│   |   ├── Adversarial Training
+│   |   ├── Gradient Masking
+│   |   ├── Defensive Distillation
+│   |   └── Certified Defenses
+│   └── Evaluation of Defenses
+├── Open Issues and Research Opportunities
+│   ├── Enhancing Attack Efficiency
+│   ├── Developing More Robust Defenses
+│   ├── Benchmark Datasets and Evaluation Metrics
+│   └── Practical Application Security
+└── Conclusion

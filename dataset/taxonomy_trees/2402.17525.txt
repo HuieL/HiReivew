@@ -1,0 +1,44 @@
+Diffusion Model-Based Image Editing
+├── Basics of Diffusion Models
+│   ├── Motivation of Using Diffusion Models
+│   ├── Basics of Probability Theory and Stochastic Processes
+│   │   ├── Markov Chain
+│   │   ├── Reversibility and Detailed Balance
+│   │   └── Fokker-Planck Equation & Ito’s Lemma
+│   └── Basics of Diffusion Models
+│       ├── Forward Process
+│       ├── Reverse Process
+│       └── Training of Diffusion Models
+├── Early Works on Diffusion Models
+│   ├── Non-Generative Models
+│   ├── Generative Diffusion Models
+│   └── Denoising Diffusion Models
+├── Advanced Techniques for Diffusion Models
+│   ├── Speeding Up Sampling
+│   ├── Enhanced Variational Inference
+│   ├── Score Matching-based Methods
+│   └── Other Technique Improvements
+├── Categories of Diffusion Models
+│   ├── Unconditional Models
+│   ├── Class-Conditional Models
+│   ├── Unconditional with Auxiliary Variables Models
+│   └── Class-conditional with Auxiliary Variables Models
+├── Applications of Diffusion Models
+│   └── Image Editing
+│       ├── Inpainting
+│       ├── Outpainting
+│       ├── Super-resolution
+│       ├── Animated Sequence Generation
+│       ├── Harmonization
+│       ├── Relighting
+│       ├── Restoration
+│       ├── Deblur
+│       └── Noise Reduction
+├── Evaluations and Benchmarks
+│   └── Evaluation Metrics
+│       ├── Quantitative Metrics
+│       ├── Qualitative Metrics
+│       └── User studies
+└── Perspectives and Future Directions
+    ├── Challenges and Opportunities
+    └── Potential Research Directions

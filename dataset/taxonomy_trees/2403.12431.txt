@@ -1,0 +1,34 @@
+Geometric Constraints in Deep Learning Frameworks
+├── Geometric Transformation Models
+│   ├── Differential Models
+│   │   ├── Affine Transforms
+│   │   ├── Thin-Plate Splines
+│   │   └── Learnable Mesh
+│   └── Non-Differential Models
+│       ├── Random Elastic Deformations
+│       └── Projective Transformations
+├── Encoding Schemes for Geometric Transformations
+│   ├── Direct Transformation Parameters
+│   ├── Spatial Transformer Networks
+│   └── Raster Scan Order Operations
+├── Optimization Methods for Geometric Constraints
+│   ├── Gradient-Based Optimizations
+│   └── Loss-Function-Based Optimizations
+├── Applications 
+│   ├── Image Recognition
+│   ├── Image Segmentation
+│   ├── Object Detection
+│   ├── Human Pose Estimation
+│   ├── Facial Landmark Detection
+│   └── Medical Image Analysis
+├── Techniques for Geometric Constraints in Deep Learning
+│   ├── Fully Convolutional Networks
+│   ├── U-Net
+│   ├── DeepLabv3+
+│   ├── Mask R-CNN
+│   └── Spatial Transformer Networks
+└── Open Challenges and Future Works
+    ├── Unexplored Geometric Transformations
+    ├── Handling Multiple Geometric Transformations
+    ├── Improved Geometric Constraint Techniques
+    └── Ethical and Responsible use of Geometric Constraints

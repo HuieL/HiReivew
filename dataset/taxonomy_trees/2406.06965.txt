@@ -1,0 +1,30 @@
+Deepfake Detection
+├── Definition of Deepfake
+│   └── Evolution of Deepfake
+├── Threats posed by Deepfake
+│   ├── Economic Impact
+│   ├── Political Impact
+│   └── Social Impact
+├── Deepfake Detection Methods
+│   ├── Single-modal Deepfake Detection
+│   │   ├── Image-based Approaches
+│   │   └── Video-based Approaches
+│   ├── Multi-modal Deepfake Detection
+│   │   ├── Audio-visual Approaches
+│   │   └── Text-image Approaches
+│   └── Hybrid Approaches
+├── Open issues and Future Directions
+│   ├── Interpretable Deepfake Detection
+│   ├── Cross-media Deepfake Detection
+│   ├── Adversarial Learning
+│   └── Privacy-Preserving
+└── Benchmark Datasets and Evaluation Metrics
+    ├── Single-modal Datasets
+    │   ├── Image-based
+    │   ├── Video-based
+    │   └── Audio-based
+    ├── Multi-modal Datasets
+    └── Evaluation Metrics
+        ├── Binary Classification Metrics
+        ├── Multi-class Classification Metrics
+        └── Score Normalization.

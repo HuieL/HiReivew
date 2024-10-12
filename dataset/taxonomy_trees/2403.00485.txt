@@ -1,0 +1,46 @@
+Geometric Graph Neural Networks (GNNs)
+├── Preliminaries
+│   ├── Graph Theory
+│   ├── Graph Convolutional Networks (GCNs)
+│   │   ├── Spectral-based GCNs
+│   │   └── Spatial-based GCNs
+│   └── Graph Data Structures
+│       ├── Symmetric Matrices
+│       └── Sparse Matrices
+├── GNN Models
+│   ├── Node Embedding Models
+│   │   ├── GraphSAGE
+│   │   ├── Graph Attention Networks (GATs)
+│   │   └── Graph Isomorphism Networks
+│   ├── Graph Embedding Models
+│   │   ├── Graph Neural Network (GNN)
+│   │   └── Graph Convolutional Network (GCN)
+│   └── Hierarchical Graph Pooling
+│       ├── DiffPool
+│       └── Graph U-Nets
+├── Geometric Deep Learning
+│   ├── Geometric Representation Learning
+│   │   ├── Graph Representation Learning
+│   │   └── Manifold Learning
+│   ├── Geometrically Centralized Models
+│   │   ├── ThoughtNet
+│   │   └── Imaginet
+│   └── Geometrically Decentralized Models
+│       ├── Capsule Networks
+│       └── Transformer Networks
+├── Applications
+│   ├── Scientific and Engineering Applications
+│   │   ├── Quantum Chemistry
+│   │   └── Protein Interaction Prediction
+│   ├── Social Network Analysis
+│   ├── Recommendation Systems
+│   └── Fraud Detection
+└── Conclusion
+    ├── Open Issues and Challenges
+    │   ├── Large-Scale Graph Learning
+    │   ├── Dynamic Graph Learning
+    │   └── Graph Learning with Noisy Labels
+    ├── Future Directions
+    │   ├── Practical Application Development
+    │   └── Interdisciplinary Research Promotions
+    └── Summary of Survey.

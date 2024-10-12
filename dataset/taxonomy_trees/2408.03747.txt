@@ -1,0 +1,35 @@
+Online Model-based Anomaly Detection in Multivariate Time Series
+├── Types of Anomalies 
+│   ├── Point Anomalies
+│   ├── Contextual Anomalies
+│   └── Collective Anomalies
+├── Model-based Anomaly Detection Approaches
+│   ├── Univariate Time Series Models 
+│   │   ├── AR, MA, ARMA, and ARIMA
+│   │   ├── State Space Models
+│   │   └── Recurrent Neural Networks 
+│   ├── Multivariate Time Series Models 
+│   │   ├── Vector Auto Regressive Models 
+│   │   ├── Causal Models 
+│   │   └── Recurrent Neural Networks 
+├── Online Learning Methods
+│   ├── Batch Learning
+│   ├── Mini-batch Learning
+│   └── Online Learning
+├── Evaluation Metrics
+│   ├── Precision, Recall, and F-Score
+│   ├── Area Under the ROC Curve (AUC-ROC)
+│   ├── Area Under the Precision-Recall Curve (AUC-PR)
+│   └── Early Detection Error (EDE)
+├── Challenges and Research Directions
+│   ├── Scalability
+│   ├── Flexibility
+│   ├── Robustness
+│   ├── Interpretability
+│   └── Data Efficiency
+└── Application Areas
+    ├── Cybersecurity
+    ├── Healthcare
+    ├── Industrial IoT
+    ├── Finance
+    └── Environment Monitoring

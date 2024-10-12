@@ -1,0 +1,41 @@
+Image Segmentation in Foundation Model Era
+├── Basic Concepts and Theories
+│   ├── Image Segmentation
+│   └── Foundation Models
+├── Research Trends in Image Segmentation
+│   ├── Semantic Segmentation
+│   │   ├── Fully Convolutional Networks
+│   │   ├── RefineNet
+│   │   ├── Pyramid Scene Parsing Network
+│   │   ├── DeepLab V3/V3+/V4
+│   │   ├── High-ResolutionNet
+│   │   └── Detailed Boundary Network
+│   ├── Instance Segmentation
+│   │   ├── Mask R-CNN
+│   │   ├── YOLOact
+│   │   ├── PANet
+│   │   ├── Hybrid Task Cascade
+│   │   └── BlendMask
+│   └── Panoptic Segmentation
+│       ├── UPSNet
+│       ├── EfficientPS
+│       ├── AUNet
+│       ├── SegFormer
+│       └── SETR
+├── Image Segmentation with Foundation Models
+│   ├── ViT
+│   ├── DeiT
+│   ├── MLP-Mixer
+│   ├── CoAtNet
+│   ├── Swin Transformer
+│   └── ConvMixer
+├── Comparison of Different Models
+│   ├── Task-Specific Models
+│   └── Foundation Models
+├── Discussion
+│   ├── Accessibility of Foundation Models
+│   ├── Safety and Fairness Challenges
+│   ├── Consistency Among Datasets
+│   ├── Adaptability to Different Tasks
+│   └── Responsiveness to the Needs of Society
+└── Conclusion

@@ -1,0 +1,29 @@
+Foundation Models for Recommender Systems
+├── Traditional Recommender Systems
+│   ├── Collaborative Filtering
+│   │   └── Memory-based Methods
+│   │   └── Model-based Methods
+│   └── Content-Based Filtering
+│       └── Item-based Methods
+│       └── User-based Methods
+├── Deep Learning-based Recommender Systems
+│   ├── Neural Collaborative Filtering
+│   │   └── MLP
+│   │   └── GMF
+│   │   └── NeuMF
+│   └── Sequence-aware Recommender Systems
+│       └── RNN-based Methods
+│       └── CNN-based Methods
+│       └── Self-Attention-based Methods
+├── Trust-Aware Recommender Systems
+│   └──TrustSVD
+│   └──SocialMF
+├── Evaluation Metrics
+│   ├── Precision
+│   ├── Recall
+│   ├── RMSE
+│   └── MAE
+└── Challenges and Future Directions
+    ├── Privacy and Security
+    ├── Cold Start Problem
+    └── Scalability  

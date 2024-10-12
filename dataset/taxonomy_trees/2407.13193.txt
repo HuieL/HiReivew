@@ -1,0 +1,31 @@
+Retrieval-Augmented Generation (RAG)
+├── RAG in Dialog Systems
+│   ├── Knowledge Grounded Systems
+│   ├── Task-Oriented Systems
+│   ├── Open-Domain and Closed-Domain Systems
+│   └── Conversational AI Systems
+├── RAG in Document Generation
+│   ├── News Generation
+│   ├── Story Generation
+│   ├── Recipe Generation
+│   ├── Code Generation
+│   └── Review Generation
+├── RAG for Question Answering
+│   ├── Factoid Question Answering
+│   ├── Multi-hop Question Answering
+│   ├── Narrative Question Answering
+│   └── Visual Question Answering
+├── RAG for Summarization
+│   ├── Extractive Summarization
+│   ├── Abstractive Summarization
+│   └── Multi-document Summarization
+├── RAG for Machine Translation
+│   ├── Supervised Translation
+│   ├── Unsupervised Translation
+│   └── Multilingual Translation
+├── RAG for Language Modeling
+├── Recent Advances in RAG
+│   ├── Pre-training RAG Models
+│   ├── Improving Retrieval in RAG Models
+│   └── New Methods and Frameworks for RAG
+└── Future Directions and Challenges in RAG.

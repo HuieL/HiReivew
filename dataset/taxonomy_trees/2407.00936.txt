@@ -1,0 +1,29 @@
+Large Language Model Enhanced Knowledge Representation Learning
+├──Basics of Knowledge Representation Learning
+│   ├──Definition and Principles
+│   ├──Challenges
+│   └──Historical Overview
+├──Language Model Enhanced Techniques
+│   ├──Transfer Learning
+│   ├──Neural Network Based Models
+│   ├──Embedding Techniques
+├──Large Scale Language Model in KRL
+│   ├──OpenAI’s GPT Models
+│   ├──Google’s BERT Models
+│   ├──AI’s Megatron Models
+├──Applications of Large Scale Language Model in KRL
+│   ├──Information Extraction
+│   ├──Question Answering
+│   ├──Knowledge Graph Completion
+│   ├──Entity Linking
+├──Evaluating KRL Models
+│   ├──Evaluation Metrics
+│   ├──Benchmark Datasets
+├──Case Studies
+│   ├──Industry Applications
+│   ├──Academic Research
+└──Future Direction and Open Issues
+    ├──Scalability
+    ├──Data Privacy and Security
+    ├──Ethical Considerations
+    └──Incorporating Human Abstraction

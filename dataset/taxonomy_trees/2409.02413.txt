@@ -1,0 +1,20 @@
+Abstractive Text Summarization
+├── Abstractive Text Summarization Techniques
+│   ├── Sequence-to-Sequence Models
+│   ├── Attention Mechanisms
+│   ├── Transformer Models
+│   └── Pre-trained Language Models (e.g., BERT, GPT-2, T5)
+├── Evaluation Metrics
+│   ├── ROUGE Score
+│   ├── BLEU Score
+│   └── Human Evaluation
+├── State-of-the-Art Models
+│   ├── Name of the Model (details about the model, its techniques)
+├── Challenges in Abstractive Text Summarization
+│   ├── Model Comprehension and Engagement
+│   ├── Lack of Inter-domain Adaptability
+│   └── Overcoming Redundancy
+├── Improvements in Abstractive Text Summarization
+│   ├── Use of New Algorithms (details about improvements)
+└── Conclusion
+    ├── Future Directions 

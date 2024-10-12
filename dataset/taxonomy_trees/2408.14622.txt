@@ -1,0 +1,58 @@
+Story Evaluation
+├── Narrative and Story Understanding
+│   ├── Underlying Meaning
+│   │   ├── Character-centric Events
+│   │   ├── Plot-based Events
+│   ├── Goal and Motivation
+│   │   ├── Story Comprehension
+│   │   ├── Plot Understanding
+│   ├── Temporal Coherence
+│   ├── Character Coherence
+│   ├── Event Causality
+├── Sentiment and Emotion
+│   ├── Emotional Flow
+│   │   ├── At Sentence-Level
+│   │   ├── At Paragraph-Level
+│   ├── Sentiment Analysis
+│   │   ├── General Sentiment Analysis
+│   │   ├── SentiWordNet
+│   │   ├── SASA Dataset
+│   │   ├── SentiStrenght
+├── Social and Network Analysis
+│   ├── Social Network Analysis
+│   ├── Character Network
+│   ├── Character Interaction Analysis
+├── Linguistic and Stylistic Features
+│   ├── Surface Features
+│   ├── Content Features
+│   ├── Stylistic Features
+│   ├── Syntax Complexity
+├── Evaluation Metrics for Story Understanding
+│   ├── Human-based Evaluation
+│   ├── Automatic Metrics
+│   ├── Corpus-based Approach
+│   │   ├── ROUGE
+│   │   ├── BLEU
+│   │   ├── Story CLM
+│   ├── Model-based Approach
+│   │   ├── GPT-2
+│   │   ├── BERTScore
+│   │   ├── BLEURT
+│   ├── Hypotheses
+├── Evaluation Methods for Entertainment
+│   ├── Human-based Evaluation
+│   ├── Automatic Methods
+│   ├── Features of Entertainment
+│   ├── Game-specific Features
+│   ├── Reading-specific Features
+├── Evaluation Methods for Learning Effects
+│   ├── Human-based Evaluation
+│   ├── Automatic Methods
+│   └── Features of Learning Effects
+├── Evaluation Methods for Pervasiveness
+│   ├── Human-based Evaluation
+│   ├── Automatic Methods
+└── Evaluation Methods for Diversity and Novelty
+    ├── Human-based Evaluation
+    ├── Automatic Methods
+    └── Features of Diversity and Novelty

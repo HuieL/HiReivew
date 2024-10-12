@@ -1,0 +1,43 @@
+Large Language Models: A Survey
+├── Featurization from Language Representations
+│   ├── Classical NLP Tasks
+│   │   ├── Named Entity Recognition (NER)
+│   │   ├── Sentiment Analysis
+│   │   └── Question Answering (QA)
+│   └── Novel NLP Tasks 
+│       ├── Commonsense Reasoning
+│       ├── Emotion Detection
+│       └── Humor Detection
+├── Transfer Learning Approaches
+│   ├── Supervised Fine-tuning 
+│   ├── Few-shot Learning
+│   ├── Multi-task Learning
+│   └── Reinforcement Learning from Human Feedback
+├── Architectures for Language Models
+│   ├── Transformers 
+│   │   ├── GPT Models 
+│   │   ├── T5
+│   │   ├── BART
+│   │   └── BERT
+│   ├── Sequence to Sequence Variations
+│   ├── Multimodal LMs
+│   └── Efficient Transformers
+├── Evaluation of Language Models
+│   ├── Automatic Metrics 
+│   ├── Human Evaluation
+│   └── Long-term Evaluations
+├── Safety and Ethical Considerations
+│   ├── Bias in Language Models
+│   ├── Content Creation and Curation
+│   └── Ethical Considerations
+├── Applications of Language Models
+│   ├── Writing Assistance and Augmentation
+│   ├── Programming Assistance
+│   ├── Personalized Language Models
+│   └── Education 
+└── Future Directions
+    ├── Model Interpretability
+    ├── Evaluation Metrics
+    ├── Out of Distribution Generalization
+    ├── Task Design
+    └── Safety Measures

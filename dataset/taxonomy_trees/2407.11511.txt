@@ -1,0 +1,38 @@
+Reasoning with Large Language Models
+├── Perception vs. Reasoning 
+├── General Capabilities of Large Language Models
+│   ├── Multi-step Reasoning
+│   ├── Counterfactual Reasoning
+│   ├── Logical Reasoning
+│   ├── Implicit Reasoning
+│   └── Analogical Reasoning
+├── Domains of Reasoning
+│   ├── Ethical Reasoning
+│   ├── Legal Reasoning
+│   ├── Financial Reasoning
+│   ├── Medical Reasoning
+│   ├── Scientific Reasoning
+│   └── Engineering Reasoning
+├── Techniques and Architectures for Improving Reasoning
+│   ├── Purely Symbolic Approaches
+│   ├── Neuro-Symbolic Approaches
+│   ├── Neural Approaches
+│   └── Hybrid Models
+├── Evaluation of Reasoning
+│   ├── Existing Benchmarks
+│   ├── Challenges in Evaluation
+│   └── Towards Better Evaluation
+├── Large Models and Society
+│   ├── Economic Impact
+│   ├── Bias and Fairness
+│   ├── Malicious Use
+│   ├── Privacy Risks
+│   └── Environmental Impact
+├── Directions for Future Work
+│   ├── Smaller and More Efficient Models
+│   ├── Adapting Models to New Domains
+│   ├── Robustness to Adversarial Attacks
+│   ├── Process-Level Fairness
+│   ├── Reducing Environmental Impact
+│   └── Responsible Deployment
+└── Conclusion

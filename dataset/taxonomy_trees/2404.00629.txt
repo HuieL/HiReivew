@@ -1,0 +1,37 @@
+Against The Achilles' Heel: A Survey on Red Teaming for Generative Models
+├──Available Attacks
+│   ├──Attack on Discrete Generative Models
+│   │   ├── Textual Data
+│   │   │   ├──Membership Inference Attacks
+│   │   │   └──Adversarial Attack
+│   │   ├── Tabular Data
+│   │   ├── Graph Data
+│   │   └── Sequential Data
+│   ├──Attack on Continuous Generative Models
+│   │   ├── Gray-box Attacks
+│   │   │   ├── Membership Inference Attacks
+│   │   │   ├── Attribute Inference Attacks
+│   │   │   ├── Model Recovery Attacks
+│   │   │   └── Adversarial Attacks
+│   │   ├── Black-box Attacks
+│   │   └── White-box Attacks
+│   └── Perceptual Security Metrics
+├──Components and Procedures
+│   ├── Model Training
+│   ├── Model Reporting
+│   ├── Threat Model and Assumptions
+│   ├── Red Teaming
+│   └── Blue Teaming
+├── Legionary Defenses
+│   ├── Defense Against Membership Inference Attacks
+│   │   ├── Differential Privacy
+│   │   └── Adversarial Training
+│   ├── Defense Against Model Inversion Attacks
+│   ├── Defense Against Model Extraction Attacks
+│   └── Defense Against Adversarial Attacks
+├──Roadmap for Secure Generative Systems
+    ├── Recommendations for Practitioners
+    │   ├── Pre-Deployment Testing
+    │   ├── Post-Deployment Monitoring
+    │   └── Updating Defenses
+    └── Recommendations for Researchers

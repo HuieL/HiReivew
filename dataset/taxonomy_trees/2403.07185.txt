@@ -1,0 +1,35 @@
+Uncertainty in Graph Neural Networks: A Survey
+├── Graph Neural Networks
+│   ├── Graph Convolutional Networks (GCNs)
+│   ├── Graph Attention Networks (GATs)
+│   ├── ChebyNet
+│   ├── GraphSAGE
+│   ├── Graph Isomorphism Networks (GINs)
+│   └── Graph Transformers
+├── Sources of Uncertainty in GNNs
+│   ├── Aleatoric Uncertainty
+│   ├── Epistemic Uncertainty
+│   └── Distributional Uncertainty
+├── Uncertainty Estimation Techniques in GNNs
+│   ├── Frequentist Approach
+│   │   ├── Bootstrap
+│   │   └── Dropout
+│   ├── Bayesian Approach
+│   │   ├── Variational Inference
+│   │   ├── Markov Chain Monte Carlo
+│   │   └── Bayesian Neural Networks
+│   └── Learning from noisy labels
+├── Metrics for Uncertainty Evaluation
+│   ├── Uncertainty Quality
+│   ├── Calibration
+│   └── Model Confidence
+├── Applications 
+│   ├── Information propagation
+│   ├── Robustness against adversarial attacks
+│   ├── Link prediction
+│   └── Uncertainty-guided graph model training
+└── Open Problems and Future Directions
+    ├── Scalability issues
+    ├── Dataset bias
+    ├── Insights from other fields
+    └── Task-specific uncertainty estimation

@@ -1,0 +1,33 @@
+Graph Prompt Learning
+├── Background
+│   ├── Graph Neural Networks
+│   └── Prompting
+├── Problem Formulation
+│   ├─ Prompt-Then-Finetune Paradigm
+│   └─ Comparison with Latent Optimisation
+├── Graph Prompt Learning Approaches
+│   ├── Task-Agnostic Prompt Learning
+│   ├── Task-Specific Prompt Learning
+│   └── Mixed Prompt Learning
+├── Experimental Evaluation 
+│   ├── Datasets
+│   │   ├── QM9
+│   │   ├── ZINC
+│   │   └── OGBG-MolPCBA
+│   ├── Models
+│   │   ├── GIN
+│   │   ├── GAT
+│   │   ├── GCN
+│   │   └── GraphGTN
+│   └── Evaluation Metrics
+│       ├── MAE
+│       └── ROC-AUC
+├── Analysis
+│   ├── Sensitivity Analysis
+│   ├── Visualization of Prompts
+│   └── Generalization Capability
+└── Applications
+    ├── Chemistry
+    ├── Social Network
+    ├── Traffic Network
+    └── E-commerce network

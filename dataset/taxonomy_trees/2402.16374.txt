@@ -1,0 +1,39 @@
+Graph Learning under Distribution Shifts (GLuDS)
+├── Domain Adaptation (DA)
+│   ├── Homogeneous DA
+│   │   ├── Homogeneous Unsupervised DA
+│   │   ├── Homogeneous Supervised DA
+│   │   └── Homogeneous Semi-supervised DA
+│   └── Heterogeneous DA
+│       └── Heterogeneous DA Approaches
+│           ├── Heterogeneous Unsupervised DA
+│           ├── Heterogeneous Supervised DA
+│           └── Heterogeneous Semi-supervised DA
+├── Out-Of-Distribution (OOD) Detection
+│   ├── OOD Detection Approaches
+│   │   ├── Generative Models
+│   │   ├── Discriminative Models
+│   │   ├── Prediction-Based Models
+│   │   ├── Auto-encoding based Models
+│   │   └── Analytics-Based Models
+│   └── OOD Handling Techniques
+│       ├── Misclassification detection
+│       ├── Confidence Estimation
+│       └── Classification with Rejection Option
+├── Continual Learning (CL)
+│   ├── CL Approaches
+│   │   ├── Rehearsal Approaches
+│   │   ├── Architecture Approaches
+│   │   ├── Regularization Approaches
+│   │   └── Hybrid Approaches
+│   └── CL Scenarios
+│       ├── Task-Incremental
+│       ├── Class-Incremental
+│       └── Instance-Incremental
+└── Future Directions
+    ├── Integrated Learning Approach
+    ├── Graph Alignment and Graph Embedding Techniques
+    ├── Confidence-Estimation Based OOD Detection
+    ├── Generative Models for OOD Detection
+    ├── CL with Distribution Shifts
+    └── Lifelong Learning with Realistic Constraints

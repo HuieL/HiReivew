@@ -1,0 +1,30 @@
+Patient-Centric Knowledge Graphs: A Survey of Current Methods, Challenges, and Applications
+├── Building Patient-Centric Knowledge Graphs
+│   ├── Non-structured data
+│   │   ├── Direct rule-based methods
+│   │   ├── Machine learning-based extraction
+│   └── Structured data
+│       ├── Ontology-based methods
+│       └── Predictive modeling methods
+├── Privacy-Preserving Techniques for Patient-Centric Knowledge Graphs
+│   ├── Data anonymization techniques
+│   │   ├── Generalization and suppresion
+│   │   ├── k-Anonymity
+│   │   ├── l-Diversity
+│   │   └── t-Closeness
+│   └── Data sharing and integration techniques 
+│       ├── Secure multi-party computation
+│       ├── Homomorphic encryption
+│       └── Differential privacy
+├── Application of Patient-Centric Knowledge Graphs
+│   ├── Clinical Decision Support Systems
+│   ├── Personalized health recommendations
+│   ├── Predictive modeling
+│   └── Cohort discovery
+├── Challenge and Future Work
+│   ├── Privacy-preserving techniques improvement
+│   ├── Heterogeneous data integration
+│   ├── Patient-centric ontology construction
+│   ├── Quality control for the knowledge extraction
+│   └── Standardization and sharing of patient-centric KGs
+└── Conclusion: Importance of The Development of Patient-Centric Knowledge Graphs in Modern Healthcare Systems.

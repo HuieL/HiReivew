@@ -1,0 +1,24 @@
+Towards General Industrial Intelligence: A Survey on IIoT-Enhanced Continual Large Models
+├── General Industrial Intelligence
+│   ├── Data Acquisition and Processing in IIoT
+│   ├── IIoT Communication Technologies
+│   |   ├── Wired Communication Technologies
+│   |   └── Wireless Communication Technologies
+│   ├── Security in IIoT systems
+│   └── Continual Learning in Industrial Applications
+├── IIot-Enhanced Continual Large Models
+│   ├── Features and Advantages of Large Models
+│   └── Applications of Large Models in IIoT
+├── Case Studies
+│   ├── Smart Manufacturing
+│   ├── Efficient Energy Management
+│   ├── Predictive Maintenance
+│   └── Supply Chain Management
+├── Challenges and Future Directions
+│   ├── Scalability of Large Models
+│   ├── Security and Privacy Issues in IIoT
+│   ├── Integration Challenges
+│   └── Need for Standardization
+└──Conclusion
+    ├── Summary of Key Points
+    └── Future Perspectives.

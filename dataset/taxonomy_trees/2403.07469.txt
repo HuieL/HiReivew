@@ -1,0 +1,32 @@
+3D Dense Captioning
+├── Related Work
+│   ├── 2D Image Captioning
+│   ├── 3D Point Cloud based Captioning
+│   └── 3D Mesh based Captioning
+├── Datasets
+│   ├── SUNCG 
+│   ├── Matterport3D
+│   ├── ScanNet
+│   ├── MVSEC
+│   └── KITTI
+├── Evaluation Metrics
+│   ├── Caption Quality Metrics
+│   └── Location Accuracy Metrics
+├── Challenges in 3D Dense Captioning
+│   ├── Lack of Large-Scale Annotated Datasets
+│   ├── Difficulty in Annotating 3D Objects
+│   ├── Algorithmic Challenges
+├── 3D Dense Captioning Methods	 
+│   ├── Point Cloud Based Methods
+│   │   ├── Attention Based Methods
+│   │   ├── Transformer Based Methods
+│   └── Mesh Based Methods
+├── Performance Comparison 
+│   ├── Evaluation of Dataset Influence
+│   ├── Evaluation of Performance Improvements
+│   └── Evaluation of Model Robustness
+└── Conclusion and Future Directions
+    ├── Temporal Dense Captioning
+    ├── Multi-Modal Dense Captioning
+    ├── Benchmarks and Evaluation Metrics
+    └── Ethical Considerations in 3D Dense Captioning.

@@ -1,0 +1,51 @@
+Pre-trained Language Models for Keyphrase Prediction: A Review
+├── Pre-training Language Models
+│   ├── Masked Language Model (MLM)
+│   │   └── BERT, RoBERTa
+│   ├── Causal Language Model (CLM)
+│   │   └── GPT, GPT-2
+│   ├── Permutation Language Model (PLM)
+│   │   └── XLNet
+│   └── Hybrid 
+│       └── ELECTRA
+├── Transfer Learning
+│   ├── Feature-based Approach
+│   ├── Model-based Approach
+├── Keyphrase Prediction
+│   ├── Extraction-based Approach
+│   │   ├── Sequence Labeling
+│   │   └── Chunking
+│   ├── Generation-based Approach
+│   │   ├── Seq2Seq Models
+│   │   └── Copying Mechanism
+│   └── Hybrid Approach
+├── Transformer Models for Keyphrase Prediction
+│   ├── Extraction-based Methods
+│   │   ├── KEA-BERT
+│   │   ├── BERT-KPE
+│   │   └── SpanKPE
+│   ├── Generation-based Methods
+│   │   ├── CopyCat
+│   │   ├── OpenKP
+│   │   └── ProphetNet
+│   └── Hybrid Methods
+│       ├── PositionRankBERT
+│       └── AutoKPG
+├── Evaluation Metrics 
+│   ├── F1 Score
+│   ├── Precision
+│   ├── Recall
+│   ├── Mean Average Precision (MAP)
+│   └── Normalized Discounted Cumulative Gain (NDCG)
+├── Datasets 
+│   ├── SemEval
+│   ├── WebAP
+│   ├── KP20K
+│   ├── Inspec
+│   ├── NUS
+│   └── ACL Anthology
+├── Discussion and Challenges 
+│   ├── Linguistic Challenges
+│   ├── Technical Challenges
+│   └── Domain Specificity Challenges
+└── Conclusion

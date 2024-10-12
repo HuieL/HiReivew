@@ -1,0 +1,28 @@
+AI Safety in Generative AI Large Language Models: A Survey
+├── Background
+│   ├── Basics of machine learning
+│   ├── Deployment of large language models
+│   └── Existing safety efforts
+├── The different types of risks
+│   ├── Broadly distributed risks
+│   ├── Discrete catastrophic risks
+│   ├── Problem of bias in AI models
+│   └── Exacerbation of existing social issues through adoption
+├── Approaches to AI safety in large language models
+│   ├── Reduction of input data bias
+│   ├── Improving interpretability of model decisions
+│   ├── Incorporating human values into AI models
+│   ├── Safe and reliable AI deployment
+│   └── Long-term safety measures
+├── Limitations of current safety measures
+│   ├── Technical limitations
+│   ├── Ethical and societal limitations
+│   └── Economic limitations
+├── Future directions of research
+│   ├── Exploring new learning models
+│   ├── Integrating multiple approaches for safety
+│   └── Development of international regulations and standards
+└── Conclusion
+    ├── Summary of shared insights
+    ├── Call to action for the research community
+    └── Acknowledgement of the non-technical aspects of the safety problem.

@@ -1,0 +1,26 @@
+A Survey on Evaluation of Multimodal Large Language Models
+├── Multimodal Large Language Models
+│   ├── Concept and Types
+│   ├── Application Scenarios
+│   └── Current Research Trends
+├── Evaluation Metrics
+│   ├── Quality Evaluation
+│   ├── Efficiency Evaluation
+│   └── Reliability Evaluation
+├── Evaluation Strategies
+│   ├── Experiment-Based Strategies
+│   ├── Data-Based Strategies
+│   └── Hybrid Evaluation Strategies
+├── Challenges and Opportunities
+│   ├── Current Challenges
+│   │   └── Computational Complexity
+│   │   └── Data Quality and Quantity
+│   │   └── Model Explainability and Interpretability
+│   └── Future Opportunities
+├── Case Studies
+│   ├── Model A
+│   ├── Model B
+│   └── Model C
+└── Conclusions
+    ├── Achievements
+    └── Future Work

@@ -1,0 +1,27 @@
+Knowledge Distillation of Large Language Models
+├── Large Language Models
+│   ├── Pre-training Techniques
+│   ├── Self-supervised Learning 
+│   └── Transfer Learning
+├── Distillation Techniques for Large Language Models
+│   ├── Temperature Scaling
+│   ├── Self-training
+│   ├── Peer Regularization
+│   └── Multi-step Training
+├── Experimental Setups in Knowledge Distillation
+│   ├── Pre-training Models Used
+│   ├── Evaluation Metrics
+│   └── Benchmark Datasets
+├── Applications of Distilled Large Language Models
+│   ├── NLP Tasks 
+│   ├── Machine Translation
+│   ├── Text Summarization
+│   └── Sentiment Analysis
+├── Comparative Analysis with Other Models
+│   ├── Distilled vs Non-Distilled Models
+│   ├── Distilled vs Fine-tuned Models
+│   └── Performance Comparisons
+└── Future Research Directions
+    ├── Model Improvements
+    ├── Efficiency and Scalability
+    └── Ethical and Fairness Considerations

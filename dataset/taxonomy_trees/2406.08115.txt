@@ -1,0 +1,33 @@
+Resource Allocation and Workload Scheduling for Large-Scale Distributed Deep Learning
+├── Resource Allocation Techniques
+│   ├── Static resource allocation
+│   │   └── Related References
+│   ├── Dynamic resource allocation
+│   │   └── Related References
+│   └── Hybrid resource allocation
+│       └── Related References
+├── Workload Scheduling Techniques
+│   ├── Batch scheduling
+│   │   └── Related References
+│   ├── Priority Scheduling
+│   │   └── Related References
+│   ├── Fair Sharing Scheduling
+│   │   └── Related References
+│   └── Deadline-driven Scheduling
+│       └── Related References
+├── Metrics for Assessing Techniques
+│   ├── Efficiency
+│   │   └── Related References
+│   ├── Scalability
+│   │   └── Related References
+│   ├── Speedup
+│   │   └── Related References
+│   └── Utilization
+│       └── Related References
+└── Future Directions
+    ├── Machine Learning for Resource Allocation and Scheduling
+    │   └── Related References
+    ├── Cloud Computing and Virtualization for Distributed Deep Learning
+    │   └── Related References
+    └── Energy Efficient Resource Allocation and Scheduling
+        └── Related References

@@ -1,0 +1,28 @@
+Graph Neural Networks (GNN)
+├── Challenges in real-world GNN applications
+│   ├── Class imbalance
+│   │   ├── Re-sampling
+│   │   ├── Cost-sensitive learning
+│   │   └── Class decay framework
+│   ├── Noise handling
+│   │   ├── Robust GNN
+│   │   ├── Robust graph convolutional network
+│   │   └── Bilateral graph denoising network
+│   ├── Privacy preservation
+│   │   ├── Differential privacy
+│   │   ├── Adversarial attack
+│   │   ├── Homomorphic encryption
+│   │   └── Mixup training
+│   └── Out-of-distribution (OOD) generalization
+│       ├── OOD detection
+│       ├── OOD adaptation
+│       └── OOD evaluation
+├── Applications of GNN in the Real-world
+│   ├── Social Networks
+│   ├── E-commerce
+│   ├── Biological Networks
+│   └── Physical Systems
+└── Conclusion and Future Directions
+    ├── Summary of GNN challenges and existing solutions
+    ├── Limitations of current research
+    └── Potential research directions in the future

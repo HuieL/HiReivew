@@ -1,0 +1,35 @@
+Graph Transformers
+├── Preliminaries 
+│   ├── Transformers
+│   │   ├── Self-attention mechanisms
+│   │   └── Variations of Transformers
+│   └── Graph Neural Networks
+│       ├── Spectral-based methods
+│       ├── Spatial-based methods
+│       └── Graph Transformers
+├── Graph Transformer Models
+│   ├── GNNGuard
+│   ├── Graphormer
+│   ├── HetGTC
+│   ├── GTC
+│   ├── MG-Transformer
+│   ├── SEG-Transformer
+│   └── Transformer-GCN
+├── Comparison with Other Methods
+│   ├── GNNGuard vs Other graph attention networks
+│   ├── Graphormer vs Other transformer-based methods
+│   ├── HetGTC vs Other GNN models
+│   ├── GTC vs Other graph convolution networks
+│   ├── MG-Transformer vs Other multi-graph learning methods
+│   ├── SEG-Transformer vs Other sequence graph transformers
+│   └── Transformer-GCN vs Other graph transformer networks
+├── Discussions 
+│   ├── Advantages of Graph Transformers
+│   └── Disadvantages and Potential Solutions
+│       ├── High computational cost
+│       ├── Limited receptive field
+│       └── Difficulty in handling dynamic graphs
+└── Future Work 
+    ├── Lightweight Graph Transformer Design
+    ├── Dynamic Graph Transformers
+    └── Hybrid Graph Transformers

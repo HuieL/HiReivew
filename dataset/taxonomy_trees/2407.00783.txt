@@ -1,0 +1,34 @@
+Diffusion Models and Representation Learning: A Survey
+├── Basic Concepts
+│   ├── Generative Models
+│   │   ├── Autoregressive Models
+│   │   └── Flow-based Models
+│   ├── Diffusion Models
+│   └── Markov Chains
+├── Theory of Diffusion Models
+│   ├── Underlying Theory
+│   ├── Forward and Reverse Modeling
+│   ├── Objective and Training Process
+│   └── Sampling in Diffusion Models
+├── Variants of Diffusion Models
+│   ├── Time-independent Models
+│   ├── Score-based Models
+│   ├── Generative Score Matching
+│   └── Hierarchical Diffusion Models
+├── Reverse diffusion
+│   ├── Related Work
+│   ├── Competitive Performance
+│   └── Applications in Image transcription
+├── Comparison with Other Models
+│   ├── GANs
+│   ├── VAEs
+│   └── PixelCNNs
+├── Connection to Other Learning Methods
+│   ├── Denoising Score Matching
+│   ├── Markov Chain Monte Carlo
+│   └── Variational Inference
+└── Applications and Benchmarking
+    ├── Image Generation
+    ├── Video Generation
+    ├── Speech Synthesis
+    └── Molecular Design

@@ -1,0 +1,28 @@
+Towards Measuring and Modeling 'Culture' in LLMs: A Survey
+├── Existing Methods
+│   ├── Traditional Measurement Techniques
+│   │   ├── Surveys
+│   │   ├── Interviews
+│   │   └── Direct Observations
+│   └── Computational Methods
+│       ├── Web Scraping
+│       ├── Text Mining
+│       ├── Social Network Analysis
+│       └── Machine Learning Techniques
+├── Culture Representation in LLMs
+│   ├── Explicit Representation
+│   └── Implicit Representation
+├── Challenges and Issues
+│   ├── Data Bias
+│   ├── Interpretability
+│   ├── Scalability
+│   └── Ethical Issues
+├── Evaluation Metrics and Benchmarks for Culture in LLMs
+│   ├── Accuracy Metrics
+│   ├── Fairness Metrics
+│   ├── Privacy Preservation Metrics
+│   └── Existing Benchmark Datasets
+└── Future Research Directions
+    ├── More Comprehensive Culture Models
+    ├── Better Evaluation Methods
+    └── Addressing Ethical Issues. 

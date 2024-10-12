@@ -1,0 +1,42 @@
+Continual Learning on Graphs
+├── Preliminary
+│   ├── Definition of Continual Learning
+│   ├── Traditional Continual Learning
+│   └── Graph Continual Learning
+├── Problem Formulation
+│   ├── Continual Node Classification
+│   ├── Continual Graph Classification
+│   ├── Continual Link Prediction
+│   └── Continual Community Detection
+├── Challenges
+│   ├── Catastrophic Forgetting
+│   ├── Environmental Changes
+│   ├── Distributional Shifts
+│   └── Memory Limitations
+├── Benchmark Datasets
+│   ├── Continual Learning Datasets for Sequence of Graphs
+│   │   ├── MNIST
+│   │   ├── CIFAR-10
+│   │   ├── Permuted MNIST
+│   │   └── SplitMNIST
+│   ├── Continual Learning Datasets For Dynamic Graphs
+│   │   ├── DBLP
+│   │   ├── LastFM
+│   │   ├── Reddit
+│   │   └── Enron
+│   └── Evaluation Metrics
+├── Methods
+│   ├── Regularization Methods
+│   ├── Dynamic Architectures
+│   ├── Memory-based Methods
+│   │   ├── Experience Replay
+│   │   ├── Generative Replay
+│   │   └── Memory Management Strategies
+│   ├── Meta Learning Methods
+│   └── Hybrid Methods
+├── Research Opportunities and Future Directions
+│   ├── Handling Additional Continual Learning Scenarios
+│   ├── Developing Models for Graph Structures
+│   ├── Evaluation Metrics and Benchmark Datasets
+│   └── Theoretical Analysis
+└── Conclusion

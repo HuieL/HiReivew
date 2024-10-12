@@ -1,0 +1,29 @@
+Large Language Model Agent in Financial Trading
+├── Theoretical Foundations
+│   ├── Machine Learning in Financial Trading
+│   │   ├── Supervised Learning Approaches
+│   │   └── Reinforcement Learning Approaches
+│   └── Natural Language Processing 
+│       ├── Sentiment Analysis
+│       └── Information Extraction
+├── Large Language Models
+│   ├── Transformer-based Models
+│   │   ├── BERT
+│   │   ├── GPT
+│   │   └── Transformer XL
+│   └── RNN-based Models
+│       ├── LSTM
+│       └── GRU
+├── Application in Financial Trading
+│   ├── News Analysis
+│   ├── Social Media Analysis
+│   ├── Trading Strategy Formulation
+│   └── Risk Management
+├── Comparative Analysis
+│   ├── Performance Evaluation Metrics
+│   ├── Comparison with Small Language Models
+│   └── Comparison with Non-Language Model Agents
+└── Future Directions
+    ├── Integration with Other Financial Data
+    ├── Adaptation to Market Changes
+    └── Ethical and Legal Considerations

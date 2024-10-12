@@ -1,0 +1,41 @@
+Large Language Models (LLMs) on Tabular Data
+├── Methodology
+│   ├── Pre-processing for Tabular Data
+│   │   ├── Textualization
+│   │   ├── Positional Encoding
+│   │   ├── Mapping to Image
+│   │   └── Other Methods
+│   ├── LLMs for Prediction
+│   │   ├── Direct Prediction
+│   │   ├── Template Prediction
+│   │   ├── Two-Step Prediction
+│   │   └── Other Methods
+│   └── LLMs for Generation
+│       ├── Table Completion
+│       ├── SQL Generation
+│       └── Other Tasks
+├── Evaluation
+│   ├── Metrics for LLM Prediction
+│   │   ├── Accuracy
+│   │   ├── AUC-ROC
+│   │   ├── Log Loss
+│   │   └── Other Metrics
+│   ├── Metrics for LLM Generation
+│   │   ├── BLEU
+│   │   ├── ROUGE
+│   │   ├── METEOR
+│   │   └── Other Metrics
+│   ├── Datasets
+│   │   ├── Synthetic Datasets
+│   │   ├── Real-World Datasets
+│   │   └── Other Datasets
+│   └── Benchmarks
+│       ├── Public Benchmarks
+│       └── Private Benchmarks
+├── Application
+│   ├── LLMs for Tabular Data Understanding
+│   └── Practical Deployment Considerations
+└── Future Directions
+    ├── From Single-Modal to Multi-Modal LLMs
+    ├── More Complex Applications
+    └── Towards Unified Evaluation

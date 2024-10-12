@@ -1,0 +1,34 @@
+Deep Learning for Video Anomaly Detection:
+├── Video Representation Learning
+│   ├── Handcrafted Features
+│   ├── Sequential Features
+│   ├── Deep Features
+│   └── Latest Researches
+├── Video Anomaly Detection Methods
+│   ├── Post-processing Strategies
+│   ├── One-class SVM based Methods
+│   ├── AutoEncoder based Methods
+│   ├── GAN based Methods
+│   ├── Predictive Methods
+│   └── Latest Deep Learning Methods
+│       ├── Unsupervised Methods
+│       ├── Self-Supervised Methods
+│       └── Few-shot Methods
+├── Related Tasks
+│   ├── Video Summarization
+│   ├── Video Captioning
+│   ├── Video Super-Resolution
+│   ├── Video Inpainting
+│   ├── Video Action Recognition
+│   └── Video Object Detection & Tracking
+├── Public Datasets and Evaluation Metrics
+│   ├── Public Datasets
+│   ├── UCSD Ped1&2 
+│   ├── Avenue Dataset
+│   ├── CUHK Avenue Dataset
+│   ├── ShanghaiTech Campus Dataset
+│   └── Evaluation Metrics
+└── Conclusion and Future Directions
+    ├── Unsupervised Learning Techniques
+    ├── Interpretability and Explainability
+    └── Applications.

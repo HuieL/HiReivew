@@ -1,0 +1,34 @@
+Preference Learning (PL) for large language models
+├── Introduction
+│   ├── Definition and significance of PL
+│   └── Overview of the survey’s structure
+├── Background
+│   ├── Overview of Large Language Models (LLMs)
+│   └── Importance and application of PL in LLMs
+├── Taxonomy Criteria for PL approaches
+│   ├── Task design
+│   ├── Human feedback collection
+│   ├── Data aggregation and ranking
+│   └── Model training
+├── Task Design
+│   ├── Single-step tasks
+│   ├── Multiple-choice tasks
+│   └── Free-response tasks
+├── Human Feedback Collection
+│   ├── Direct assessment
+│   ├── Forced choice
+│   │   └── Anchored comparison
+│   └── Successful applications of human feedback
+├── Data Aggregation and Ranking
+│   ├── Basic aggregation methods
+│   ├── Quality control
+│   ├── Learning to rank
+│   │   ├── Pointwise methods
+│   │   ├── Pairwise methods
+│   │   └── Listwise methods
+│   └── Active Learning for preference collection
+└── Model Training
+    ├── Ordinary gradient descent
+    ├── Provably efficient algorithms
+    └── Novel combinations of training methods
+

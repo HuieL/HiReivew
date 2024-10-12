@@ -1,0 +1,24 @@
+A Survey of Large Language Models for Financial Applications: Progress, Prospects and Challenges
+├── Large Language Models for Financial Applications
+│   ├── Predicting Stock Market Movements
+│   │   ├── Traditional Methods
+│   │   └── AI-based Methods
+│   ├── Credit Risk Assessment
+│   │   ├── Traditional Methods
+│   │   └── AI-based Methods
+│   ├── Financial Fraud Detection
+│   │   ├── Traditional Methods
+│   │   └── AI-based Methods
+│   └── Portfolio Management
+│       ├── Traditional Methods
+│       └── AI-based Methods
+├── Progress and Achievements
+│   ├── Successful Use Cases
+│   └── Technology Advancements
+├── Prospects and Future Research Directions
+│   ├── Emerging Trends
+│   └── Areas for Future Research
+└── Challenges and Limitations
+    ├── Data Privacy and Security
+    ├── Regulatory Compliance
+    └── Technical Challenges

@@ -1,0 +1,26 @@
+Attacks on Large Vision-Language Models
+├── Types of Attacks
+│   ├── Causal Attacks
+│   ├── Textual Attacks
+│   ├── Visual Attacks
+│   └── Multimodal Attacks
+├── Taxonomy of Targets
+│   ├── Text Generation Models
+│   ├── Image Generation Models
+│   └── Cross-modal Generation Models
+├── Taxonomy of Motivations
+│   ├── Machine comprehension exploration
+│   ├── Vulnerability infiltration
+│   └── Decision manipulation
+├── Dealing with Attacks
+│   ├── Detection Methods
+│   │   ├── Anomaly detection
+│   │   └── Watermarking
+│   └── Mitigation Strategies
+│       ├── Robust and Secure Models
+│       ├── Adversarial Training
+│       └── Model recalibration
+└── Future Trends
+    ├── Improved Security Mechanisms
+    ├── Complex Attack-Defense Scenarios
+    └── Regulation and Policy

@@ -1,0 +1,40 @@
+Generative Technology for Human Emotion Recognition
+├── Human Emotion Recognition Techniques
+│   ├── Feature-Based Approaches
+│   ├── Deep Learning-Based Approaches
+│   ├── Hybrid Approaches
+│   └── Generative Approaches
+├── Proposed Generative Approaches
+│   ├── Generative Adversarial Networks (GANs)
+│   │   ├── Pix2pix
+│   │   ├── CycleGAN
+│   │   ├── StarGAN
+│   │   └── EmoGAN
+│   ├── Variational Autoencoders (VAEs)
+│   │   ├── Conditional VAE
+│   │   ├── EmotionVAE
+│   │   └── Emodit
+│   └── Others
+│       ├── Emotion-Driven Input Method
+│       └── Virtual Reality(Avatar-based method)
+├── Datasets
+│   ├── Facial Emotion Recognition Datasets
+│   │   ├── FER-2013
+│   │   ├── RAF-DB
+│   │   ├── KDEF
+│   │   └── JAFFE
+│   └── Speech Emotion Recognition Datasets
+│       ├── RAVDESS
+│       ├── TESS
+│       ├── eNTERFACE
+│       └── SAVEE
+├── Performance Metrics 
+│   ├── Precision
+│   ├── Recall
+│   ├── F1-Score
+│   └── Accuracy
+└── Challenges and Future Directions
+    ├── Improvement of Emotion Recognition Accuracy
+    ├── Multi-Modal Emotion Recognition
+    ├── Real-Time Emotion Recognition
+    └── Personalized Emotion Recognition
