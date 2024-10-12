@@ -69,8 +69,3 @@ class APIModel:
             thread.join()
         return res_l
 
-## Example Usage:
-# model  = APIModel(model = "gpt-4o-2024-05-13", api_key = OPENAI_API_KEY, api_url = "https://api.openai.com/v1/chat/completions")
-# prompts = ["can you introduce youself?", "what data is today?"]
-# outputs = model.batch_chat(text_batch=prompts, temperature=1)
-# print(outputs)
