@@ -1,0 +1,35 @@
+A Survey of Large Language Models Attribution
+├── Interpretability and Attribution in ML 
+│   ├── Interpretability versus Explanation
+│   ├── Importance of Attribution
+│   └── Types of Attribution
+├── Attribution Methods
+│   ├── Backpropagation-Based Methods
+│   │   ├── Gradient-based Attribution
+│   │   ├── Integrated Gradients
+│   │   ├── SmoothGrad
+│   │   ├── Layer-wise Relevance Propagation
+│   │   └── Deep Taylor Decomposition
+│   ├── Perturbation-Based Methods
+│   │   ├── Occlusion
+│   │   ├── Shapley Values
+│   │   ├── LIME
+│   │   └── SHAP
+│   └── Proxy Models
+│       └── Decision Trees
+├── Applying Attribution to Language Models
+│   ├── Attribution on Text Data
+│   ├── Test Case Generation
+│   └── Applications & Use-Cases 
+├── Evaluation of Attribution Methods
+│   ├── Quantitative Evaluation
+│   ├── Qualitative Evaluation
+│   └── Human Evaluation
+├── Limitations and Open Questions
+│   ├── Imperfect Attribution
+│   ├── Limitations of Current Evaluation Protocol
+│   ├── Attribution in Different Tasks
+│   └── Attribution in Contextualized Language Models
+└── Conclusion
+    ├── Recent Advances
+    └── Future Outlook

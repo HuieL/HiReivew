@@ -1,0 +1,24 @@
+Digital Forgetting in Large Language Models: A Survey of Unlearning Methods
+├── Unlearning and Digital Forgetting: Definitions and Importance
+│   ├── Definitions
+│   ├── Importance
+│   └── Use Cases of Digital Forgetting
+├── Unlearning Techniques in Large Language Models
+│   ├── Full Retraining
+│   ├── Scrubbing
+│   ├── Data Sanitization
+│   └── Regularization Methods
+├── Challenges in Digital Forgetting
+│   ├── Verifying Unlearning Efficacy
+│   ├── Quantifying Information Loss
+│   └── Legal and Ethical Issues
+├── Evaluation of Unlearning 
+│   ├── What to Measure in Unlearning
+│   ├── How to Measure Unlearning
+│   ├── Experimental Setup
+│   └── Benchmarks and Datasets
+├── Future Directions
+│   ├── Better Evaluation Metrics
+│   ├── Improving Unlearning Efficacy
+│   └── Addressing Legal and Ethical Concerns
+└── Conclusion

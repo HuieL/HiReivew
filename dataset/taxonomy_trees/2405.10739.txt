@@ -1,0 +1,31 @@
+Efficient Multimodal Large Language Models (EMLLM)
+├── Multimodal Large Language Models (MLLM)
+│   ├── Text-to-Text Transformer Models
+│   │   └── T5, BART, T0
+│   └── Text-to-Image Transformer Models
+│       └── CLIP, ALIGN, XiT
+├── Efficiency Measures
+│   ├── Computation Efficiency 
+│   ├── Memory Efficiency 
+│   └── Communication Efficiency 
+├── Techniques for Improving Efficiency
+│   ├── Computation Efficiency Techniques
+│   │   ├── Pruning
+│   │   ├── Quantization
+│   │   ├── Knowledge Distillation
+│   │   └── Matrix Factorization
+│   ├── Memory Efficiency Techniques
+│   │   ├── Gradient Checkpointing
+│   │   ├── Reversible Networks
+│   │   ├── Off-Peak Memory Mapping
+│   │   └── Model Parallelism
+│   └── Communication Efficiency Techniques
+│       ├── Bit Compression
+│       └── TernGrad
+├── Bottlenecks in EMLLM 
+│   ├── Computation Bottlenecks
+│   └── Memory Bottleneck
+└── Future Work and Open Challenges
+    ├── Adaptation of More Efficient Transformer Architectures
+    ├── Exploiting the Structure of Multimodality
+    └── Integration with Advance AI Systems for Real World Problems

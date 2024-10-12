@@ -1,0 +1,34 @@
+Evaluating the Reasoning Behavior of Large Language Models
+├── Evaluation Metrics
+│   ├── Accuracy
+│   ├── Fairness
+│   ├── Robustness
+│   └── Generalization
+├── Reasoning Tasks
+│   ├── Reading Comprehension
+│   ├── Text Completion
+│   ├── Dialog Systems
+│   ├── Machine Translation
+│   └── Explanation Generation
+├── Reasoning Aspects
+│   ├── Semantic Reasoning
+│   ├── Causal Reasoning
+│   ├── Deductive Reasoning
+│   ├── Inductive Reasoning
+│   ├── Analogical Reasoning
+│   └── Abductive Reasoning
+├── Evaluation Techniques
+│   ├── Automatic Evaluation
+│   ├── Manual Human Evaluation
+│   ├── Comparative Evaluation
+│   └── Error Analysis
+├── Challenges and Limitations
+│   ├── Limited Task Coverage
+│   ├── Misleading Accuracy Scores
+│   ├── Limited Explainability
+│   └── Lack of Domain Adaptation
+└── Recent Advances and Future Directions
+    ├── Explainable AI
+    ├── Human-in-the-loop Evaluation
+    ├── Multi-modal Evaluation
+    └── Cross-lingual Evaluation

@@ -1,0 +1,41 @@
+Retrieval-Augmented Generation for Large Language Models: A Survey
+├── Memory-Augmented Transformer Models
+│   ├── Learning from the Long Tail
+│   ├── Capturing Contextual Subtleties
+│   └── Curation and Retention of Knowledge
+├── Retrieval Models for Information Retrieval
+│   ├── Two-Stage Retriever-Reader Models
+│   ├── End-to-End Trained Retervers
+│   └── Hybrid Approaches
+├── Retrieval Augmentation Models
+│   ├── Models with Fixed Knowledge
+│   │   ├── Models using KBs or Structured Tables
+│   │   ├── Models using Encyclopedic Text
+│   │   └── Models using other Forms of Fixed Knowledge
+│   └── Models with Dynamic Knowledge
+│       ├── Models using the Web
+│       └── Models using Social Media
+├── Understanding Retrieval-Augmented Models
+│   ├── Epistemic and Aleatory Uncertainty
+│   ├── Understanding via Imitation
+│   ├── Understanding Large Language Models (LLMs)
+│   │   ├── High-Level Behavior of LLMs
+│   │   ├── Impact of Dataset Size
+│   │   ├── How do LLMs use their training data?
+│   │   ├── What kind of world do LLMs learn?
+│   │   ├── How well do LLMs generalize?
+│   │   ├── How well do LLMs remember their training data?
+│   │   ├── Do LLMs have a Theory of Mind out of the box?
+│   │   └── Where do LLMs "look" to generate?
+│   └── Transfer Learning
+├── Applications and Impacts of Retrieval-Augmented Models
+│   ├── In Communication
+│   ├── In Education
+│   └── Fairness in Knowledge Retrieval
+├── Open Questions and Future Directions
+│   ├── What is the Right Granularity of Knowledge?
+│   ├── How to Incorporate Dynamic Knowledge into RAG?
+│   ├── How to Control and Maintain Consistency in RAG?
+│   ├── How to Make RAG More Efficient?
+│   └── How to Make RAG Fair and Understandable?
+└── Conclusion

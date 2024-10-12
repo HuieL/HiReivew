@@ -1,0 +1,37 @@
+MM-LLMs: Recent Advances in MultiModal Large Language Models
+├── MultiModal Large Language Models
+│   ├── Definition
+│   ├── Applications
+│   └── Challenges
+├── Theoretical Background
+│   ├── Multimodal Interpretation of Information
+│   ├── Information Modelling and Integration
+│   └── Language Modeling Concepts
+├── Recent MM-LLMs
+│   ├── Independent Models
+│   │   ├── VILBERT
+│   │   ├── MMBT
+│   │   └── UNITER
+│   ├── Contract Models
+│   │   ├── CLIP
+│   │   └── ALIGN
+│   └── Transformative Models
+│       ├── DALL-E
+│       └── GPT-3
+├── Comparative Analysis of MM-LLMs
+│   ├── Language Understanding
+│   ├── Visual Processing
+│   └── Multimodal Information Integration
+├── Applications of MM-LLMs
+│   ├── Information Retrieval
+│   ├── Visual Question Answering
+│   ├── Image Captioning
+│   ├── Multimodal Sentiment Analysis
+│   └── Language Translation
+├── Challenges & Future Directions
+│   ├── Data Conditioning & Fine-tuning
+│   ├── Evaluation Metrics
+│   └── Ethical Issues
+└── Conclusion
+    ├── Summary
+    └── Future Outlook

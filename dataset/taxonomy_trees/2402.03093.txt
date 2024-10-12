@@ -1,0 +1,32 @@
+AI-Enhanced Virtual Reality in Medicine: A Comprehensive Survey
+├── The Basics of AI and VR
+│   ├── Artificial Intelligence (AI)
+│   │   ├── Machine Learning (ML)
+│   │   |   ├── Supervised Learning
+│   │   |   ├── Unsupervised Learning
+│   │   |   └── Deep Learning (DL)
+│   ├── Virtual Reality (VR)
+│   │   ├── Immersive VR
+│   │   ├── Non-Immersive VR
+│   │   └── Semi-Immersive VR
+│   └── AI in VR
+├── The Characteristics of AI-Enhanced VR in Medical Applications
+│   ├── Diagnosis and Treatment
+│   ├── Teaching and Training 
+│   └── Rehabilitation
+├── The Technology Respect of AI-Enhanced VR
+│   ├── Image Processing Technology
+│   ├── Natural language processing technology
+│   └── Big Data Analysis
+├── AI-Based VR Modeling Hierarchy in Medical
+│   ├── 2D Model
+│   ├── 2.5D Model
+│   └── 3D Model
+├── Potential Challenges of AI-Enhanced VR 
+│   ├── Data Security 
+│   ├── Legal and Ethical Issues 
+│   └── Training and Learning
+└── Future Directions
+    ├── Personalized medicine
+    ├── Collaborative information sharing platform
+    └── Telemedicine Services

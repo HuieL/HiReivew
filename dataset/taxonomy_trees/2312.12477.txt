@@ -1,0 +1,35 @@
+Integration of Graph Neural Networks and Causality
+├── Current Works
+│   ├── Causal Discovery
+│   │   ├── Constraint-based methods
+│   │   ├── Score-based methods
+│   │   ├── Hybrid methods
+│   │   └── Data-driven methods
+│   ├── Causal Inference
+│   │   ├── Propensity score methods
+│   │   ├── Potential outcomes framework
+│   │   └── Treatment effect estimation
+│   ├── Causal Representation Learning
+│   ├── Structural Causal Graphs
+│   ├── Interventional Graph Reasoning
+│   └── Causal Mechanism Learning
+│       ├── Process-based models
+│       └── Mechanism discovery
+├── Methodology
+│   ├── Causal Structure Learning
+│   │   ├── PC Algorithm
+│   │   ├── FCI Algorithm
+│   │   └── GES Algorithm
+│   ├── Causal Effect Estimation
+│   │   ├── Inverse Probability Weighing
+│   │   ├── Backdoor Adjustment
+│   │   └── G-Computation
+│   └── Causal Discovery
+│       ├── Additive Noise Models
+│       ├── Causal Additive Models
+│       └── DAGs with Hidden Variables
+└── An outlook
+    ├── Opportunities
+    ├── Sustainable Development
+    ├── Smart Health
+    └── Limitations and Challenges

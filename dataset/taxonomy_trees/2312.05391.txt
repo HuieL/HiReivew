@@ -1,0 +1,44 @@
+Loss functions in Semantic Segmentation: A Survey and Outlook
+├── Loss function Overview
+│   ├── Cross-entropy Loss
+│   └── Intersection-over-Union Loss
+├── Advanced Loss Functions
+│   ├── Deeply Supervised Loss
+│   ├── Class Balance Loss
+│   ├── Boundary-Aware Loss
+│   ├── Post-processing Strategies
+│   └── Learning-based Approaches
+├── Evaluation Metrics
+│   ├── Accuracy
+│   ├── Intersection-over-Union
+│   ├── Pixel Accuracy
+│   ├── Mean Class Accuracy
+│   └── Boundary-IoU
+├── Benchmark Datasets and Segmentation Models
+│   ├── Datasets
+│   │    ├── Pascal VOC
+│   │    ├── Microsoft COCO
+│   │    ├── Cityscapes
+│   │    └── ADE20K
+│   └── Segmentation Models
+│        ├── FCN
+│        ├── SegNet
+│        ├── DeepLab
+│        ├── PSPNet
+│        └── U-Net
+├── Experiments on Different Loss Functions
+│   ├── Binary Cross-Entropy
+│   ├── Categorical Cross-Entropy
+│   ├── Dice Coefficient
+│   ├── Tversky Index
+│   ├── Lovasz-softmax
+│   ├── Focal Loss
+│   └── Boundary loss
+├── Experimental Analysis
+│   ├── Influence of Loss Function on Training
+│   ├── Comparison of Loss Functions
+│   └── Influence of Loss Function on Evaluation Metrics
+└── Future Research Directions
+    ├── Improving robustness of Loss functions
+    ├── Investigating interplay between Loss function and other model components
+    └── Exploring novel Loss functions.

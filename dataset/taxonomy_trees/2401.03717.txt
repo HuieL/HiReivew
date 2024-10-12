@@ -1,0 +1,44 @@
+Universal Time-Series Representation Learning: A Survey
+├── Preliminaries
+│   ├── Time-series Data
+│   ├── Time-series Analysis
+│   └── Time-series Representation
+│       ├── Raw Representation
+│       ├── Hand-crafted Representation
+│       └── Learned Representation
+├── Universal Time-series Representation Learning
+│   ├── Unsupervised Learning
+│   │   ├── Autoencoders
+│   │   └── Generative Models
+│   ├── Self-supervised Learning
+│   │   ├── Context Prediction
+│   │   ├── Contrastive Learning
+│   │   ├── Clustering-Based Learning
+│   │   └── Generative Models
+│   ├── Multi-instance Learning
+│   ├── Transfer Learning
+│   └── Metric Learning
+├── Universal Time-series Representations for Diverse Tasks
+│   ├── Classification Tasks
+│   ├── Clustering Tasks
+│   ├── Anomaly Detection Tasks
+│   ├── Regression Tasks
+│   └── Forecasting Tasks
+├── Evaluation Protocols
+│   ├── Evaluation Metrics
+│   │   ├── Classification Accuracy
+│   │   ├── Precision, Recall, F1-Score
+│   │   ├── Area Under the ROC Curve (AUC)
+│   │   └── Mean Absolute Error
+│   └── Datasets
+│       ├── UCR Archive
+│       ├── MTS Archive
+│       └── Real-world Industrial, Medical, and Finance Data
+├── Open Challenges and Future Directions
+│   ├── High-dimensional Multi-variate Time-series Data
+│   ├── Non-Euclidean Data
+│   ├── Time-series Data with Noise and Missing Values
+│   ├── Low Resource Settings
+│   ├── Interpretability and Explainability of Representation
+│   └── Scalability
+└── Conclusion

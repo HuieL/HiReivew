@@ -1,0 +1,35 @@
+Privacy risk in GeoData: A survey
+├── Privacy Risks in Geospatial Data
+│   ├── Identity privacy
+│   ├── Location privacy
+│   └── Obfuscatory privacy 
+├── Privacy Attacks
+│   ├── Linkage Attack
+│   ├── Homogeneity Attack
+│   ├── Background Knowledge Attack
+│   └── Inference Attack
+├── Privacy Preserving Mechanisms
+│   ├── Privacy-preserving data publishing
+│   │   ├── Data Anonymization
+│   │   ├── k-anonymity
+│   │   ├── l-diversity
+│   │   └── t-closeness
+│   ├── Privacy-preserving data mining
+│   └── Geographical data perturbation
+├── Methods & Techniques to Privacy in Geodata
+│   ├── Pseudonymization
+│   ├── Encryption
+│   │   ├── Symmetric key encryption
+│   │   └── Asymmetric key encryption
+│   └── Differential Privacy
+├── GeoPrivacy Protocols
+│   ├── Privacy preserving collaborative path hiding protocol
+│   ├── Privacy preserving location query protocol
+│   │   ├── Generalized bloom filter
+│   │   ├── Hierarchical and reverse cloaking algorithm
+│   │   └── Position altering with path confusion algorithm
+│   ├── Privacy preserving spatial range query protocol
+│   │   ├── Spatial bloom filters
+│   │   └── Secure multi-party computation
+│   └── Privacy-preserving traffic monitoring systems
+└── Conclusion and Future Work.

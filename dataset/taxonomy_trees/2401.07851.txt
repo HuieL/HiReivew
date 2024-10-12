@@ -1,0 +1,26 @@
+Large Language Model Inference
+├── Speculative Decoding
+│   ├── Classic Strategies
+│   │   ├── Beam Search
+│   │   ├── Deletion Decoding
+│   │   ├── Finite-State Transducer Approach
+│   │   ├── Length-Normalized Decoding
+│   │   ├── Splitting Search Space
+│   │   ├── Diverse Beam Search
+│   │   └── Branch and Bound
+│   └── Speculative Decoding Optimizations
+│       ├── Adaptive Checkpointing
+│       ├── Persistent Kernels
+│       ├── Preemption
+│       └── Systolic Arrays
+├── Overview and qualitative comparison 
+│   ├── Comparing different speculative decoding strategies
+│   │   ├── Quality of Results
+│   │   ├── Efficiency of Inference
+│   │   └── Applicability and Dependencies
+│   ├── Challenges of speculative decoding
+│   ├── Direction for future work
+├── Case Study
+│   ├── Latency and Quality Comparisons
+│   ├── Benchmarking Considerations
+└── Conclusion

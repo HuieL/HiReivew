@@ -1,0 +1,47 @@
+Malware Detection with Graph Representation Learning (MD-GRL)
+├── Malware Representation Techniques
+│   ├── Graph-based Methods
+│   │   ├── Dependency Graphs
+│   │   ├── Program Graphs
+│   │   ├── API Call Graphs
+│   │   └── Control Flow Graphs
+│   ├── Other Representation Methods
+│   │   ├── Binary Code as Image
+│   │   ├── Opcode Frequency Vectors
+│   │   └── Sequence-based Representations
+├── Malware Detection Methods
+│   ├── Graph-based Learning Methods
+│   │   ├── Graph Convolutional Networks (CGNs)
+│   │   ├── Graph Attention Networks (GATs)
+│   │   ├── Graph Isomorphism Networks (GINs)
+│   │   ├── ChebNet
+│   │   └── GraphSAGE     
+│   ├── Reinforcement Learning for MD-GRL
+│   ├── Multi-aspect MD-GRL
+│   └── Other Machine Learning Methods
+│       ├── Naive Bayes
+│       ├── Decision Trees
+│       ├── SVM
+│       └── Deep Learning (CNN, RNN)
+├── Evaluation of Detection Models
+│   ├── Performance Measures
+│   │   ├── Recall
+│   │   ├── Precision
+│   │   ├── Accuracy
+│   │   └── F1 Score 
+│   ├── Dataset Used for Evaluation
+│   │   ├── Drebin 
+│   │   ├── Contagio 
+│   │   ├── VirusShare 
+│   │   └── Ember 
+├── Challenges and Open Issues in MD-GRL
+│   ├── Data Scarcity
+│   ├── Class Imbalance
+│   ├── Malware Evolution
+│   └── Scalability Issue
+└── Future Directions in MD-GRL
+    ├── Fusion of Multiple Representation Types
+    ├── Emphasis on Explainable AI
+    ├── Encouraging Privacy-preserving Techniques
+    ├── Cross-platform Malware Detection
+    └── Adversarial Attacks and Countermeasures

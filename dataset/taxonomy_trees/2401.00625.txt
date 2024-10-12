@@ -1,0 +1,25 @@
+Resource-Efficient Large Language Models
+├── Resource-Efficiency Improvements
+│   ├── Model size reduction
+│   │   ├── Pruning
+│   │   │   └── Reference: Narang et al. 2017, Gale et al. 2019
+│   │   ├── Quantization
+│   │   │   └── Reference: Zafrir et al. 2019, Stock et al. 2020
+│   │   ├── Knowledge distillation
+│   │   │   └── Reference: Hinton et al. 2015, Jiao et al. 2020
+│   │   └── Model parameters sharing
+│   │       └── Reference: Lan et al. 2019, Clark et al. 2020
+│   ├── Computation and energy reduction
+│   │   ├── Network architecture and optimization methods
+│   │   │   └── Reference: Tan et al. 2019, Cho et al. 2021
+│   │   ├── Mixed precision training
+│   │   │   └── Reference: Micikevicius et al. 2017, Narang et al. 2018
+│   │   └── Sparsity exploiting hardware
+│   │       └── Reference: Han et al. 2016, Park et al. 2020
+│   └── Training data reduction
+│       └── Reference: Devlin et al. 2019, Brown et al. 2020
+├── LLMs with Improved Resource Efficiency and Same Performance
+│   └── Current advancements and examples
+├── Implications of Resource-Efficient LLMs
+└── Conclusion
+    └── Future research directions and possible societal impacts

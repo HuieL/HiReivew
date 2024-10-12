@@ -1,0 +1,16 @@
+Toward General-Purpose Robots via Foundation Models (TGPRFM)
+├── Overview
+│    └── What is a Foundation Model
+├── Foundation Models and Robotics
+│    ├── Foundation Models for Perception
+│    ├── Foundation Models for Robotic Reinforcement Learning
+│    ├── Foundation Models for Embodied AI
+│    ├── Foundation Models and Sim-to-Real
+│    └── Foundation Models for Imitation Learning
+├── Broader Impact and Challenges
+│    ├── Success Background and Its Impact
+│    ├── Generalizability Challenge
+│    ├── Sample Efficiency and Reward Shaping Challenge
+│    ├── Agency and Interpretability Challenge
+│    ├── Technical Foundations and Future Directions
+└── Conclusion

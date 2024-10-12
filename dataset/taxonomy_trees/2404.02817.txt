@@ -1,0 +1,33 @@
+Optimization-based Task and Motion Planning: From Classical To Learning Approaches
+├── Theoretical Foundations
+│    ├── Optimization Theory
+│    ├── Decision Theory
+│    ├── Machine Learning 
+│    └── Robotics
+├── Classical Approaches
+│    ├── Task Planning
+│    │   ├── Hierarchical Task Network
+│    │   ├── Partial Order Planning
+│    │   └── Graphplan
+│    └── Motion Planning
+│        ├── Rapidly-exploring Random Trees
+│        ├── Probabilistic Roadmaps
+│        └── Artificial Potential Fields
+├── Learning-based Approaches
+│    ├── Reinforcement Learning 
+│    │   ├── Value-based methods
+│    │   ├── Policy-based methods
+│    │   └── Model-based methods
+│    ├── Imitation Learning
+│    ├── Inverse Reinforcement Learning
+│    └── Deep Learning Strategies
+├── Optimization-based Integrative Approaches
+│    ├── Sequential Approach
+│    ├── Hierarchical Approach
+│    └── Integrated Approach
+└── Practical Applications and Challenges
+     ├── Industrial Robotics
+     ├── Autonomous Driving
+     ├── Aerial Robots
+     ├── Underwater Robots
+     └── Space Exploration Robots

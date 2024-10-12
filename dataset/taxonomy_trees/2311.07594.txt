@@ -1,0 +1,56 @@
+Multimodal Large Language Model
+├── Defining Modalities
+│   ├── Visual Modality
+│   ├── Textual Modality
+│   ├── Audio Modality
+│   └── Other Modalities
+├── Multimodal Learning Tasks in NLP
+│   ├── Text-to-Image Generation
+│   ├── Image-to-Text Generation
+│   ├── Video to Text Generation
+│   ├── v2c and c2v Generation
+│   ├── Text to Audio Generation
+│   ├── Audio to Text Generation
+│   ├── Miscellaneous Tasks
+├── Defining Information Granularity
+│   ├── Token-Level
+│   ├── Sequence-Level
+│   └── Task-Level
+├── Multimodal Transformer Architectures
+│   ├── M-BERT
+│   ├── ViLBERT
+│   ├── VisualBert
+│   ├── LXMERT
+│   ├── UniLM
+│   ├── Vision-and-Language BERT
+│   ├── CLIP
+│   ├── DALL-E
+│   ├── Min-GPT and Multimodal GPT
+├── Evaluation Metrics
+│   ├── BLEU
+│   ├── METEOR
+│   ├── CIDEr
+│   ├── Rouge-L
+│   ├── FID
+│   └── IS
+├── Datasets for Multimodal language models
+│   ├── COCO
+│   ├── Visual Genome
+│   ├── Open Images
+│   ├── CLEVR
+│   ├── MSCOCO
+│   ├── ADE20K
+│   ├── ImageNet
+│   ├── ImageNet-21k
+│   ├── Conceptual Captions
+│   ├── SBU
+│   ├── YFCC100M
+│   ├── VQA
+│   ├── VQAv2
+│   └── GQA
+└── Future Directions.
+    ├── Towards More Modalities.
+    ├── Towards More Granularities.
+    ├── Pre-training Then Fine-Tuning Paradigm.
+    ├── Better Evaluation Metrics and Datasets.
+    └── Addressing the Criticisms.

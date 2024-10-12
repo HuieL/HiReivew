@@ -1,0 +1,38 @@
+Federated Unlearning (FU)
+├── FU Overview
+│   ├── Motivation and Background
+│   └── Definition and Applications
+├── Taxonomy
+│   ├── From Data Owner View
+│   │   ├── Model-based Approach
+│   │   └── Trigger-based Approach
+│   └── From Service Provider View
+│       ├── Transparent Approach
+│       │   ├── Ring Update
+│       │   ├── Backdoor Detection
+│       │   └── Protected Federated Learning
+│       └── Non-transparent Approach
+│           ├──Backdoor Detection
+│           ├──Protected Federated Learning
+│           └──FU without Explicit Cryptography Primitives
+├── FU in Detail
+│   ├── Transparent Methods
+│   │   ├── Independent Update
+│   │   ├── Threshold-based Update
+│   │   ├── Optimized Threshold Based Unlearning
+│   │   └── Ring Update
+│   └── Non-transparent Methods
+│       ├── Optimized Threshold Based Unlearning
+│       ├── Ring Update
+│       ├── Threshold-based Unlearning with Membership Inference
+│       └── Threshold-based Unlearning with Data Poisoning
+├── Challenges
+│   ├── Trustworthiness
+│   ├── Privacy Preservation
+│   ├── Efficiency
+│   └── Scalability
+└── Future Directions
+    ├── Trustworthy Machine Learning
+    ├── Advanced Cryptography
+    ├── Federated Synthetic Data Generation
+    └── Assurance of Learning Quality

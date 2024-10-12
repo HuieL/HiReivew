@@ -1,0 +1,38 @@
+Mathematical Language Models: A Survey
+├── Preliminaries
+│   ├── Mathematical notation 
+│   ├── Mathematical language models (MLMs) 
+├── Notations in Mathematical Language Models
+│   ├── Mathematical notations
+│   ├── Issues in mathematical notations
+│   └── Works on mathematical notations
+├── Mathematical Information Retrieval 
+│   ├── Motivation and challenges
+│   ├── Math indexing
+│   ├── Math similarity search
+│   └── Works on Mathematical Information Retrieval 
+├── Mathematical Equation Generation 
+│   ├── Motivation and challenges
+│   ├── Equation generation methods
+│   ├── Issues in equation generation
+│   └── Works on Mathematical Equation Generation  
+├── Mathematical Question Answering 
+│   ├── Motivation and challenges 
+│   ├── Mathematical question answering methods
+│   ├── Issues in mathematical question answering 
+│   └── Works on Mathematical Question Answering  
+├── Symbol Grounding in Mathematical Language Models
+│   ├── Motivation and challenges 
+│   ├── Symbol grounding methods
+│   ├── Issues in symbol grounding 
+│   └── Works on Symbol Grounding in Mathematical Language Models
+├── Evaluation of Mathematical Language Models
+│   ├── Evaluation metrics
+│   ├── Benchmark datasets
+│   └── Challenges in evaluation
+├── Current Landscape
+│   ├── Pre-training and fine-tuning
+│   ├── Interpretability
+│   └── Fairness
+└── Future Directions
+    └── Research gaps and potential improvements.

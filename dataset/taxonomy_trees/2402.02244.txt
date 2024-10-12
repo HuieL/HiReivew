@@ -1,0 +1,38 @@
+Techniques to Extend Context Length
+├── Sparse Models
+│   ├── LongFormer
+│   │   └── Uses "windowed self-attention"
+│   ├── BigBird
+│   │   └── Uses "block sparse attention"
+│   └── Other sparse attention models
+├── Techniques for Recurrence Models
+│   ├── Models that reintroduce recurrence
+│   │   ├── Transformer-XL
+│   │   ├── Compressive Transformer
+│   │   ├── CTRL
+│   │   └── Other recurrence models
+├── Memory Augmented Models
+│   ├── Neural Turing Machines
+│   ├── Differentiable Neural computers
+│   ├── Long-range Arena
+│   └── Other memory-augmented models
+├── Learning to Route Models
+│   ├── Routing Transformer
+│   ├── Sparsely-Gated Mixture of Experts
+│   └── Other routing models
+├── Other Context Extension Techniques
+│   ├── memGPT
+│   ├── GShard
+│   ├── Mesh Transformer
+│   └── Transformer with locality
+├── Performance Evaluation
+│   ├── Long-range dependency tasks
+│   ├── Large-scale pre-training tasks
+│   ├── Software data tasks
+│   ├── Genomics data tasks 
+│   └── Comparisons with other models
+└── Applications 
+    ├── Generation tasks
+    ├── Translation tasks
+    ├── Compression tasks
+    └── Other NLP tasks

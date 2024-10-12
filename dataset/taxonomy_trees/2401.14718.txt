@@ -1,0 +1,54 @@
+Video Prediction
+├── Problem Definition
+│   ├── Conditional Video Prediction
+│   ├── Unconditional Video Prediction
+│   ├── Offline Video Prediction
+│   └── Online Video Prediction
+├── Deterministic Approaches
+│   ├── Motion Compensation-based Approaches
+│   |   ├── 3D CNNs
+│   |   ├── Optical Flow
+│   |   ├── Warping Layers
+│   |   └── Dynamic Filter Networks
+│   ├── Transform-based Approaches
+│   |   ├── Convolutional LSTM
+│   |   ├── Trajectory-based Methods
+│   |   └── Kernel Prediction
+│   └── Composite Approaches
+│       ├── Dynamic Neural Advection
+│       ├── Geometry Transformer Networks
+│       └── Deformable
+├── Generative Approaches
+│   ├── Direct Sampling-based Approaches
+│   |   ├── Variational Autoencoders
+│   |   ├── Generative Adversarial Networks
+│   |   └── Autoregressive Models
+│   ├── Scheduled Sampling-based Approaches
+│   |   ├── Gumbel Softmax
+│   |   ├── Concrete Distribution
+│   |   └── VQ-VAE 
+│   └── Reinforcement Learning-based Approaches
+│       ├── AlphaGo
+│       ├── World Models
+│       └── PlaNet
+├── Evaluation Metrics
+│   ├── Quantitative Metrics
+│   |   ├── Peak Signal to Noise Ratio
+│   |   ├── Structural Similarity Index
+│   |   └── Frechet Inception Distance
+│   └── Qualitative Metrics
+│       ├── Turing Test
+│       ├── Human Evaluation
+│       └── Subsequent Task Performance
+├── Applications
+│   ├── Weather Forecasting
+│   ├── Traffic Prediction
+│   ├── Autonomous Driving
+│   ├── Sports Analysis
+│   └── Animation
+└── Open Challenges
+    ├── Uncertainty Estimation
+    ├── Long-term Predictions
+    ├── Data Efficiency
+    ├── Evaluation Metrics
+    └── Practical Applications

@@ -1,0 +1,43 @@
+Multi-modal Fusion on Low-quality Data: A Comprehensive Survey
+├── Low-quality Multi-modal Data Characteristics
+│   ├── Noise
+│   ├── Data Missing
+│   ├── Low resolution
+│   └── Outliers
+├── Challenges and Methods of Low-quality Multi-modal Data Fusion
+│   ├── Data Preprocessing
+│   │   ├── Noise Reduction
+│   │   │   ├── Signal Processing based Methods
+│   │   │   └── Machine Learning based Methods
+│   │   ├── Missing Data Imputation
+│   │   │   ├── Statistical Imputation
+│   │   │   └── Machine Learning Imputation
+│   │   ├── Super-resolution
+│   │   │   ├── Deep Learning based Methods
+│   │   │   └── Non Deep Learning based Methods
+│   │   └── Outlier Detection and Removal
+│   │       ├── Univariate Methods
+│   │       └── Multivariate Methods
+│   ├── Feature Extraction
+│   │   ├── Traditional Methods
+│   │   ├── Deep Learning Methods
+│   │   └── Hybrid Methods
+│   └── Fusion Methods
+│       ├── Early Fusion
+│       ├── Late Fusion
+│       └── Hybrid Fusion
+├── Applications of Low-quality Multi-modal Fusion
+│   ├── Healthcare
+│   ├── Surveillance
+│   ├── Autonomous Vehicle
+│   └── Multimedia Analysis
+├── Low-quality Multi-modal Fusion Benchmark Datasets
+│   ├── Audio-Visual
+│   ├── Healthcare
+│   ├── Surveillance
+│   └── Others
+└── Future Trends
+    ├── Improvement of Algorithm Robustness
+    ├── Fusion Methods with Explainability
+    ├── Active Learning Strategy
+    └── Low-quality Multimodal Fusion in Edge Computing Environment

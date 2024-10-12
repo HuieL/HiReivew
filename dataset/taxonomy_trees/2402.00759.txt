@@ -1,0 +1,27 @@
+Building Expressive and Tractable Probabilistic Generative Models
+├── Probabilistic Generative Models
+│   ├── Bayesian Networks
+│   ├── Gaussain Mixture Models
+│   ├── Hidden Markov Models
+│   └── Deep Generative Models
+├── Expressiveness vs Tractability 
+│   ├── Defining Expressiveness and Tractability  
+│   ├── Balancing Expressiveness and Tractability  
+├── Building Tractable Probabilistic Generative Models
+│   ├── Data Preparation
+│   ├── Model Selection
+│   ├── Parameter Estimation
+│   └── Validation Methods
+├── Building Expressive Probabilistic Generative Models
+│   ├── Definition of Expressiveness in PGMs
+│   ├── Methods for Increasing Expressiveness
+│   └── Case Studies
+├── Applications and Use cases
+│   ├── Bioinformatics
+│   ├── Natural Language Processing
+│   ├── Computer Vision
+│   └── Social Network Analysis
+└── Future Prospects and Challenges 
+    ├── Limitations of Current Models
+    ├── Future Research Directions
+    └── Potential Solutions to Current Challenges

@@ -1,0 +1,31 @@
+Accelerated Generation Techniques in Large Language Models
+├── Fundamentals of Large Language Models 
+│   ├── Unsupervised Models
+│   │   ├── GPT
+│   │   ├── BERT
+│   │   └── RoBERTa
+│   └── Supervised Models
+│       ├── T5
+│       └── BART
+├── Traditional Generation Techniques
+│   ├── Word-based Techniques
+│   └── Sentence-based Techniques
+├── Accelerated Generation Techniques
+│   ├── Model Distillation Techniques
+│   │   ├── Knowledge Distillation
+│   │   └── Model Compression 
+│   └── Neural Network Acceleration Techniques
+│       ├── Quantization
+│       ├── Pruning 
+│       └── Low Rank Approximation
+├── Comparison of Accelerated Generation Techniques
+│   ├── Quality of Generated Text
+│   ├── Speed of Generation
+│   └── Resource Consumption
+├── Application Areas
+│   ├── Natural Language Processing
+│   ├── Artificial Intelligence
+│   └── Data Science
+└── Future Directions
+    ├── Emerging Acceleration Techniques
+    └── Challenges & Research Opportunities.

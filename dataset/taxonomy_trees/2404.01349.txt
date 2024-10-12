@@ -1,0 +1,30 @@
+Fairness in Large Language Models: A Taxonomic Survey
+├── Bias in AI Systems
+│   ├── Sources of Bias
+│   │   ├── Training data bias
+│   │   └── Design and deployment bias
+│   ├── Implications of Bias
+│   ├── Bias in Text and Language Processing Tasks
+│   └── Bias in Large Language Models
+├── Bias Mitigation Strategies
+│   ├── Pre-training Stage Bias Mitigation
+│   │   ├── Datasets correction
+│   │   └── Pre-training objectives
+│   └── Fine-Tuning Stage Bias Mitigation
+│       ├── Datasets augmentation
+│       ├── Training objectives
+│       └── Regularization methods
+├── Evaluation of Fairness in LLMs
+│   ├── Online Evaluation
+│   ├── Offline Evaluations
+│   │   ├── Dataset bias
+│   │   └── Unwanted bias
+│   └── Challenges in Fairness Evaluation
+├── Ethical and Societal Questions
+│   ├── LLMs and Society
+│   ├── Who Defines Fairness
+│   └── Trade-offs and Limitations
+└── Future Directions
+    ├── Transparency and Interoperability
+    ├── Public Policy Consideration
+    └── Awareness and Education

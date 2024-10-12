@@ -1,0 +1,28 @@
+Efficient Inference for Large Language Models
+├── Theories and Techniques
+│   ├── Approximating softmax activation
+│   ├── Knowledge distillation
+│   ├── Pruning
+│   ├── Quantization
+│   └── Efficient transformer architectures
+├── Methods and Strategies
+│   ├── Dynamic Programming
+│   ├── Beam Search
+│   ├── Sampling Techniques
+│   ├── Fast sequence generation
+│   └── Utilizing hardware 
+├── Challenges & Solutions
+│   ├── Handling model size
+│   ├── Promise&trade-offs of large models
+│   ├── Cost of deployment
+│   └── End-to-end efficiency
+├── Performance Analysis
+│   ├── Effect of model size
+│   ├── Effect of dataset
+│   ├── Resource usage
+│   └── Hardware Utilization
+└── Future Directions
+    ├── New architectures
+    ├── Hardware acceleration
+    ├── Trade-off analysis
+    └── Application domains

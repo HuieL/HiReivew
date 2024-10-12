@@ -1,0 +1,46 @@
+Role-Playing Language Agents
+├── Background
+│   ├── Language Agent
+│   │   ├── Rule-based methods
+│   │   └── Data-driven methods
+│   └── Persona
+│       ├── Trait Theory
+│       ├── Speaker Consistency
+│       └── Connection between Language and Personality
+├── Persona Modeling
+│   ├── Implicit Persona Modeling
+│   │   ├── Supervised Learning
+│   │   ├── Transfer Learning
+│   │   └── Reinforcement Learning
+│   └── Explicit Persona Modeling
+│       ├── Supervised Learning
+│       ├── Transfer Learning
+│       ├── Reinforcement Learning
+│       ├── Sampling
+│       └── Optimization
+├── Personalized Generation
+│   ├── Implicit Personalized Generation
+│   │   ├── Supervised Learning
+│   │   ├── Transfer Learning
+│   │   └── Reinforcement Learning
+│   └── Explicit Personalized Generation
+│       ├── Supervised Learning
+│       ├── Transfer Learning
+│       ├── Reinforcement Learning
+│       ├── Sampling
+│       └── Optimization
+├── Evaluation Metrics
+│   ├── Automatic Metrics
+│   ├── Human Evaluation
+│   └── Correlation between Automatic and Human Metrics
+├── Applications
+│   ├── Chatbots
+│   ├── Socialbot
+│   ├── Storytelling
+│   └── Customer Service
+└── Future Directions
+    ├── Cross-lingual Role-Playing Language Agents
+    ├── Multimodal Role-Playing Language Agents
+    ├── Long-form Composition
+    └── Narrative Understanding and Planning
+Note: This tree is based on the structure of the paper's sections and subsections. The specific references under each section are not displayed in this format.

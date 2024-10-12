@@ -1,0 +1,31 @@
+Federated Analytics (FA)
+├── Taxonomy of Federated Analytics
+│   ├── Data Distribution
+│   │   ├── Independent and Identically Distributed (IID)
+│   │   └── Non-IID
+│   ├── Model Distribution
+│   │   ├── Single Model
+│   │   └── Multiple Models
+│   ├── Communication Topology
+│   │   ├── Centralized
+│   │   └── Decentralized
+│   └── Performance Metrics
+│       ├── Statistical Metrics
+│       └── Systems Metrics
+├── Enabling Techniques for Federated Analytics
+│   ├── Federated Learning (FL)
+│   ├── Federated Transfer Learning (FTL)
+│   ├── Federated Continual Learning (FCL)
+│   ├── Federated Meta Learning (FML)
+│   ├── Federated Adversarial Learning (FAL)
+│   ├── Federated Representation Learning (FRL)
+│   └── Federated Graph Learning (FGL)
+├── Applications of Federated Analytics
+│   └── Among Multiple Industry Sectors
+└── Open Issues and Challenges
+    ├── Communication Efficiency
+    ├── System Heterogeneity
+    ├── Statistical Heterogeneity
+    ├── Privacy-Preserving
+    ├── Trust and Security
+    └── Usability and Interoperability.

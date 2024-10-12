@@ -1,0 +1,32 @@
+Point Cloud Registration Based on Deep Learning
+├── Introduction
+├── Background Knowledge
+│   ├── Coordinate Descriptors
+│   ├── Transformation Models
+│   ├── Cost Functions
+│   └── Optimization Strategies
+├── Deep Learning-Based Point Cloud Registration
+│   ├── Supervised Learning Based Approaches
+│   │   ├── Deep Learning for Transformation Matrix Estimation
+│   │   ├── Deep Learning for Pairs of Corresponding Points Estimation
+│   │   └── Deep Global Registration
+│   ├── Unsupervised Learning Based Approaches
+│   │   ├── Unsupervised Learning for Transformation Matrix Estimation
+│   │   └── Unsupervised Learning for Pairs of Corresponding Points Estimation
+│   ├── Self-Supervised Learning Based Approaches
+│   ├── Transfer Learning Based Approaches
+│   ├── Reinforcement Learning Based Approaches
+│   ├── Generative Adversarial Networks Based Approaches
+│   └── Hybrid Learning Approaches
+├── Challenges and Opportunities
+│   ├── Limited Data
+│   ├── Noisy and Sparse Data
+│   ├── Computationally Intensive
+│   ├── Overfitting
+│   ├── Dependence on Initial Position
+│   └── Generalization Ability
+├── Datasets
+│   ├── Indoor Scenes
+│   ├── Outdoor Scenes
+│   └── Object Models
+└── Discussion and Conclusion

@@ -1,0 +1,34 @@
+Socially Aware Robot Navigation (SARN)
+├── Definition and Importance of SARN
+│ ├── Balance between Functionality and Sociality
+│ └── Trade-off between Efficiency and Social Acceptability
+├── Theories and Models of SARN
+│ ├── Proxemic Theory
+│ ├── Social Forces Model
+│ └── Extended Social Force Model
+├── Key Components of SARN
+│ ├── Socially Aware Human Prediction
+│ │ └── Trajectory Prediction
+│ │ └── Intention Prediction
+│ ├── Socially Aware Mapping
+│ │ └── Crowd Mapping
+│ │ └── Activity Mapping
+│ ├── Socially Aware Path Planning
+│ │ └── Optimization Based Methods
+│ │ └── Sampling Based Methods
+│ ├── Motion Control
+│ │ └── Social Force Based Methods
+│ └── Evaluation Metrics
+│     └── Quantitative Metrics
+│     └── Qualitative Metrics
+├── Domains of Application
+│ ├── Public Space
+│ └── Private Space
+├── Datasets for SARN
+│ └── List of Available Datasets
+└── Future Challenges
+    ├── Joint Optimization
+    ├── Multi-robot SARN
+    ├── HRI and SARN
+    ├── Long-term Autonomous Social Robots
+    └── Uncertainty in Social Interactions.

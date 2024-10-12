@@ -1,0 +1,39 @@
+Federated Learning (FL)
+├── Foundations of FL
+│   ├── Privacy Preserving
+│   │   ├── Homomorphic Encryption
+│   │   ├── Secret Sharing
+│   │   ├── Differential Privacy 
+│   │   └── Secure Multi-Party Computation (SMPC)
+│   ├── Computation Efficiency
+│   │   ├── Device Heterogeneity Handling
+│   │   └── Resource Management
+│   └── Quality of User Experience
+│       ├── User Mobility Management 
+│       └── Computation Offloading
+├── Communication Schemes
+│   ├── Conventional Federated Learning (CFL)
+│   │   ├── FedSGD
+│   │   └── FedAvg
+│   ├── Over-the-air Computation (OAC)
+│   └── Clustered Federated Learning (ClusterFL)
+├── Challenges in FL Communication
+│   ├── Bandwidth Limited Communication
+│   │   ├── Model Quantization
+│   │   └── Knowledge Distillation
+│   ├── Unreliable/Unstable Communication
+│   │   ├── Sequence of Participation 
+│   │   └── Frequency of Participation
+│   └── Decentralized Communication
+├── Real-world Systems and Applications
+│   ├── Industrial Applications
+│   │   ├── Gboard
+│   │   └── Mobicom
+│   └── Experimental Frameworks
+│       ├── LEAF
+│       ├── TFF
+│       └── FLeet
+└── Future Research Directions
+    ├── Joint Communication-Computation Optimization
+    ├── Large-scale Federated Learning
+    └── Federated Transfer Learning

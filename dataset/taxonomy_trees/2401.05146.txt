@@ -1,0 +1,36 @@
+Federated Unlearning: A Survey on Methods, Design Guidelines, and Evaluation Metrics
+├── Terminology Definition
+│   ├── Federated Learning
+│   ├── Unlearning
+│   ├── Federated Unlearning
+│   ├── Challenges
+│   └── Metric Designs
+├── Taxonomy of Federated Unlearning
+│   ├── Based on the Mechanism
+│   │   ├── Re-computation Based Methods
+│   │   ├── Knowledge Accumulate Based Methods
+│   │   └── Model Update Based Methods
+│   └── Based on the Problem Scenarios
+│       ├── Single-server Single-model Unlearning
+│       ├── Single-server Multi-model Unlearning
+│       ├── Multi-server Single-model Unlearning
+│       └── Multi-server Multi-model Unlearning
+├── Evaluation Metrics
+│   ├── Unlearning Rate
+│   ├── Unlearning Effectiveness
+│   ├── Computational Cost
+│   ├── Communication Cost
+│   └── Impact on Learning Procedure
+├── Experimental evaluations on Opensource Benchmarks
+│   ├── Federated MNIST
+│   ├── CIFAR
+│   ├── Purchase100
+│   └── Adult Dataset
+├── Future Directions
+│   ├── Design Efficient Federated unlearning algorithms
+│   ├── Study the interplay between privacy and unlearning
+│   ├── Develop a comprehensive understanding of the trade-off between accuracy and unlearning
+│   └── Develop more practical solutions
+└── Conclusion
+    ├── Recap of current Scenario
+    └── Gaps Identified

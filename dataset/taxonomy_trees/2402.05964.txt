@@ -1,0 +1,32 @@
+A Survey on Transformer Compression
+├── Model Compression Types
+│   ├── Quantization
+│   │   ├── Weight Quantization
+│   │   ├── Activation Quantization
+│   │   └── Quantization Tools
+│   ├── Pruning
+│   │   ├── Weight Pruning
+│   │   ├── Structured Pruning
+│   │   └── Pruning Tools
+│   └── Knowledge Distillation
+│       ├── Teacher-Student Training
+│       ├── Distillation Tools
+│       └── Other Distillation Techniques
+├── Transformer-specific Compression Techniques
+│   ├── Parameter Sharing
+│   ├── Matrix Factorization
+│   └── Specialized Layers and Blocks
+├── Hybrid Compression Approaches
+│   ├── Fusion of Compression Techniques
+│   └── End-to-End Frameworks
+├── Quantitative Comparisons
+│   ├── Benchmark Datasets
+│   ├── Evaluation Metrics
+│   └── Performance Benchmarks
+├── Inference Acceleration
+│   ├── Approximately Inference
+│   ├── Pipeline Parallelism
+│   └── Hardware-Specific Optimization
+└── Conclusions
+    ├── Current State of Transformer Compression
+    └── Future Opportunities and Challenges

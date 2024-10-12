@@ -1,0 +1,26 @@
+A Survey on Graph Neural Networks in Intelligent Transportation Systems
+├── Applications of GNNs in ITS
+│   ├── Traffic Flow Prediction
+│   ├── Travel Time Estimation
+│   ├── Traffic Signal Control
+│   ├── Routing Problem
+│   ├── Vehicle Rebalancing
+│   └── Miscellaneous
+├── GNN Models
+│   ├── Graph Convolutional Networks (GCN)
+│   ├── Graph Attention Networks (GAT)
+│   ├── Graph Recurrent Networks (GRN)
+│   ├── Spatiotemporal Graph Convolutional Networks (STGCN)
+│   ├── Graph Convolutional Long Short-Term Memory Network (GCLSTM)
+│   ├── Graph Convolutional Transformer (GCT)
+│   └── Gated Graph Transformer (GGT)
+├── Datasets
+│   ├── Metro Dataset
+│   ├── Taxi Demand Dataset
+│   ├── Bike Demand Dataset
+│   ├── Traffic Speed Dataset
+│   ├── Traffic Signal Dataset
+│   └── Routing Problem Dataset
+└── Conclusion
+    ├── Challenges
+    └── Future Directions

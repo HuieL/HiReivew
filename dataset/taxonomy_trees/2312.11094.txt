@@ -1,0 +1,39 @@
+Side-Channel Attacks in Context of Cache
+├── Cache Attacks
+│   ├── By access type
+│   │   ├── By software 
+│   │   │   ├── Evict+Reload and Evict+Time
+│   │   │   └── Prime+Probe
+│   │   └── By hardware
+│   │       ├── Flush+Reload and Flush+Flush
+│   │       └── Prime+Abort
+│   ├── By type of exploited information
+│   │   ├── Access-based attacks
+│   │   └── Time-based attacks
+│   ├── By cache level
+│   │   ├── L1 Cache
+│   │   ├── L2 Cache
+│   │   └── Last Level Cache (LLC)
+│   └── By microarchitecture
+│       ├── Spectre, Meltdown, Foreshadow
+│       └── Other hardware attacks
+├── Analysis of Cache Attacks
+│   ├── Analysis of software-based techniques
+│   ├── Analysis of hardware-based attacks
+│   ├── Cross-VM and Cross-Container attacks
+│   └── Cyber-Physical Systems and IoT Devices attacks
+├── Mitigation Against Cache Attacks
+│   ├── Hardware Based Mitigations
+│   │   ├── Partitioning techniques
+│   │   ├── Probabilistic techniques
+│   │   └── Jamming techniques
+│   ├── Software Based Mitigations 
+│   │   ├── Randomization techniques
+│   │   ├── Obfuscating techniques
+│   │   └── Scheduling techniques
+│   └── Hybrid Mitigations 
+│       └── Techniques combining hardware and software solutions
+└── Open Challenges and Future directions
+    ├── Attacks on IoT devices
+    ├── Cloud-Based System attacks
+    └── Attacks on the latest CPU architectures

@@ -1,0 +1,36 @@
+Self-supervised Learning for Electroencephalogram
+├── Self-supervised Learning (SSL)
+│   ├── SSL Overview 
+│   ├── SSL Approaches
+│   │   ├── Generative Models
+│   │   ├── Contextual Models
+│   │   ├── Contrastive Learning
+│   │   ├── Self-supervised Auxiliary Tasks
+│   │   ├── Bootstrap Your Own Latent (BYOL)
+│   │   ├── Momentum Contrast (MoCo)
+│   │   └── ClusterFit
+│   └── Challenges and Open Issues in SSL
+├── SSL Applications in EEG Analysis
+│   ├── Seizure Detection and Prediction
+│   ├── Sleep Staging
+│   ├── Emotion Recognition
+│   ├── Motor Imagery Classification
+│   ├── Alzheimer’s Disease (AD) stages classification
+│   └── ADHD classification
+├── Datasets
+│   ├── UCI ML Repository EEG Database
+│   ├── CHB-MIT Scalp EEG Database
+│   ├── DEAPdataset
+│   ├── Physionet Sleep-EDF 
+│   └── EEG Motor Movement/Imagery Dataset
+├── Evaluation Metrics
+│   ├── Accuracy
+│   ├── Sensitivity (Recall)
+│   ├── Specificity
+│   ├── Precision
+│   └── Area under the ROC curve (AUC)
+└── Future Directions
+    ├── Combining DL with traditional signal processing techniques
+    ├── Hybrid models (SSL and Supervised/DL and ML)
+    ├── Real-time processing
+    └── Improving interpretability

@@ -1,0 +1,26 @@
+Hallucination of Multimodal Large Language Models: A Survey
+├── Definition of Hallucination
+│   └── Distinguishing between "accurate" and "inaccurate" hallucination
+├── Stakeholders Involved
+│   ├── Model Developers
+│   └── Decision-makers and Users
+├── Psychological and Cognitive Similarities 
+│   ├── Relation of hallucination with cognitive processes
+│   └── Comparison with psychological phenomenon
+├── Survey
+│   ├── Selected Models and Datasets 
+│   ├── Hallucination Observations 
+│   │   ├── Visual hallucination
+│   │   ├── Tabular data hallucination
+│   │   └── Code hallucination
+│   └── Mitigations and Interventions
+│       ├── Sensitivity and Specificity
+│       ├── Utility
+│       └── Confidence and Interpretability
+├── Measurement of Hallucination 
+│   ├── Existing Methods 
+│   └── Proposed Method 
+└── Future Directions and Open Questions
+    ├── Better understanding of hallucination 
+    ├── Development of new mitigations and interventions 
+    └── Exploration of positive sides of hallucination

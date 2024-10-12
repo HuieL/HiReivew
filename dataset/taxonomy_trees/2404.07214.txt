@@ -1,0 +1,46 @@
+Vision-Language Models 
+├── Early Fusion
+│   └── Non-End-To-End
+│       ├── Visual Question Answering
+│       ├── Image Captioning
+│       └── Machine Translation
+├── Late Fusion
+│   ├── Pre-Trained Visual+Language models
+│   │   ├── BERT (Image Captioning, Visual Question Answering)
+│   │   ├── GPT (Image Captioning)
+│   │   ├── RoBERTa (Visual Question Answering)
+│   │   └── ViLBERT (Image Captioning, Visual Question Answering)
+│   └── Non-End-To-End models
+│       ├── Image Captioning
+│       └── Machine Translation
+├── Cross-modal Self-Supervision
+│   ├── Contrast Proxy Tasks
+│   ├── Predictive Proxy Tasks
+│   ├── Generative Proxy Tasks
+│   └── Hybrid Proxy Tasks
+├── Pre-training Datasets
+│   ├── For Contrast
+│   │   ├── Image-Text Pairing
+│   │   └── Inpainting
+│   ├── For Predict
+│   │   └── Caption-based Image Retrieval
+│   ├── For Generate
+│   │   └── Out-of-Distribution Generalization
+│   └── Mixed Datasets
+├── Rankings and Challenges
+│   └── Organization
+│       ├── VizWiz Grand Challenge
+│       ├── TextCaps Challenge
+│       └── NoCaps Challenge
+├── Evaluation Metrics
+│   ├── Autoregressive
+│   ├── Non-Autoregressive
+│   └── Future Directions
+└── Benchmark Datasets
+    ├── Image Captioning
+    ├── Visual Question Answering
+    ├── Visual Commonsense Reasoning
+    ├── Referring Expressions
+    ├── Image-Text Retrieval
+    ├── Text-Based Image Retrieval
+    └── Image Generation from Text Descriptions

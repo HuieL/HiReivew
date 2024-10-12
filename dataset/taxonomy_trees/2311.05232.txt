@@ -1,0 +1,38 @@
+Hallucination in Large Language Models 
+├── Manifestation
+│   ├── Anomalous Responses
+│   │   └── Nonexistent Entities
+│   └── Inferred World Facts
+├── Causal Factors
+│   ├── Training Data Quality
+│   │   ├── Insufficiently Representative Samples
+│   │   └── Biased Label Distribution
+│   ├── Training Methods
+│   │   ├── Overfitting on Outliers
+│   │   └── Ignoring Correlation in Dataset
+│   └── Model Architectures
+│       └── Prior Output Dependency
+├── Detection Methods
+│   ├── Truth-level Detection
+│   │   ├── Reference-based Methods
+│   │   └── Model-based Methods
+│   └── Sentence-level Detection
+│       ├── Semantic-based Methods
+│       └── Syntactic-based Methods
+├── Analogous Phenomena
+│   ├── In Image Generation
+│   │   ├── DeepFake
+│   │   ├── StyleGAN
+│   │   └── Super-resolution
+│   └── In Text Generation
+│       ├── Over-optimism
+│       ├── Cherry-picking
+│       └── Under-coverage
+├── Mitigation Techniques
+│   ├── Redesigning Prompts
+│   ├── Physical World Fact Extra Constraints
+│   └── External Knowledge Injection
+└── Open Questions and Future Research 
+    ├── Counteracting Mechanisms 
+    ├── Hallucination in Vision Models 
+    └── Ethical and Societal Impact 

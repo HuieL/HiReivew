@@ -1,0 +1,37 @@
+LLM4Drive: A Survey of Large Language Models for Autonomous Driving
+├── Large Language Models (LLMs)
+│   ├── Transformer-based LLMs
+│   ├── Pretraining
+│   ├── Fine-tuning
+│   ├── Weaknesses
+│   │   ├── Ambiguity
+│   │   ├── Fabrication
+│   │   └── Bias
+│   └── Hardware and software infrastructures
+├── Autonomous Driving (AD)
+│   ├── Computer Vision tasks
+│   │   ├── Object detection
+│   │   ├── Semantic segmentation 
+│   │   ├── Instant segmentation
+│   │   └── Depth estimation 
+│   ├── Traffic light and sign recognition
+│   ├── Path planning
+│   ├── Precision localization
+│   ├── Risk assessment and decision-making
+│   └── Remote operations
+├── Interaction between LLMs and AD
+│   ├── LLMs for AD sensor data analysis
+│   │   ├── LiDAR
+│   │   ├── Radar
+│   │   └── Camera feeds
+│   ├── LLMs for human-vehicle interaction
+│   ├── LLMs for vehicle-vehicle interaction
+│   ├── LLMs for vehicle-infrastructure interaction
+│   └── LLMs for vehicle-pedestrian interaction
+├── Open challenges and future directions
+│   ├── Combining Vision and Language
+│   ├── Certification and Standardization
+│   ├── Privacy Concerns
+│   ├── Improving Computation Efficiency
+│   └── Benchmarking & Evaluation
+└── Conclusion

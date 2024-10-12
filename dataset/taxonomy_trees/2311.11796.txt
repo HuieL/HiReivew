@@ -1,0 +1,32 @@
+Transferable Attacks on AI Systems
+├── Adversarial Transferable Attack
+│   ├── Non-targeted Attacks
+│   │   ├── Momentum Iterative Methods (MIMs)
+│   │   └── Free Adversarial Training (FreeAT)
+│   └── Targeted Attacks 
+│       ├── Nesterov Momentum (NesM)
+│       ├── Substitute Network
+│       └── Sparse and Low rank Bilinear Pooling (SaIL-BP)  
+├── Transferability across Models
+│   ├── Same Model, Different Seeds 
+│   ├── Same Model Family, Different Configurations
+│   ├── Different Model Families
+│   └── Transferability to Defended Models
+├── Transferability across Tasks 
+│   ├── Supervised Learning
+│   ├── Semi-supervised Learning
+│   └── Reinforcement Learning
+├── Transferability across Data Modalities
+│   ├── Image
+│   ├── Audio
+│   ├── Text
+│   └── Multi-modal
+├── Transferability across Platforms
+│   ├── Commercial Platforms
+│   └── Industrial Systems
+└── Countermeasures and Defences
+    ├── Adversarial Training 
+    ├── Model Ensemble
+    ├── Data Augmentation
+    ├── Randomisation
+    └── Certified Defences

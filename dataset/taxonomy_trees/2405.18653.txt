@@ -1,0 +1,44 @@
+Foundation Language Models (FLMs)-based Continual Learning
+├── Continual Learning
+│   ├── Definition and Function
+│   ├── Techniques
+│   │   ├── Non-parametric Strategies
+│   │   ├── Parametric Strategies
+│   │   ├── Hybrid Strategies
+│   │   └── Metamorphic Strategies
+│   └── Measurements
+│       ├── Forgetting Measure
+│       ├── Backward Transfer
+│       ├── Forward Transfer
+│       └── Average Accuracy
+├── Foundation Language Models
+│   ├── Components
+│   │   ├── Transformer
+│   │   ├── BERT
+│   │   ├── GPT
+│   │   │   ├── GPT-2
+│   │   │   ├── GPT-3
+│   ├── Applications of FLMs
+│   │   ├── NLP Tasks
+│   │   ├── Knowledge Extraction
+│   │   ├── Content Creation
+│   │   ├── Supervised Fine-tuning
+│   ├── Use in Continual Learning
+│   ├── Prevalence in Multiple Continual Learning Scenarios
+│   └── Challenges
+│       ├── Forgetting Problem
+│       ├── Domain Shift
+│       ├── Concept Drift
+│       ├── Incremental Class Learning
+│       └── Lifelong Relation Extraction
+├── Review of Current Research
+│   ├── Incremental Fine-tuning
+│   ├── Regularization
+│   ├── Dynamic Architecture
+│   ├── Memory Replay
+│   ├── Data Generative Models
+│   └── Metamorphic Relation Learning
+└── Concluding Remarks and Future Perspectives
+    ├── Existing Challenges
+    ├── Emerging Challenges
+    └── Future Directions

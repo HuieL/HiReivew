@@ -1,0 +1,29 @@
+Video Understanding with Large Language Models
+├── CUSSL
+│   ├── ClipBERT
+│   ├── MMT
+│   ├── UniVL
+│   ├── HERO
+│   ├── VIVO
+│   └── VideoLM
+├── Fine-tuning CLIP for Video Understanding
+│   ├── Video clip retrieval
+│   ├── Activity recognition
+│   └── Multimodal video semantic segmentation
+├── Continued Pre-training
+│   ├── Video Captioning
+│   ├── Video Summarization
+│   ├── Video Q&A
+│   ├── Multimodal Dialog
+│   ├── Moment Retrieval 
+│   └── Video Recommendation
+├── Evaluation
+│   ├── Downstream tasks
+│   ├── Models and datasets
+│   ├── Comparison metrics
+│   └── Result presentation
+├── Discussion 
+│   ├── Advantages
+│   ├── Limitations
+│   └── Future Directions
+└── Conclusion

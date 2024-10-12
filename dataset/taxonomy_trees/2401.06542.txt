@@ -1,0 +1,42 @@
+Robustness-Aware 3D Object Detection in Autonomous Driving: A Review and Outlook
+├── Robustness in 3D Object Detection
+│   ├── Sensor Degradations
+│   │   ├── Sensor Malfunctioning
+│   │   ├── Sensor Noise
+│   │   └── Occlusion
+│   ├── Environmental Variations
+│   │   ├── Lighting Conditions
+│   │   ├── Weather Conditions
+│   │   └── Road Surfaces
+│   └── Representational Limitations
+│       ├── Ambiguity and Confusion
+│       ├── Object Scaling and Viewpoint
+│       └── Object Occlusion and Truncation
+├── Adversarial Attacks and Defenses on 3D Object Detection
+│   ├── Adversarial Attacks
+│   │   ├── Physical Adversarial Attacks
+│   │   └── Digital Adversarial Attacks
+│   └── Adversarial Defenses
+│       ├── Defensive Distillation
+│       ├── Adversarial Training
+│       └── Gradient Masking
+├── Datasets and Metrics for Evaluating Robustness
+│   ├── Datasets
+│   │   ├── Real-world Datasets
+│   │   ├── Synthetic Datasets
+│   │   └── Attack and Defense Datasets
+│   └── Metrics
+│       ├── Traditional Metrics
+│       ├── Perturbation-based Metrics
+│       └── Robustness Benchmarks
+├── Existing Techniques for Improving Robustness
+│   ├── Data Augmentation
+│   ├── Representation Learning
+│   ├── Adversarial Training
+│   └── Robust Neural Architectures
+├── Open Challenges and Future Directions
+│   ├── Robustness vs Accuracy
+│   ├── Standard Robustness Definition
+│   ├── Robustness Benchmark
+│   └── Practical Defense Mechanism
+└── Conclusions

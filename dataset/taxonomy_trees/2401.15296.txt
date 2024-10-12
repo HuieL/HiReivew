@@ -1,0 +1,43 @@
+3D Skeleton Based Person Re-Identification (3D-SBPRI)
+├── Preliminaries
+│   ├── Person Re-Identification
+│   ├── 3D Skeleton Data and Its Representation
+│   ├── Advantages of 3D Skeleton Data for Re-ID
+│   └── Challenges for 3D Skeleton Based Person Re-ID
+├── 3D Skeleton Based Person Re-Identification Approaches
+│   ├── Geometry-based Approaches
+│   │   ├── Handcrafted-feature-based Approaches
+│   │   └── Model-based Approaches
+│   ├── Deep Learning-based Approaches
+│   │   ├── CNN-based Approaches
+│   │   ├── RNN-based Approaches
+│   │   ├── Reinforced Learning-based Approaches
+│   │   └── GAN-based Approaches
+│   ├── Metric Learning-based Approaches
+│   ├── Multi-modal Fusion Approaches
+│   └── Temporal Modeling Approaches
+├── Design Aspects of 3D-SBPRI
+│   ├── Skeleton Sequence Representation
+│   │   ├── Single-frame Representation
+│   │   └── Multi-frame Representation
+│   ├── Architecture Design
+│   ├── Loss Functions
+│   ├── Inter/Between-camera Variations Handling
+│   └── Data Augmentation Techniques
+├── Datasets and Evaluation Metrics
+│   ├── CASIA-B
+│   ├── BIWI
+│   ├── KS20
+│   ├── 3DPeS
+│   └── PRID2011
+├── Related Applications
+│   ├── Action Recognition
+│   ├── Falls Detection
+│   ├── Gesture Recognition
+│   └── Anomaly Detection
+├── Open Issues and Future Directions
+│   ├── Enhancing the Robustness of 3D-SBPRI
+│   ├── Exploitation of Other Modalities for 3D-SBPRI
+│   ├── Wearable Sensor-based 3D-SBPRI
+│   └── Domain Adaptation for 3D-SBPRI
+└── Conclusion

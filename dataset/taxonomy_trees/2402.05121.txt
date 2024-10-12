@@ -1,0 +1,48 @@
+Large Language Model for Table Processing
+├── General Architecture
+│   ├── Basic Model Architecture
+│   │   ├── Transformer Based Architecture
+│   │   ├── Convolutional Neural Networks
+│   │   └── Recurrent Neural Networks
+│   └── Specific Table Processing Logic Architecture
+├── Main Approaches
+│   ├── Text Approach
+│   │   ├── Sequence to Sequence Models
+│   │   └── Text to Table Models
+│   ├── Image Approach
+│   ├── Hybrid Approach
+│   └── Graph Approach
+├── Tasks for Table Processing
+│   ├── Table Reading Comprehension
+│   ├── Table to Text Generation
+│   ├── Dialogue System
+│   ├── Data Augmentation
+│   ├── Question Answering
+│   ├── Knowledge Base Completion
+│   └── Others (Fact Checking, Table Retrieval/Creation)
+├── Datasets for Table Processing
+│   ├── Wikipedia Table Corpus
+│   ├── Structured Tabular Data 
+│   │   ├── TabFact
+│   │   ├── WikiTables
+│   │   ├── TableBank
+│   │   ├── TOEFL
+│   │   ├── HotpotQA
+│   │   └── ...  
+│   └── Semi-Structured Web Pages
+├── Evaluation Metrics
+│   ├── Automatic Evaluation
+│   │   ├── BLEU
+│   │   ├── ROUGE
+│   │   ├── METEOR
+│   │   ├── CIDEr
+│   │   ├── BERTScore
+│   │   └── ...
+│   └── Human Evaluation
+└── Challenges and Opportunities
+    ├── Sparse Supervision
+    ├── Out of Vocabulary Problem
+    ├── Robustness and Generalization
+    ├── Computation Cost
+    ├── Make Use of External Knowledge
+    └── Multimodal Processing.

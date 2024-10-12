@@ -1,0 +1,41 @@
+Concept-based Explainable Artificial Intelligence: A Survey
+├── Background and Overview
+│   ├── Explainable Artificial Intelligence (XAI)
+│   ├── Concept-based XAI
+│   └── Concept-based XAI Approaches
+├── Concept Identification Methods
+│   ├── Indirect Concept Identification
+│   │   ├── Sensitivity-based Methods
+│   │   ├── Activation-based Methods
+│   │   ├── Optimization-based Methods
+│   │   └── Others
+│   └── Direct Concept Identification
+│       ├── Supervised Methods
+│       ├── Semi-supervised and Unsupervised Methods
+│       └── Hybrid Methods
+├── Representation Learning Methods
+│   ├── Indirect Representation Learning
+│   │   ├── Prototype-based Methods
+│   │   ├── Latent Factor Modeling
+│   │   ├── Attention Mechanism
+│   │   └── Others
+│   └── Direct Representation Learning
+│       ├── Disentangled Representation Learning
+│       ├── Concept Bottleneck Models
+│       └── Hybrid Methods
+├── Interpretation Methods
+│   ├── Quantitative Evaluations
+│   └── Qualitative Evaluations
+├── Applications and Case Studies
+│   ├── Healthcare
+│   ├── Autonomous Vehicles and Robotics
+│   ├── Human-computer Interaction
+│   ├── Fairness, Accountability, Transparency and Ethics (FATE)
+│   └── Other Domains
+├── Open Issues and Future Directions
+│   ├── Unknown and Misleading Concepts
+│   ├── Concept Drift
+│   ├── Multi-modality, Multi-task, and Multi-agent Systems
+│   ├── Concept-based Reinforcement Learning
+│   └── Human-centered Concept Identification
+└── Conclusion

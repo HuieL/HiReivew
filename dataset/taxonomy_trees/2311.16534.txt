@@ -1,0 +1,45 @@
+Graph Prompt Learning (GPL)
+├── Background
+│   ├── Graphs
+│   │   └── Definition and transformations
+│   └── Learning Algorithms
+│       ├── Supervised learning
+│       ├── Unsupervised learning
+│       ├── Semi-supervised learning
+│       └── Reinforcement learning
+├── Categories of Graph Prompt Learning
+│   ├── Graph-Based Prompt Learning
+│   │   ├── Reinforcement learning-based methods
+│   │   └── Graph attention networks
+│   ├── Graph Convolutional Networks
+│   │   ├── GCN-based methods
+│   │   └── GraphSAGE-based methods
+│   ├── Graph Neural Networks
+│   └── Hybrid Graph Prompt Learning
+│       ├── Heterogeneous Graph Prompt Learning
+│       └── Cross-modal Graph Prompt Learning
+├── Applications of Graph Prompt Learning
+│   ├── Knowledge graph completion
+│   ├── Medical diagnosis
+│   ├── Drug discovery
+│   ├── Social network analysis
+│   ├── Traffic prediction
+│   ├── Natural language processing
+│   └── Computer vision
+├── Evaluation Metrics
+│   ├── Adoption of Evaluation Metrics
+│   │   ├── Precision
+│   │   ├── Recall
+│   │   ├── F1-score
+│   │   ├── ROC-AUC
+│   │   └── PR-AUC
+│   └── Datasets and Benchmarks
+│       ├── Citation networks
+│       ├── Social networks
+│       └── Biological networks
+└── Future Research Directions
+    ├── Graph Prompt Design
+    ├── Incorporating Edge Information
+    ├── Scaling and Efficiency 
+    ├── Cross-modal Graph Learning
+    └── Fairness, Accountability, Transparency and Ethics in GPL

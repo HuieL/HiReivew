@@ -1,0 +1,31 @@
+Vertical Federated Learning (VFL)
+├── Basic Concepts of VFL
+│   ├── VFL Term Definitions
+│   └── Challenge Descriptions
+├── Related VFL Works
+│   ├── Data Prepossessing Methods in VFL
+│   ├── Feature Learning Methods in VFL
+│   ├── Model Learning Methods in VFL
+│   │   ├── Joint Learning
+│   │   └── Multi-Task Learning
+│   ├── Post-Processing Methods in VFL
+│   └── Advanced Topics in VFL
+│       ├── Incentive Mechanisms
+│       ├── Privacy-Preserving Mechanisms
+│       └── Robust Mechanisms
+├── VFL Effectiveness
+│   ├── Effectiveness for Service Providers
+│   ├── Effectiveness for User Privacy
+│   └── General Effectiveness
+├── Security Challenges in VFL
+│   ├── Traditional Distributed Learning Attacks
+│   │   ├── Poisoning Attacks
+│   │   └── Evasion Attacks
+│   ├── Special Attacks for VFL
+│   │   ├── Knowledge Corruption Attacks
+│   │   ├── Edge Causative Attacks
+│   │   └── Model Reconstruction Attacks
+│   └── Security Defenses in VFL
+└── Applicability Real-World Systems
+    ├── VFL Applications in Industrial Systems
+    └── Potential VFL Applications in Other Fields

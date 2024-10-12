@@ -1,0 +1,17 @@
+Large Language Models (LLM) Serving as Intelligent Agents
+├── LLM Empowered by Code
+│   ├── Cases where LLM are Empowered by Code
+│   └── How Coding Complements LLM
+├── Role of LLM in Intelligent Agents
+│   ├── Defining Intelligent Agents
+│   ├── Characteristics of Intelligent Agents
+│   └── Interaction of LLM and Intelligent Agents
+├── Common Applications of LLM as Intelligent Agents
+│   ├── Existing Applications   
+│   └── Potential Future Applications
+├── Comparison of LLM with Other Models in Intelligent Agents Application
+│   ├── Comparative Analysis
+│   └── Case Studies
+└── Conclusion and Future Research Avenues
+    ├── Summary of Findings
+    └── Future Research Directions

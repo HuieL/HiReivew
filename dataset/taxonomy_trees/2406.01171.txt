@@ -1,0 +1,37 @@
+Two Tales of Persona in LLMs: A Survey of Role-Playing and Personalization
+├── Persona and Chatbots
+│   ├── Motivation and Usage
+│   ├── Persona in Role-Playing Games
+│   │   ├── Player-Driven Persona
+│   │   │   ├── Informed
+│   │   │   └── Uninformed
+│   │   └── Non-Player Characters
+│   └── Persona in Single-User Chats
+│       ├── Handcrafted Persona Profiles
+│       │   ├── Persona-Chat Dataset
+│       │   └── ConvAI Dataset
+│       └── Learning Persona from Data
+│           ├── Persona as User Profile
+│           ├── Persona as Previous Conversations
+│           ├── Persona as Social Roles
+│           └── Persona as Metadata
+├── Persona and LLMs
+│   ├── Learning Persona in Pre-Training
+│   ├── Learning Persona in Fine-Tuning
+│   │   ├── Persona Handling Strategies
+│   │   │   ├── Same Input
+│   │   │   ├── Separate Input
+│   │   │   └── Mixed Input
+│   │   └── Persona Utilization Strategies
+│   │       ├── Soft Prompt
+│   │       ├── Hard Prompt
+│   │       └── Implicit Prompt
+│   └── Evaluation Metrics
+│       ├── Persona Consistency
+│       ├── Persona Diversity
+│       └── Persona Naturalness and Relevance
+└── Challenges and Future Directions
+    ├── Data Collection and Annotation Challenge
+    ├── Evaluation Challenge
+    ├── Personalization and Privacy Challenge
+    └── Computational Efficiency Challenge

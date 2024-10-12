@@ -1,0 +1,41 @@
+Visual Text Meets Low-level Vision: A Comprehensive Survey on Visual Text Processing
+├── Text Detection
+│   ├── Classical Approaches
+│   │   ├── Rule-based Methods
+│   │   ├── Texture-based Methods
+│   │   ├── Stroke-width Transform
+│   │   └── Machine Learning-based Methods
+│   └── Deep Learning-based Methods
+│       ├── Regression-based Methods
+│       ├── Segmentation-based Methods
+│       └── Hybrid Methods
+├── Text Recognition
+│   ├── Classical Approaches
+│   │   ├── Segmentation-based Methods
+│   │   └── Recognition-based Methods
+│   └── Deep Learning-based Methods
+│       ├── Sequence Recognition Networks
+│       ├── Attention-based Methods
+│       └── Methods by Shape Deformation or Rectification
+├── Text Tracking
+│   │   ├── Kalman Filter and Particle Filter
+│   │   ├── Multiple Hypothesis Tracking
+│   │   ├── Tracking-Learning-Detection
+│   │   └── Deep Learning for Text Tracking
+├── Text Removal and Restoration
+│   │   ├── Text Removal
+│   │   ├── Text Restoration for Document Images
+│   │   └── Text Restoration for Natural Images
+├── Emerging Topics
+│   ├── Text in 3D Scene
+│   ├── Text-based Face Editing
+│   └── Text Style Transfer
+├── Data and Evaluation
+│   │   ├── Datasets for Text Detection and Recognition
+│   │   ├── Datasets for Text Tracking
+│   │   ├── Datasets for Text Removal and Restoration
+│   │   ├── Evaluation Metrics for Text Detection and Recognition
+│   │   └── Evaluation Metrics for Text Tracking, Removal, and Restoration
+└── Conclusion and Future Perspectives
+    ├── Post-OCR Text Understanding
+    └── Vision-and-Language Research

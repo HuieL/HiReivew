@@ -1,0 +1,38 @@
+Counterfactual Learning on Graphs: A Survey
+├── Preliminaries
+│   ├── Graph Neural Networks (GNNs)
+│   │   ├── Graph Convolutional Networks (GCNs)
+│   │   ├── Graph Attention Networks (GATs)
+│   │   └── Graph Isomorphism Networks (GINs)
+│   ├── Counterfactual Learning
+│   │   ├── Structural Causal Models (SCMs)
+│   │   ├── Potential Outcomes Framework (POF)
+│   │   └── Do-calculus
+│   └── Counterfactual Learning on Graphs
+│       ├── Counterfactual Fairness
+│       └── Causal Inference
+├── Counterfactual Learning Methods for Graphs
+│   ├── Causal Inference Based Methods
+│   │   ├── Causal effect estimation
+│   │   ├── Treatment effect estimation
+│   │   └── Causal Structure Learning
+│   ├── Counterfactual Reasoning Based Methods
+│   │   ├── Counterfactual Imputation
+│   │   ├── Counterfactual Policy Evaluation
+│   │   └── Counterfactual Explanation
+│   └── Fairness Regularization Based Methods
+│       ├── Learning Fair Representations
+│       ├── Disentangling Representations
+│       └── Adversarial Learning
+├── Applications
+│   ├── Recommendation Systems
+│   ├── Social Networks
+│   ├── Biological Networks
+│   └── Other Applications
+│       ├── Marketing
+│       └── Healthcare
+└── Future Directions
+    ├── Further Improvement of Counterfactual Learning Methods for Graphs
+    ├── More Theoretical Insights of Counterfactual Learning on Graphs
+    ├── More Practical Applications of Counterfactual Learning on Graphs
+    └── Interpretability of Counterfactual Learning on Graphs

@@ -1,0 +1,34 @@
+Simulating Quantum Computations on Classical Machines: A Survey
+├── Classical Simulation of Quantum Computers
+│   ├── Matrix Product State Method
+│   ├── Stabilizer Rank Method
+│   ├── Moments Estimation Methods
+├── Classical Simulation of Quantum Channels
+│   ├── Direct Methods
+│   │   ├── Quantum Channel Representation Methods
+│   │   ├── Structural Exploitation of Quantum Channels
+│   ├── Indirect Methods
+│   │   ├── Replay
+│   │   ├── Collision
+├── Classical Simulation of Quantum Noise
+│   ├── Quantum Noise Models
+│   │   ├── Standard Models
+│   │   ├── Non-standard Models
+│   ├── Error Correction Codes
+│   │   ├── Classical-Quantum CKKS Scheme
+│   │   ├── Hybrid Tensor Network and Clifford Code
+├── Classical Simulation of Quantum Systems
+│   ├── Quantum Many-Body Physics
+│   ├── Quantum Chemistry
+├── Classical Simulation of Post-Quantum Cryptography
+│   ├── Lattice-based Cryptography
+│   ├── Coding-based Cryptography
+├── The Usage of Simulation Programs and Libraries
+│   ├── Q#: a domain-specific programming language
+│   ├── Qiskit: an open-source SDK
+│   ├── The Q\(\|\)P Framework: a general quantum programming language
+│   ├── Cirq: a framework by Google
+│   ├── Stim: a fast quantum circuit simulator
+└── Conclusions
+    ├── The Roadmap Toward a Fault-tolerant Quantum Computer
+    ├── Research Outlook

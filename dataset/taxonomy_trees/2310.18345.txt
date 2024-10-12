@@ -1,0 +1,31 @@
+Semantic Processing Techniques
+├── Semantic Analysis
+│   ├── Lexical Semantics
+│   │   ├── Word sense disambiguation
+│   │   └── Named entity recognition
+│   ├── Phrase Level Semantics
+│   │   ├── Semantic role labeling
+│   │   └── Propositional phrase attachment
+│   └── Sentence Level Semantics
+│       ├── Semantic parsing
+│       └── Sentiment analysis
+├── Semantic Networks
+│   ├── WordNet
+│   ├── FrameNet
+│   └── PropBank
+├── Distributional Semantics
+│   ├── Vector space models
+│   ├── Latent Semantic Analysis
+│   └── Neural based methods (word2vec, GloVe, fastText, etc.)
+├── Knowledge Graphs and Semantic Web
+│   ├── RDF, OWL
+│   ├── Linked Data
+│   ├── SPARQL
+│   └── Ontology Learning
+├── Word Similarity and Semantic Relatedness Measures
+└── Applications
+    ├── Information Extraction
+    ├── Information Retrieval
+    ├── Text Summarization
+    ├── Question Answering
+    └── Machine Translation

@@ -1,0 +1,31 @@
+Data-Efficient Graph Learning 
+├── Introduction
+│   ├── Problem Statement
+│   │   ├── Data Efficiency in Graph 
+│   │   └── Challenges
+│   └── Proposed Approaches
+├── Graph Structure Learning
+│   ├── Unsupervised SSL Methods
+│   ├── Semi-supervised SSL Methods
+│   ├── Weakly or Distantly Supervised SSL Methods
+│   └── Supervised SSL Methods
+├── Graph Representation Learning
+│   ├── Methods Based on Graph Convolutional Network (GCN)
+│   │   ├── Label Propagation Based GCN
+│   │   ├── Graph Laplacian Regularization Based GCN
+│   │   └── Active Learning Based GCN
+│   ├── Methods Based on Graph Attention Networks (GAT)
+│   │   ├── Label Propagation Based GAT
+│   │   ├── Graph Laplacian Regularization Based GAT
+│   │   └── Active Learning Based GAT
+│   ├── Methods Based on Graph Isomorphism Network (GIN)
+│   │   ├── Label Propagation Based GIN
+│   │   ├── Graph Laplacian Regularization Based GIN
+│   │   └── Active Learning Based GIN
+│   └── Other Models and Methods
+├── Graph Augmentation Approaches
+├── Meta Learning
+├── Transfer Learning 
+├── Few-Shot Learning
+├── Zero-Shot Learning
+└── Conclusion and Future Directions

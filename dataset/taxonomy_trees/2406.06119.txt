@@ -1,0 +1,34 @@
+Incomplete Multi-label Learning (IML)
+├── Traditional Multi-label Learning Issues
+│   ├── Relevance learning
+│   └── Ranking learning
+├── Incident - missingness Relationships
+│   ├── Missing Completely At Random (MCAR)
+│   ├── Missing At Random (MAR)
+│   └── Missing Not At Random (MNAR)
+├── Types of Incomplete Multi-label Learning
+│   ├── Multi-Label Learning with missing labels (MLML)
+│   ├── Multi-Label Learning with label ambiguity (MLLA)
+│   ├── Multi-Label Learning with few labels (MLFL)
+│   └── Multi-Label Learning with partial labels (MLPL)
+├── Techniques of Handling Incomplete Multi-label Data
+│   ├── Problem reformulation-based methods
+│   │   ├── Independent label-specific classifiers approach
+│   │   ├── Class-modulation based multi-label learning
+│   │   └── Ensemble of classifier chains
+│   ├── Data imputation-based methods
+│   │   ├── Low-rank based methods
+│   │   └── Semi-supervised method
+│   └── Advanced techniques
+│       ├── Label correlations exploring
+│       ├── Instance-specific methods
+│       └── Deep learning methods
+├── Evaluation Metrics for Incomplete Multi-label Learning
+│   ├── Multi-label metrics
+│   ├── Single-label metrics
+│   └── Ranking metrics
+└── Future Trends
+    ├── Data generation for incomplete multi-label learning
+    ├── Unknown label learning
+    ├── Few-shot incomplete multi-label learning
+    └── Transfer learning for incomplete multi-label data

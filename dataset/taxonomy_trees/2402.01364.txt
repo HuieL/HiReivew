@@ -1,0 +1,25 @@
+Continual Learning for Large Language Models: A Survey
+├── Continual Learning
+|   ├── Regularization-based approaches
+|   |   ├── Elastic Weight Consolidation (EWC)
+|   |   ├── SI (Synaptic Intelligence)
+|   |   └── Variants of Regularization-based methods
+|   ├── Architecture-based approaches
+|   |   ├── Dynamic architectures for incremental knowledge computation
+|   |   ├── Learning without Forgetting (LwF)
+|   |   └── Variants of Architecture-based methods
+|   └── Memory-based approaches
+|       ├── GEM (Gradient Episodic Memory)
+|       ├── A-GEM (Averaged GEM)
+|       └── Variants of Memory-based methods
+├── Continual Learning in Large Scale Language Models
+|   ├── Specific challenges
+|   └── Solutions
+├── Practical Considerations
+|   ├── Benchmark datasets
+|   ├── Evaluation metrics
+|   └── Implementation considerations
+└── Future Directions
+    ├── Research trends
+    ├── Opportunities
+    └── Potential impacts

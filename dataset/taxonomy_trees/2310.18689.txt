@@ -1,0 +1,46 @@
+Foundational Models in Medical Imaging 
+├── Medical Imaging Overview
+│   ├── Medical imaging data
+│   │   ├── 2D image 
+│   │   ├── 3D image 
+│   │   └── Object classes
+│   └── Medical imaging tasks
+│       ├── Segmentation 
+│       ├── Reconstruction 
+│       ├── Classification 
+│       ├── Registration 
+│       ├── Detection 
+│       └── Enhancement 
+├── The first wave of AI in medical imaging
+│   ├──  Learning on hand-crafted features
+│   └──  Learning with images as inputs
+├── The second wave of AI and Deep learning in medical imaging
+│   ├── General-purpose computer vision models
+│   │   ├── AlexNet 
+│   │   ├── VGG
+│   │   ├── GoogLeNet
+│   │   ├── ResNet
+│   │   └── DenseNet
+│   └── Medical imaging-specific models
+│       ├── Long short-term memory networks (LSTMs)
+│       ├── Convolutional neural networks (CNNs)
+│       ├── Recurrent neural networks (RNNs)
+│       └── 3D models
+├── Endeavour towards third wave
+│   ├── Medical knowledge infused learning 
+│   │   ├── Prior knowledge-based loss 
+│   │   ├── Prior knowledge-based architecture 
+│   │   └── Prior knowledge-based data preparation 
+│   ├── Self supervised learning 
+│   └──  Transfer learning 
+├── Future vision
+│   ├── Integration of multiple modalities 
+│   ├── Rare disease diagnosis 
+│   ├── Explainability 
+│   │   ├── Model explainability 
+│   │   ├── End-user explainability 
+│   │   └── Transparency in AI 
+│   └── AI for global health 
+└── Open challenges
+    ├── Benchmarking 
+    └── AI ethics in Medical Imaging.

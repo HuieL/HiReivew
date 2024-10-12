@@ -1,0 +1,57 @@
+Evaluating Large Language Models: A Comprehensive Survey
+├── Scope of Evaluation
+│   ├── Cognitive Abilities of Language Models (LMs)
+│   │   ├── Language Reasoning
+│   │   ├── Commonsense and World Knowledge
+│   │   ├── Ethical, Moral and Value Judgment
+│   │   ├── Creativity and Humor
+│   │   └── Contextual Understanding
+│   ├── Non-Cognitive Capabilities of LMs
+│   │   ├── Machine Reading and Comprehension
+│   │   ├── Translation
+│   │   ├── Summarization
+│   │   ├── Dialogue
+│   │   ├── Query Answering
+│   │   ├── Multiple-Choice Questions
+│   │   ├── Factual Question Answering
+│   │   └── Text Generation
+│   └── General-Purpose Metrics and Techniques
+├── Data-Driven Evaluation
+│   ├── Manual Annotation
+│   ├── Automatic Evaluation
+│   ├── Peer Evaluation
+│   └── Interactive Evaluation
+├── Challenge
+│   ├── Evaluation Measure Challenge
+│   │   ├── Precision and Recall
+│   │   ├── BLEU, METEOR, ROUGE
+│   │   ├── Perplexity
+│   │   └── GLEU, BLEURT
+│   ├── Gold Standard Challenge
+│   ├── Comparison Standard Challenge
+│   │   ├── Intra-Model Comparison
+│   │   └── Inter-Model Comparison
+│   └── Annotation Challenge
+├── Perspectives in Large Language Model Evaluation
+│   ├── Human Perspective
+│   │   ├── Fairness and Bias
+│   │   ├── Social and Political Affordances
+│   │   ├── Privacy and Security
+│   │   │   ├── Information Leakage
+│   │   │   └── Injection Attacks
+│   │   └── Ethical Considerations
+│   ├── Machine Perspective
+│   │   ├── Robustness
+│   │   ├── Cohesion and Contextuality
+│   │   ├── Factuality
+│   │   ├── Counterfactual Generations
+│   │   └── Unnatural Language Phenomena
+│   └── Systems Perspective
+│       ├── Efficiency
+│       ├── Stability
+│       └── Scalability
+└── Future Directions and Open Questions
+    ├── LM’s with Partial Knowledge
+    ├── LM’s with Total Knowledge
+    ├── Evaluation Datasets
+    └── Evaluation Metrics

@@ -1,0 +1,29 @@
+Large Language Models for Code Generation
+├── LLMs for Code Generation
+│   ├── Transformer-based Models
+│   |   ├── BERT
+│   |   ├── GPT-3
+│   |   └── T5
+│   └── RNN-based Models
+│       └── LSTM
+├── Techniques for Training LLMs
+│   ├── Supervised Training
+│   ├── Semi-supervised Training
+│   └── Reinforcement Learning Methods
+├── Evaluation Metrics for LLMs
+│   ├── Objective Metrics
+│   |   ├── BLEU
+│   |   ├── ROUGE
+│   |   └── METEOR
+│   └── Human Evaluation Metrics
+├── Applications of LLMs in Code Generation
+│   ├── Automatic Programming
+│   ├── Code Translation
+│   ├── Code Summarization
+│   └── Code Comment Generation
+├── Current Challenges and Future Work
+│   ├── Data Privacy Concerns
+│   ├── Computation Costs
+│   ├── Multilingual Code Generation
+│   └── Adapting to New Programming Languages
+└── Conclusion and Final Thoughts

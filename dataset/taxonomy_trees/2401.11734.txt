@@ -1,0 +1,47 @@
+Colorectal Polyp Segmentation in the Deep Learning Era: A Comprehensive Survey
+├── Background
+│   ├── Colorectal Polyps Detection and Segmentation
+│   ├── Evaluation Metrics
+│   │   ├── Dice Similarity Coefficient (DSC)
+│   │   ├── Intersection over Union (IoU)
+│   │   ├── Sensitivity
+│   │   ├── Specificity
+│   │   ├── F1-Score
+│   │   └── Balanced Score (BA)
+│   └── Dataset and Annotation
+├── Conventional Image Processing Techniques
+│   ├── Color-Based Techniques
+│   ├── Texture-Based Techniques
+│   └── Shape-Based Techniques
+├── Machine Learning Techniques
+│   ├── SVM
+│   ├── Random Forests
+│   └── K-Nearest Neighbor Algorithm
+├── Deep Learning Techniques
+│   ├── Fully Convolutional Network (FCN)
+│   ├── U-Net
+│   ├── SegNet
+│   ├── DeepLab
+│   ├── FC-DenseNet
+│   |── W-Net
+│   |── Attention U-Net
+│   |── CE-Net
+│   └── Multi-Scale and Multi-View Networks
+├── Other Deep Learning Variants
+│   ├── Combining DL with Classic Image Processing Models
+│   ├── Generative Adversarial Networks (GANs)
+│   ├── Semi-Supervised Learning
+│   └── Transfer Learning
+├── Evaluation and Benchmarking
+│   ├── Cross-Validation
+│   ├── Dataset Split
+│   └── Online Public Benchmark
+├── Open Issues and Future Trends
+│   ├── Lack of Standard Benchmarks
+│   ├── Small Datasets
+│   ├── Lack of Interpretability
+│   ├── Overfitting and Model Complexity
+│   ├── Transfer Learning
+│   ├── Semi-supervised and Unsupervised Learning
+│   └── Real-time Polyp Segmentation
+└── Conclusion

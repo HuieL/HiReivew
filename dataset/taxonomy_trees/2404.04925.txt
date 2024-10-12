@@ -1,0 +1,29 @@
+Multilingual Large Language Models (MLLM)
+├── MLLM Typology
+│   ├── Morphologically related languages
+│   │    └── Languages from the same family
+│   └── Morphologically unrelated languages
+│        └── Languages from different families
+├── MLMLM Techniques
+│   ├── Pretraining MLLM
+│   │   └── Data Collection for MLLM
+│   │   └── Data Augmentation for MLLM
+│   │   └── Model Architectures for MLLM
+│    ├── Fine-tuning MLLM
+│    ├── Zero-shot Transfer with MLLM
+│    └── Few-shot Learning with MLLM
+├── Resources for Building and Evaluating MLLM
+│   ├── Publicly Available Datasets for MLLM
+│   ├── Evaluation Metrics for MLLM
+│   └── Tools and Libraries for MLLM
+├── Applications of MLLM
+│   ├── Machine Translation
+│   ├── Named Entity Recognition
+│   ├── Sentiment Analysis
+│   └── Cross-lingual Information Retrieval
+├── Frontiers and Challenges in MLLM
+│   ├── Resource Disparity Issue 
+│   ├── Model Complexity Issue
+│   ├── Evaluation and Benchmarking Issue
+│   └── Ethical and Social Challenges
+└── Conclusion

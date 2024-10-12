@@ -1,0 +1,33 @@
+Deep Learning for Multivariate Time Series Imputation (DL-MTSI)
+├── Problem Requirements
+│   ├── Scalability 
+│   ├── Robustness 
+│   ├── Efficiency 
+│   └── Practical Interpretability 
+├── Deep Learning Techniques
+│   ├── Recurrent Neural Networks (RNNs)
+│   │   ├── Long Short-Term Memory (LSTM)
+│   │   │   ├── Integrated LSTM (I-LSTM)
+│   │   │   └── BRITS 
+│   │   ├── Gated Recurrent Unit (GRU)
+│   │   └── Echo State Network (ESN)  
+│   ├── Temporal Convolutional Networks (TCNs)
+│   │   ├── Dynamic Temporal Attention Network (DTAN)
+│   │   └── M-RNN 
+│   ├── Transformer Models
+│   │   └── Temporal Transformer Network (TTN)
+│   ├── Graph Convolutional Networks (GCNs)
+│   │   ├── GConv-based Imputation Model 
+│   │   └── Feature Selection and Graph Construction  
+│   └── Hybrid Models
+│       ├── M-RNN 
+│       └── AR-RNN 
+├── Evaluation Metrics
+│   ├── Root Mean Square Error (RMSE)
+│   ├── Mean Absolute Percentage Error (MAPE)
+│   └── Mean Absolute Error (MAE)
+└── Applications
+    ├── Weather Forecasting
+    ├── Medical Domain
+    ├── Stock Market Prediction 
+    └── Internet of Things (IoT)

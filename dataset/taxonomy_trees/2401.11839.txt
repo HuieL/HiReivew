@@ -1,0 +1,50 @@
+AI for social science and social science of AI: A Survey
+├── AI for Social Science
+│   ├── New Data Sources
+│   │   ├── Text data 
+│   │   ├── Image data 
+│   │   └── Network data 
+│   ├── New Analytic Tools
+│   │   ├── Supervised Learning 
+│   │   ├── Unsupervised Learning 
+│   │   ├── Reinforcement Learning 
+│   │   └── Deep Learning 
+│   └── New Experimental Paradigms
+│       ├── Virtual Labs 
+│       ├── AI as Experimenter 
+│       └── AI as Laboratory 
+├── Social Science of AI
+│   ├── AI & Labor
+│   │   ├── Skill-Biased Technological Change 
+│   │   ├── Routine-Biased Technological Change 
+│   │   └── AI and Employment 
+│   ├── AI & Inequality
+│   │   ├── AI, Inequality, and Polarization 
+│   │   └── AI, Race, and Gender 
+│   ├── AI & Privacy
+│   │   └── AI and Surveillance
+│   ├── AI & Democracy
+│   │   ├── AI, Social Media, and Democracy 
+│   │   ├── AI, Public Opinion, and Polarization 
+│   │   └── AI, Misinformation, and Foreign Influence 
+│   ├── AI & Security
+│   │   ├── AI, Autonomy, and Lethality 
+│   │   └── AI, Cybersecurity, and Information Warfare 
+│   └── AI & Law
+│       ├── Explainability, Transparency, and Accountability 
+│       └── Liability and Autonomous Systems 
+├── New Institutional Arrangements
+│   ├── AI in the State
+│   ├── AI in the Market
+│   ├── AI in the Household 
+│   └── AI in Civil Society
+├── AI & Science 
+│   ├── Theory and Prediction 
+│   ├── Causal Inference and Structural Models
+│   ├── Social Interaction and Complexity 
+│   └── AI and Scientific Publication 
+└── Conclusion
+    ├── Opportunities
+    ├── Risks
+    ├── Policy implications
+    └── Future directions

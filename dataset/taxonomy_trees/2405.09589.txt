@@ -1,0 +1,41 @@
+Hallucination in Foundation Models
+├── Hallucination in Text Models
+│   ├── Characteristics of Text Hallucination
+│   │   ├── Factual Inconsistency
+│   │   ├── Incomprehensibility
+│   │   ├── Redundancy
+│   │   └── Inexplicitness
+│   ├── Detection of Text Hallucination
+│   │   ├── Manual Annotation
+│   │   ├── Automatic Detection
+│   │   └── Hybrid Methods
+│   └── Reduction of Text Hallucination
+│       ├── Pre-training Tweaks
+│       ├── Fine-tuning Improvements
+│       └── Post-processing Methods
+├── Hallucination in Image Models
+│   ├── Characteristics of Image Hallucination
+│   ├── Detection of Image Hallucination
+│   │   ├── Subjective Assessment
+│   │   ├── Automatic Detection
+│   │   └── Hybrid Methods
+│   └── Reduction of Image Hallucination
+│       └── Modification of Loss Function
+├── Hallucination in Video Models
+│   ├── Characteristics of Video Hallucination
+│   ├── Detection of Video Hallucination 
+│   │   └── Subjective Assessment
+│   └── Reduction of Video Hallucination
+│       ├── Training Tweaks
+│       └── Loss Function Adjustment
+├── Hallucination in Audio Models
+│   ├── Characteristics of Audio Hallucination
+│   ├── Detection of Audio Hallucination
+│   │   └── Subjective Assessment
+│   └── Reduction of Audio Hallucination
+│       └── Discriminative Training
+└── Future Works and Conclusion
+    ├── Hallucination Benchmark
+    ├── Comprehensive Evaluation Metrics
+    ├── Explainability of Hallucination
+    └── Hallucinating Fairly

@@ -1,0 +1,38 @@
+Generative and Discriminative Visual Foundation Model (GDVFM)
+├── Model Foundations
+│   ├── Generative Foundations
+│   │   ├── Transformative Generative Models (TGM)
+│   │   └── Adversarial Generative Models (AGM)
+│   └── Discriminative Foundations
+│       ├── Unimodal Models
+│       ├── Multimodal Models
+│       └── Self-Supervised Learning Models
+├── Unifying Generative and Discriminative Foundations
+│   ├── By Modifying Generative Foundations
+│   │   ├── Direct Regression on Latent Space
+│   │   ├── Incorporating Conditional Variables
+│   │   ├── Latent Space Regularization
+│   │   └── Designing Complicated Generative Architectures
+│   └── By Modifying Discriminative Foundations
+│       ├── By Modifying Input Space
+│       ├── By Modifying Data Training Strategy
+│       └── By Modifying Architectures
+├── Few-shot Learning
+│   ├── Metric Learning Based
+│   ├── Optimization Based
+│   ├── Few-Shot Learning from Generative Models
+│   └── Commercial Few-Shot Learning Products
+├── Zero-shot Learning
+│   ├── Direct Regression Based
+│   ├── Auxiliary Data Based
+│   ├── Generative Models Based
+│   └── Commercial Zero-Shot Learning Products
+└── Applications and Future Directions
+    ├── Applications in Language and Vision
+    ├── Applications in Vision only
+    └── Future Directions
+        ├── Unified Theory
+        ├── Real-time Unifications
+        ├── Learning in Non-IID Scenarios
+        ├── Bridging Unseen Gap
+        └── Privacy Considerations

@@ -1,0 +1,35 @@
+Vertical Federated Learning (VFL)
+├── Structure of VFL
+│   ├── Data Partition
+│   └── Model Structure
+├── Basic VFL Algorithms
+│   ├── Secure Multiparty Computation
+│   │   ├── Secure Scalar product (SSP) Computation
+│   │   └── Homomorphic Encryption (HE)
+│   ├── Integration Techniques
+│   │   ├── Two-party Non-Interactive SSP (NISSP)
+│   │   └── Multi-party NISSP
+│   └── VFL Framework
+├── Advanced VFL Algorithms
+│   ├── Privacy Preserving Methods
+│   │   ├── Differential Privacy
+│   │   ├── Secure Multiparty Computation with Differential Privacy
+│   │   └── Adding Noise into the Process of NISSP
+│   ├── Data Balance Methods
+│   │   ├── Sample-based approach
+│   │   └── Feature-based approach
+│   └── Federated Transfer Learning
+├── Evaluations and Experiments
+│   ├── VFL Algorithms
+│   │   ├── Comparison of Basic VFL Algorithms
+│   │   ├── Comparison of Advanced VFL Algorithms
+│   │   └── Comparison of Privacy Preserving Methods
+│   └── Application Scenarios
+│       ├── Medical
+│       ├── Financial Services
+│       └── Transportation
+├── Open Challenges and Future Directions
+│   ├── Efficiency and Scalability
+│   ├── Privacy and Security
+│   └── Interoperability
+└── Conclusion

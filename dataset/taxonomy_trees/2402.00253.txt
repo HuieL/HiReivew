@@ -1,0 +1,41 @@
+Hallucination in Large Vision-Language Models
+├── Understanding Hallucination
+│   ├── Definition of Hallucination
+│   └── Causes and Effects of Hallucination
+├── Evaluation and Quantification of Hallucination
+│   ├── Manual Evaluations
+│   ├── Semi-automatic Evaluations
+│   │   ├── Word Overlap-based
+│   │   ├── Factuality Score-based
+│   │   └── Crowd Workers-based
+│   └── Automatic Evaluations
+│       ├── NLI-based Approaches
+│       └── Knowledge-grounded Approaches
+├── Hallucination in Different Contexts
+│   ├── Hallucination in Image Captioning
+│   ├── Hallucination in Question Answering
+│   ├── Hallucination in Data-to-Text Generation
+│   ├── Hallucination in Machine Translation
+│   └── Hallucination in Story Generation
+├── Causes of Hallucination
+│   ├── Data-related Causes
+│   │   ├── Data Noises and Biases
+│   │   └── Small Training Data
+│   ├── Model-related Causes
+│   │   ├── Over-reliance on Language Models
+│   │   └── Model Extrapolation
+│   └── Task-related Causes
+│       ├── High Ambiguity Tasks
+│       └── Misalignment between Given Input and Generated Output
+├── Solutions to Mitigate Hallucination
+│   ├── Training Data Curation
+│   ├── Model Design Adaptation
+│   ├── Learning Process Control
+│   ├── External Knowledge Utilization
+│   └── Post-processing and Reranking
+└── Future Research Directions
+    ├── Comprehensive Taxonomy of Hallucination
+    ├── Improved Evaluation Metrics
+    ├── Better Understanding of Hallucination Phenomenon
+    ├── Early Detection and Mitigation of Hallucination
+    └── Balance between Hallucination and Creativity.

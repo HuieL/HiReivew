@@ -1,0 +1,23 @@
+Graph Meets Large Language Model   
+├── Fundamentals  
+│   ├── Introduction to Graphs  
+│   │   └── Graph Theory  
+│   └── Introduction to Large Language Models
+│       ├── Transformer Models
+│       ├── Bidirectional Encoder Representations from Transformers (BERT)
+│       └── Generative Pre-training Transformer 3 (GPT-3)
+├── Graph based approaches in large language models  
+│   ├── Graph Neural Networks (GNNs)  
+│   ├── Graph Convolutional Networks (GCNs)
+│   └── Graph Attention Networks (GANs)
+├── Integration of Graphs with Large Language Models  
+│   ├── Graph Augmented Transformer  
+│   └── Graph Enhanced Attention Model  
+├── Applications  
+│   ├── Natural Language Processing (NLP)  
+│   ├── Computer Vision (CV)
+│   └── Bioinformatics
+└── Future Directions   
+    ├── Improving the Scalability of Graphs in Large Language Models  
+    ├── Exploring New Graph Structures  
+    └── Better Integration Methods of Graph with Language Models

@@ -1,0 +1,24 @@
+Inference Attacks
+├── Model-level Inference Attacks
+│   ├── Model Extraction Attacks
+│   │   ├── Black-box Model Extraction Attacks
+│   │   └── White-box Model Extraction Attacks
+│   └── Model Inversion Attacks
+│       ├── Black-box Model Inversion Attacks
+│       └── White-box Model Inversion Attacks
+├── Data-level Inference Attacks 
+│   ├── Membership Inference Attacks
+│   │   ├── Black-box Membership Inference Attacks
+│   │   └── White-box Membership Inference Attacks
+│   └── Attribute Inference Attacks
+│       ├── Black-box Attribute Inference Attacks
+│       └── White-box Attribute Inference Attacks
+├── Techniques for Inference Attacks
+│   ├── Adversarial Techniques
+│   ├── Machine Learning Techniques
+│   └── Statistical Techniques
+└── Attack Mitigation Techniques
+    ├── Differential Privacy
+    ├── Federated Learning
+    ├── Homomorphic Encryption
+    └── Secure Multi-party Computation

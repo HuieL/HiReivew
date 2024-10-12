@@ -1,0 +1,32 @@
+Text Watermarking in Large Language Models
+├── Classification of Watermarking
+│   ├── Invisible Watermarking
+│   │   ├── Intra-word Alteration
+│   │   └── Inter-word Alteration
+│   └── Visible Watermarking
+├── Benefits and Applications
+│   ├── Content Authentication
+│   ├── Copyright Protection
+│   ├── Content Attribution
+│   │   ├── Source Tracking
+│   │   └── Leak Detection
+│   └── Information Hiding
+├── Watermarking Techniques
+│   ├── Text Transformation Techniques
+│   │   ├── Synonym Replacement
+│   │   └── Word Reordering
+│   ├── Deep Learning-based Techniques
+│   │   ├── GAN-based Methods
+│   │   └── Neural Network-based Methods
+│   └── Other Techniques
+│       ├── Hash-based Methods
+│       └── Metadata-based Methods
+├── Challenges and Opportunities
+│   ├── Robustness
+│   ├── Imperceptibility
+│   ├── Capacity
+│   └── Security
+└── Future Directions
+    ├── Watermarking for Multilingual Texts
+    ├── Use of AI Techniques
+    └── Universal Watermarking Schemes.

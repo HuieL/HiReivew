@@ -1,0 +1,22 @@
+RAG and RAU: A Survey on Retrieval-Augmented Language Model in Natural Language Processing
+├── History and Evolution of RAG and RAU
+│   ├── Initial Studies and Developments
+│   ├── Major Advancements
+│   └── Current Trends
+├── Methods and Techniques
+│   ├── Core Algorithms 
+│   ├── Enhancement Techniques
+│   └── Comparative Analysis
+├── Applications of RAG and RAU
+│   ├── Commercial Applications
+│   ├── Research Applications
+│   └── Emerging Applications
+├── Challenges and Limitations
+│   ├── Technical Challenges
+│   ├── Ethical and Social Issues
+│   └── Potential Solutions
+├── Future Directions
+│   ├── Predicted Advances
+│   ├── Major Areas of Research
+│   └── Implications for Other Fields
+└── Conclusion

@@ -1,0 +1,48 @@
+Multilingual Large Language Models (MLLMs)
+ ├── MLLMs Corpora
+ │  ├── Monolingual Corpora
+ │  │  ├── BooksCorpus
+ │  │  └── Common Crawl
+ │  └── Multilingual Corpora
+ │      ├── Wikipedia
+ │      ├── Common Crawl
+ │      └── Mixture of above two
+ ├── MLLMs Parameters
+ │  ├── Model Size
+ │  │  ├── Small Models (GPT-2, BERT)
+ │  │  └── Large Models (GPT-3, T5, mT5)
+ │  └── Model Capacity 
+ │      ├── Parameters
+ │      └── Layers
+ ├── Training Process 
+ │  ├── Corpus Preprocessing
+ │  │  ├── Sentencepiece
+ │  │  ├── Subword Tokenization
+ │  │  └── Byte-Pair-Encoder
+ │  ├── Architecture
+ │  ├── Transfer Learning
+ │  └── Fine-tuning
+ ├── MLLMs Applications
+ │  ├── Language Identification
+ │  ├── Sentiment Analysis
+ │  ├── Machine Translation
+ │  ├── Named Entity Recognition
+ │  └── Question Answering
+ ├── MLLMs Evaluation and Comparison
+ │  ├── Intrinsic Evaluation
+ │  ├── Extrinisic Evaluation
+ │  └── Inter-annotator Agreement(IAS)
+ ├── Cross-Lingual Alignment 
+ │  ├── Supervised Alignment
+ │  ├── Unsupervised Alignment
+ │  └── Semi-supervised Alignment
+ ├── MLLMs Bias
+ │  ├── Gender Bias
+ │  ├── Racial Bias
+ │  ├── Age Bias
+ │  └── Geographical Bias
+ └── Future Directions
+     ├── Mitigating Bias
+     ├── Fairness in MLLMs
+     ├── MLLMs in Low-Resource Scenarios
+     └── MLLMs in High-Risk Applications

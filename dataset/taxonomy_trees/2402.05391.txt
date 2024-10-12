@@ -1,0 +1,23 @@
+Knowledge Graphs Meet Multi-Modal Learning
+├── Background
+│   ├── Knowledge Graph
+│   ├── Multi-Modal Learning
+│   └── Knowledge Graph for Multi-Modal Learning
+├── Multi-Modal Knowledge Graph Construction
+│   ├── Multimedia Knowledge Extraction
+│   ├── Multi-Modal Knowledge Fusion
+│   └── Multi-Modal Knowledge Graph Representation
+├── Applications of Multi-Modal Knowledge Graphs
+│   ├── Multi-Modal Knowledge Graph for Recommendation
+│   ├── Multi-Modal Knowledge Graph for Search and QA
+│   └── Other Applications
+├── Evaluation Metrics and Datasets
+│   ├── Evaluation Metrics
+│   └── Datasets
+├── Research Directions and Challenges
+│   ├── Improved Models for Multi-Modal KG Construction
+│   ├── Enhancement of MMKG in Applications
+│   ├── Explainability and Trustworthiness of MMKG
+│   ├── Scalability of MMKG
+│   └── Other Challenges and Opportunities
+└── Conclusion

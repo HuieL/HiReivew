@@ -1,0 +1,39 @@
+Continual Learning of Large Language Models: A Comprehensive Survey
+├── Continual Learning Strategies
+│   ├── Rehearsal-based Continual Learning
+│   │   ├── Experience Replay
+│   │   ├── Generative Replay
+│   │   └── Gradient-based Replay
+│   ├── Regularization-based Continual Learning
+│   │   ├── Elastic Weight Consolidation
+│   │   ├── Synaptic Intelligence
+│   │   └── Variational Continual Learning
+│   └── Parameter Isolation-based Continual Learning 
+│       ├── Hard Parameter Isolation
+│       └── Soft Parameter Isolation
+├── Evaluating Continual Learning
+│   ├── Performance Metrics
+│   │   ├── Average Accuracy
+│   │   ├── Final Task Accuracy
+│   │   ├── Backward Transfer
+│   │   ├── Forward Transfer
+│   │   └── Compute Complexity
+│   └── Benchmarks and Datasets
+│       ├── Continual Language Learning Benchmarks
+│       ├── Continual Language Understanding Benchmarks
+│       └── Few-shot Learning Benchmarks
+├── Continual Learning and Language Models From Industrial Labs
+│   ├── Large Language Models (LLMs) 
+│   └── Continual LLMs
+├── Challenges and Future Directions
+│   ├── Challenges
+│   │   ├── Model Capacity
+│   │   ├── Evaluation Standards
+│   │   ├── Adaptation to Real-world Environment
+│   │   └── Ethical Challenges
+│   └── Future Directions
+│       ├── Continual LLMs 
+│       ├── Continual Learning with Other Advanced Techniques
+│       ├── Continual LLM in Real-world Applications
+│       └── Ethical and Legal Considerations 
+└── Conclusion

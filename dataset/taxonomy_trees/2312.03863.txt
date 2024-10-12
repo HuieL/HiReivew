@@ -1,0 +1,35 @@
+Efficient Large Language Models
+├── Sparsity
+│   ├── Sparse Transformer
+│   │   └── Inference-time Sparsification 
+│   └── Dynamic Sparsity
+├── Quantization
+│   ├── Weight Quantization
+│   │   └── Fixed-point Quantization
+│   │   └── Block Floating Point
+│   └── Activation Quantization
+├── Training Efficiency
+│   ├── Knowledge Distillation
+│   │   └── DistilBERT
+│   │   └── TinyBERT
+│   │   └── MobileBERT
+│   └── Efficient Attention Mechanisms 
+│       └── LongFormer
+│       └── Routing Transformer
+│       └── LinFormer
+├── Inference Efficiency
+│   ├── Weight Pruning
+│   ├── Adaptive Inference Time
+│   │   └── FastBERT
+│   │   └── EA-BERT
+│   └── Inference with small models
+│       └── Distilled Models
+│       └── Compressed Models
+├── Hybrid Approaches
+│   ├── Pruning and Distillation
+│   ├── Quantization and Pruning
+│   └── Integration of all methods
+└── Application Specific Efficiency
+    ├── Efficiency in Generation Models
+    ├── Efficiency in Machine Translation Models
+    └── Efficient NLP Models on Edge Devices

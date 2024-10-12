@@ -1,0 +1,38 @@
+Diffusion Models for Reinforcement Learning
+├── Preliminaries
+│   ├── Reinforcement Learning (RL)
+│   │   ├── Policy Optimization
+│   │   ├── Value Iteration
+│   │   └── Q-learning
+│   ├── Diffusion Models
+│   │   ├── Forward Diffusion
+│   │   └── Backward Diffusion
+│   └── Applications of Diffusion Models
+├── Diffusion Models in RL
+│   ├── Function Approximation
+│   ├── Policy Optimization
+│   ├── Value Iteration
+│   │   ├── Continuous-time Value Iteration
+│   │   └── Backward Stochastic Differential Equations
+│   └── Q-Learning with Diffusion Models
+├── Challenges of Using Diffusion Models in RL
+│   ├── High Dimensionality
+│   ├── Stochasticity
+│   ├── Complexity
+│   └── Scalability
+├── Advancements and Possible Solutions
+│   ├── Parameterized Diffusion Models
+│   ├── Use of Efficient Algorithms
+│   ├── Use of Deep Learning Techniques
+│   └── Use of Transfer Learning
+├── Experimental Results
+│   ├── Benchmarks Used
+│   │   ├── OpenAI Gym
+│   │   ├── Atari Games
+│   │   └── MuJoCo
+│   └── Result Analysis
+└── Future Directions
+    ├── Develop More Efficient Algorithms
+    ├── Explore More Applications
+    ├── Studying the Theoretical Foundations
+    └── Improving the Scalability.

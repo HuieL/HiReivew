@@ -1,0 +1,46 @@
+Large Language Models for Generative Information Extraction: A Survey
+├── Conditional Generative Models for Greenfield Data
+│   ├── Seq2seq Models
+│   │   ├── Sequence-to-sequence with attention
+│   │   └── Copy mechanism
+│   ├── Pointer-generator Networks
+│   ├── Multi-source Seq2seq Learning
+│   ├── Variational Seq2seq Models
+│   ├── Dual Supervision
+│   └── Hierarchical Seq2seq Models
+├── Conditional Generative Models for Brownfield Data
+│   ├── Pretraining
+│   │   ├── Language Model pretraining
+│   │   └── Denoising Autoencoder pretraining
+│   ├── Fine-tuning
+│   │   ├── Prompt-based fine-tuning
+│   │   └── Few-shot learning
+│   └── Transformers
+│       ├── Self-attention
+│       ├── Multi-head attention
+│       └── Model architectures (BERT, GPT)
+├── Multimodal Conditional Generative Models
+│   ├── Text-to-Speech synthesis
+│   ├── Image Captioning
+│   ├── Video Captioning
+│   └── Visual Storytelling
+├── Unconditional Generative Models	
+│   ├── Variational Autoencoders
+│   └── Generative Adversarial Networks
+├── Evaluation Metrics
+│   ├── Automatic metrics
+│   ├── Human evaluation
+│   └── Extrapolation and generalization
+├── Applications
+│   ├── Natural Language Understanding
+│   ├── Dialogue Systems
+│   ├── Machine Translation
+│   ├── Question Answering
+│   └── Summarization
+├── Current Challenges and Future Directions
+│   ├── Data efficiency
+│   ├── Model efficiency
+│   ├── Evaluation
+│   ├── Multimodality
+│   └── Robustness and reliability
+└── Conclusions

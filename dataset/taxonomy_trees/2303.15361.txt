@@ -1,0 +1,35 @@
+A Comprehensive Survey on Test-Time Adaptation under Distribution Shifts
+├── Test-Time Adaptation Methodology 
+│   ├── Test-Time Only Vs. With Prior Knowledge
+│   │    ├── Without Prior Knowledge of Shift
+│   │    └── With Prior Knowledge of Shift
+│   ├── Generalizability to Multiple Shifts 
+│   ├── Dependence on Shift Magnitude
+│   ├── Use of Unlabeled Vs. Labeled Data
+│   │    ├── With Labeled Data
+│   │    └── Unlabeled Data
+│   ├── Adaptation of Model Parameters Vs. Data
+│   │    ├── Model-Based Methods 
+│   │    └── Data-Based Methods
+│   └── Level of Supervision
+│        ├── Supervised Adaptation 
+│        ├── Semi-Supervised Adaptation 
+│        └── Unsupervised Adaptation 
+├── Benchmark Datasets
+│   ├── Covariate Shift Datasets
+│   └── Concept Shift Datasets
+├── Evaluation Metrics
+│   ├── Hypothesis Testing
+│   └── Bias/Variance Characterization
+├── Real World Applications
+│   ├── Medical Imaging
+│   ├── Natural Language Processing
+│   └── Autonomous Driving
+├── Limitations & Open Questions
+│   ├── Choice of Metrics
+│   ├── Dependence on Domain Knowledge
+│   ├── Method Evaluation
+│   └── Model Dependence
+└── Conclusion
+    ├── Future Research Directions
+    └── Final Remarks

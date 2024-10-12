@@ -1,0 +1,37 @@
+Explainable AI (XAI) in Image Segmentation
+├── XAI in Medicine
+│   ├── Medical Imaging Techniques
+│   │   ├── MRI
+│   │   ├── CT Scan
+│   │   ├── X-ray
+│   ├── Key XAI Techniques 
+│   │   ├── LIME
+│   │   ├── SHAP
+│   ├── Applications 
+│   │   ├── Cancer Detection
+│   │   ├── Anomaly Detection
+│   └── Challenges & Future Directions 
+├── XAI in Industry
+│   ├── Industrial Imaging Techniques
+│   │   ├── Machine Vision System
+│   │   ├── Computer Vision
+│   ├── Key XAI Techniques 
+│   │   ├── LIME 
+│   │   ├── SHAP
+│   ├── Applications 
+│   │   ├── Fault Detection 
+│   │   ├── Quality Control
+│   └── Challenges & Future Directions 
+└── XAI Beyond Medicine & Industry
+    ├── Other Sectors 
+    │   ├── Agriculture
+    │   ├── Autonomous Vehicles
+    │   ├── Retail 
+    ├── Key XAI Techniques 
+    │   ├── LIME 
+    │   ├── SHAP
+    ├── Applications 
+    │   ├── Crop Disease Detection
+    │   ├── Autonomous Navigation 
+    │   ├── Customer Behavior Analysis
+    └── Challenges & Future Directions 

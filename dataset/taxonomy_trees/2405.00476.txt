@@ -1,0 +1,36 @@
+Dynamic Graph Neural Networks (DGNNs)
+├── Basics of Dynamic Graphs and DGNNs
+│   ├── What is Dynamic Graph
+│   └── What is DGNN
+├── Models of DGNNs
+│   ├── Recurrent-Based Models
+│   │   ├── GCRN
+│   │   └── STGCN
+│   ├── Convolution-Based Models
+│   │   ├── DCRNN
+│   │   └── LSTGCN
+│   └── Transform-Based Models
+│        ├── TGCN
+│        └── EvoGCN
+├── Frameworks of DGNNs
+│   ├── PyTorch-based Frameworks
+│   │   ├── PyG
+│   │   └── DGL
+│   └── TensorFlow-based Frameworks
+│       ├── Spektral
+│       └── StellarGraph
+├── Benchmarks for DGNNs
+│   ├── Datasets
+│   │   ├── Periodic Citation
+│   │   ├── Reddit Threads
+│   │   └── ACM
+│   └── Evaluation Metrics
+│       ├── Accuracy
+│       └── ROC AUC
+├── Experiments
+│   ├── With Different Models
+│   └── With Different Frameworks
+└── Challenges and Open issues
+    ├── Graph Dynamics Order
+    ├── Size of Graph
+    └── Graph Variety

@@ -1,0 +1,47 @@
+Poisoning Attacks against Recommender Systems: A Survey
+├── Recommender Systems
+│   ├── Collaborative Filtering
+│   │   ├── Memory-based methods
+│   │   └── Model-based methods
+│   ├── Content-based Filtering
+│   └── Hybrid methods
+├── Trustworthiness of Recommender Systems
+│   ├── Shilling Attacks
+│   │   ├── Attack models
+│   │   └── Shilling detection methods
+│   └── Adversarial Machine Learning
+│       ├── Classification Problem in Adversarial Context
+│       └── Recommender System in Adversarial Context
+├── Taxonomy of Poisoning Attacks against Recommender Systems
+│   ├── Memory-based CF Poisoning Attacks
+│   │   ├── Random attacks
+│   │   ├── Average attacks
+│   │   ├── Bandwagon attacks
+│   │   └── Segment attacks
+│   ├── Model-based CF Poisoning Attacks
+│   │   ├── Matrix Factorization-based attacks
+│   │   └── Graph-based Recommender Systems attacks
+│   └── Content-based Recommender Systems Poisoning Attacks
+│       ├── Profile Injection attacks
+│       └── Fake Review attacks
+├── Defenses against Poisoning Attacks in Recommender Systems
+│   ├── Detection-based Defense Methods
+│   │   ├── Unsupervised Outlier Detection
+│   │   ├── Supervised Classification
+│   │   ├── Time-Aware Supervised Ensembles
+│   │   └── Sub-Space Drift Detection
+│   ├── Blocking-based Defense Methods
+│   │   ├── Graph-based Detection 
+│   │   ├── Top-N Analysis
+│   │   └── Sparse Representation
+│   ├── Robust Model-based Defense Methods
+│   │   ├── Robust Collaborative Filtering
+│   │   ├── Robust Neighbor-based Models
+│   │   └── Robust Deep Learning Models
+│   └── Content-based Defense Methods
+│       ├── Content Parsing
+│       └── Content Filtering
+└── Conclusions and Future Work
+    ├── Summary of the Survey
+    ├── Gaps and Open Problems
+    └── Recommendations for Future Research

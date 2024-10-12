@@ -1,0 +1,32 @@
+Toward Green and Human-Like Artificial Intelligence: A Complete Survey on Contemporary Few-Shot Learning Approaches
+├── Formulation and Parsing of Few-Shot Learning
+│   ├── Depth Learning
+│   ├── Bayesian Inference
+│   ├── Transfer Learning
+│   ├── Meta-Learning
+│   │   ├── Metric-based methods
+│   │   ├── Optimization-based methods
+│   │   ├── Model-Agnostic Meta-Learning
+│   │   └── Memory-based methods
+│   └── Data Augmentation and Generation
+├── Evaluation Methodology
+│   ├── Cross Validation
+│   ├── Incremental Few-shot Learning
+│   ├── Task-Incremental Few-shot Learning
+│   ├── Cumulative Few-shot Learning
+│   └── Learning to Self-Train
+├── Recent Trends in Few-Shot Learning
+│   ├── Larger Datasets and Models
+│   ├── Benchmarks and Challenges
+│   ├── Green Learning
+│   └── Simultaneous Few-shot and Unsupervised Learning
+├── Challenges and Future Directions
+│   ├── Model Complexity
+│   ├── Evaluation Protocols
+│   ├── Robustness and Fairness
+│   ├── Task Incremental learning
+│   ├── Learning to Learn
+│   └── Zero-Shot Learning
+└── Conclusions and Discussion
+    ├── Key Contributions of the Survey
+    └── Sustainability and Impact on Future Research

@@ -1,0 +1,30 @@
+Graph Domain Adaptation (GDA)
+├── Concepts of Domain Adaptation
+│   ├── Traditional Domain Adaptation
+│   ├── Domain Adaptation in Graph
+│   └── Problem Formulation
+├── Categories of Graph Domain Adaptation Methods
+│   ├── Homogeneous Graph Domain Adaptation
+│   │   ├── Graph Matching and Alignment
+│   │   ├── Graph Convolutional Networks
+│   │   │    ├── Graph Attention Networks
+│   │   │    └── Graph Convolution Kernels
+│   │   ├── Graph Neural Networks
+│   │   ├── Hybrid of Graph Neural Networks and Graph Matching, Alignment
+│   │   └── Other Methods
+│   └── Heterogeneous Graph Domain Adaptation
+│       ├── Graph Matching and Alignment
+│       ├── Graph Convolutional Networks
+│       │    ├── Graph Attention Networks
+│       │    └── Graph Convolution Kernels
+│       ├── Graph Neural Networks
+│       ├── Hybrid of Graph Neural Networks and Graph Matching, Alignment
+│       └── Other Methods
+├── Comparisons and Discussions of GDA
+│   ├── Comparison of Homogeneous and Heterogeneous GDA
+│   └── Discussion on Challenges and Future Directions
+└── Real-world Applications
+    ├── Social Networks
+    ├── Biological Networks
+    ├── Traffic Networks
+    └── Other Networks

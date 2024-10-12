@@ -1,0 +1,31 @@
+Brain-Conditional Multimodal Synthesis
+├── Methodological Background
+│   ├── Neuroscience
+│   └── Artificial Intelligence
+├── Brain Imaging Modalities
+│   ├── Functional Magnetic Resonance Imaging
+│   ├── Electroencephalography
+│   ├── Magnetoencephalography
+│   └── Intracranial Electroencephalography
+├── Artificial Intelligence Modalities
+│   ├── Speech Synthesis
+│   ├── Image Synthesis
+│   ├── Video Synthesis
+│   ├── Music Synthesis
+│   └── Multimodal Synthesis
+├── Methodologies
+│   ├── End-to-End Deep Learning
+│   ├── Transformative Deep Learning
+│   └── Generative Deep Learning
+├── Evaluation Metrics
+│   ├── Qualitative Evaluation
+│   └── Quantitative Evaluation
+├── Datasets for Training and Evaluation
+│   ├── Publicly Available Datasets
+│   └── Proprietary Datasets
+└── Challenges and Future Directions
+    ├── Data Privacy and Security
+    ├── Multimodal Synthesis
+    ├── Brain Decoding
+    ├── Hardware and Computation
+    └── Clinical Applications

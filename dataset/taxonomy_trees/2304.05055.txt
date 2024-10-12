@@ -1,0 +1,44 @@
+Deep Graph Representation Learning
+├── Preliminary
+│   ├── Graph Representation
+│   ├── Types of Graphs
+│   │   ├── Homogeneous Graph
+│   │   └── Heterogeneous Graph
+│   └── Machine learning on graphs
+│       ├── Graph Kernel Methods
+│       ├── Graphical Models
+│       └── Graph Neural Networks 
+├── Representation Learning on Graphs
+│   ├── Node Representation Learning
+│   │   ├── DeepWalk
+│   │   ├── Node2Vec
+│   │   └── GraphSAGE
+│   ├── Edge Representation Learning
+│   │   ├── TransE
+│   │   └── DistMult
+│   ├── Graph Representation Learning
+│   │   ├── gPool
+│   │   ├── Graph U-Net
+│   │   └── DIFFPool
+├── Graph Neural Networks
+│   ├── Graph Convolution Networks
+│   ├── Graph Attention Networks 
+│   └── Graph Spatial-temporal Networks
+├── Knowledge Graph Embedding 
+│   ├── Translational Distance Models
+│   ├── Semantic Matching Models
+│   ├── Neural Models
+│   └── Pre-training Models
+├── Dynamic Graph Representation Learning
+│   ├── Node-centric Approaches
+│   ├── Graph-centric Approaches
+│   └── Temporal Random Walks
+├── Large-scale Graph Representation Learning
+│   ├── Stochastic Training Strategies
+│   ├── Graph Simplification Methods
+│   └── Training Acceleration Techniques
+└── Graph Representation Learning in Applications
+    ├── Recommender Systems
+    ├── Social Network Analysis
+    ├── Bioinformatics
+    └── Traffic Forecasting

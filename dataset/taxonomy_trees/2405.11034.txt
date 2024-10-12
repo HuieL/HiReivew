@@ -1,0 +1,43 @@
+Threats in Graph Machine Learning (GML)
+├── Attack Tactics
+│   ├── Node-Edge Attacks
+│   │   ├── Node Characteristic Manipulation
+│   │   └── Edge Characteristic Manipulation
+│   └── Graph Structure Attacks
+│       ├── Node Modification
+│       ├── Edge Modification
+│       ├── Subgraph Modification
+│       └── Graph Modification
+├── Attack Impacts
+│   ├── Graph Node Classification
+│   ├── Graph Representation Learning
+│   └── Link Prediction
+└── Motivations of Attacks
+    ├── Evasion
+    ├── Poisoning
+    ├── Inference
+    └── Replication
+Safeguards in Graph Machine Learning (GML)
+├── Defense Tactics
+│   ├── Data Purification
+│   ├── Model Based Mitigation
+│   │   ├── Robust Model Design
+│   │   ├── Adversarial Training
+│   │   ├── Regularization
+│   │   └── Outlier Detection
+│   └── Safety Evaluation
+│       ├── Certification
+│       └── Model Robustness Evaluation
+└── Challenges and Future Perspectives
+    ├── Scalability Issue
+    ├── Stability-Confinement Dilemma
+    └── Indistinguishable & Novel Threats
+Open Issues and Future Perspectives for Safety in GML
+├── Currently Unsolved Threats
+│   ├── Multi-Task Attacks
+│   └── Auxiliary Information Attacks
+└── Future Defense Tactics
+    ├── Unified Framework
+    ├── Meta-Learning
+    ├── Transfer Learning
+    └── Adversarial Robustness

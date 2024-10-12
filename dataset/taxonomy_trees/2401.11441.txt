@@ -1,0 +1,42 @@
+On-Device Recommender Systems: A Comprehensive Survey
+├── Resource-aware Recommendation Models
+│   ├── Dimensionality Reductionbased Models
+│   │   ├── Singular Value Decomposition
+│   │   ├── Non-negative Matrix Factorization
+│   │   └── AutoEncoder
+│   ├── Matrix Factorizationbased Models
+│   │   ├── BPR-MF
+│   │   └── NeuMF
+│   ├── Graph Neural Networkbased Models
+│   │   ├── LightGCN
+│   │   └── PinSage
+│   ├── Multi-task Learningbased Models
+│   │   ├── MTNet
+│   │   └── Perceive, Compress and Send
+│   └── Knowledge Distillationbased Models
+│       ├── Distilled Bi-LSTM
+│       └── Albert
+├── Model Personalization
+│   ├── Personalized Ranking
+│   ├── Personalized Content selection
+│   └──Personalized User Interface
+├── Privacy-Preserving Recommendation Algorithms
+│   ├── Local Differential Privacy
+│   ├── Homomorphic Encryption
+│   └── Secure Multi-party Computation
+├── Federated RecoSystems
+│   ├── Federated Collaborative Filtering
+│   └── Federated Hybrid Models
+├── Data-efficient Recommendations
+│   ├── Active Learning
+│   ├── Semi-supervised Learning
+│   └── Multi-task Learning
+├── Case Studies
+│   ├── Google
+│   ├── Facebook
+│   └── Snapchat
+└── Future Directions and Open Challenges
+    ├── Cross-Device Federated Learning
+    ├── Explainability and User Modeling
+    ├── Energy Efficiency
+    └── Benchmark and Dataset

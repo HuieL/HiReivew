@@ -1,0 +1,41 @@
+Data Scarcity in Recommendation Systems: A Survey
+├── Data Scarcity Issue
+│   ├── Types of Data Scarcity
+│   │   ├── Cold-start problem
+│   │   ├── Gray Sheep problem
+│   │   └── Sparsity problem
+│   ├── Impact of Data Scarcity
+│   └── Methods to Overcome Data Scarcity
+├── Techniques for Addressing Data Scarcity
+│   ├── Collaborative Filtering Techniques
+│   │   ├── Matrix Factorization 
+│   │   ├── Neighbor-based Techniques
+│   │   └── Latent Factor Models
+│   ├── Content-based Techniques
+│   ├── Hybrid Techniques
+│   ├── Deep Learning Techniques
+│   │   ├── Deep Neural Networks (DNNs)
+│   │   ├── Convolutional Neural Networks (CNNs)
+│   │   ├── Recurrent Neural Networks (RNNs)
+│   │   └── Autoencoders (AEs)
+│   ├── Transfer Learning Techniques
+│   │   ├── Pre-training and Fine-tuning
+│   │   ├── Multi-task Learning
+│   │   ├── Domain Adaptation
+│   │   └── Zero-shot Learning
+│   └── Active Learning Techniques
+├── Evaluation Metrics for Recommendation Systems
+│   ├── Accuracy Metrics
+│   ├── Rank Metrics
+│   ├── Evaluation Metrics of Diversity
+│   └── Serendipity Metrics
+├── Datasets for Recommendation Systems
+│   ├── MovieLens Datasets
+│   ├── Netflix Prize Dataset
+│   ├── Book-Crossing Dataset
+│   └── Jester Joke Dataset
+└── Data Scarcity in Different Scenarios
+    ├── E-commerce Recommendations
+    ├── Social Media Recommendations
+    ├── Music Recommendations
+    └── Tourism Recommendations

@@ -1,0 +1,38 @@
+Learning on Multimodal Graphs: A Survey
+├── Theories and Models
+│   ├── Traditional Learning Methods
+│   │   ├── Dependency Modeling
+│   │   ├── Canonical Correlation Analysis
+│   │   └── Joint Probability Modeling
+│   ├── Graph-based Models
+│   │   ├── Graph Neural Networks
+│   │   ├── Graph Convolutional Network
+│   │   └── Graph Attention Network
+│   ├── Deep Learning Models
+│   │   ├── Multilayer Perception
+│   │   ├── Recurrent Neural Networks
+│   │   ├── Convolutional Neural Networks
+│   │   └── Transformer Networks
+│   └── Fusion Models
+│       ├── Early Fusion
+│       ├── Late Fusion
+│       └── Hybrid Fusion
+├── Learning Strategies
+│   ├── Supervised Learning
+│   ├── Semi-supervised Learning
+│   ├── Unsupervised Learning
+│   └── Reinforcement Learning
+├── Applications
+│   ├── Recommender Systems
+│   ├── Social Networks
+│   ├── Bioinformatics
+│   ├── Traffic and Mobility
+│   └── Environmental Sensing
+├── Challenges and Future Directions
+│   ├── Scalability, Efficiency, and Complexity
+│   ├── Interpretable and Explainable Models
+│   ├── Incorporating Domain Knowledge
+│   ├── Learning with Limited Labels
+│   └── Robustness to Noise and Changes
+└── Conclusion
+    └── Recap of Survey

@@ -1,0 +1,35 @@
+Large Language Models for Robotics
+├── Language Models
+│   ├── Old Generation LMs
+│   │   ├── Statistical Language Models  
+│   │   ├── Sequence to Sequence Models
+│   │   └── Contextual LMs
+│   └── Transformers
+│       ├── Architecture
+│       └── Training Methods  
+├── Language Understanding  
+│   ├── Comprehension
+│   ├── Conversation
+│   ├── Task Execution
+│   └── Relation to embodiment
+├── Language Grounding  
+│   ├── Visual Grounding
+│   ├── Physical Grounding
+│   └── Cognitive Grounding
+├── Language Generation  
+│   ├── Text Generation
+│   ├── Story Generation
+│   ├── Dialogue Generation
+│   └── Instruction Generation
+├── Applications of LMs in Robotics
+│   ├── Instruction Following
+│   ├── Embodied Question Answering
+│   ├── Interactive Navigation
+│   ├── Robotic Manipulation
+│   └── Behavior Cloning
+├── Potential Research Directions  
+│   ├── Contextual Grounding
+│   ├── Enabling Meta-Learning
+│   ├── Real-time Interaction
+│   └── Leveraging Demonstration Data
+└── Conclusion

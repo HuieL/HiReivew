@@ -1,0 +1,51 @@
+Graph Neural Networks (GNN) for Tabular Data Learning
+├── Graph Building Methodology
+│   ├── Relational Data Extraction
+│   │   ├── Schema Graph
+│   │   └── Entity Relationship Graph
+│   ├── Non-relational Data Extraction
+│   │   ├── k-NN Graph
+│   │   ├── Mutual Information Graph
+│   │   ├── Correlation Graph
+│   │   └── Ensemble Graph
+│   └── Data Pre-processing
+│       ├── AutoML
+│       ├── Feature Selection
+│       └── Modeling
+├── Graph Learning Methodology
+│   ├── Graph Structures
+│   ⓘ   ├── InfoGraph
+│   │   ├── subGNN
+│   │   ├── CompGCN
+│   │   └── DGI
+│   ├── GCN Variants
+│   │   ├── SGC
+│   │   ├── ChebNet
+│   │   ├── GraphSage
+│   │   ├── GAT
+│   │   └── Graph Convolution
+│   └── GNN Based Models
+│       ├── GNN Explainer
+│       ├── AGNN
+│       ├── GaAN
+│       └── GIN
+├── Practical Deployment Issues in Tabular Learning
+│   ├── Data Balance
+│   ├── Data Leakage
+│   └── Generative Models
+├── Assessment
+│   ├── Evaluation Task
+│   │   ├── Classification
+│   │   ├── Regression
+│   │   └── Anomaly Detection
+│   └── Performance Metrics
+│       ├── Accuracy
+│       ├── Precision
+│       ├── Recall
+│       └── AUC
+└── Future Directions and Open Problems
+    ├── Inferring Causality
+    ├── Graph Construction from Time-series Data
+    ├── Automatic Graph Construction
+    ├── Graph Neural Architecture Search
+    └── Scalability and Efficiency

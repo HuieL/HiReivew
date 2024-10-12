@@ -1,0 +1,39 @@
+Efficient Federated Learning Methods for Foundation Model Training
+├── Federated Learning Concepts
+│   ├── FL Architecture
+│   │   ├── Centralized FL
+│   │   ├── Decentralized FL
+│   │   └── Hybrid FL
+│   ├── Privacy Measures
+│   │   ├── Differential Privacy
+│   │   └── Secure Multi-Party Computation
+│   └── Optimization Techniques
+│       ├── Federated Stochastic Gradient Descent 
+│       └── Federated Averaging
+├── Efficient Training Methods
+│   ├── Data Partitioning Methods
+│   │   ├── IID Partitioning
+│   │   └── Non-IID Partitioning
+│   ├── Communication Efficiency Techniques
+│   │   ├── Communication Compression
+│   │   │   └── Sparsification 
+│   │   ├── Adaptive Communication
+│   │   ├── Decentralized Training
+│   │   └── Model Compression
+│   └── Computation Efficiency Techniques
+│       ├── Local Updating
+│       ├── Parallel Processing
+│       └── Mini-batch Processing
+├── Foundation Model Training
+│   ├── Pre-training Phase
+│   │   ├── Data Collection
+│   │   ├── Model Initial Training
+│   │   └── Model Optimization
+│   └── Fine-tuning Phase
+│       ├── Data Labeling
+│       ├── Model Tuning
+│       └── Model Deployment 
+└── Performance Measures
+    ├── Accuracy
+    ├── Speed
+    └── Energy Efficiency

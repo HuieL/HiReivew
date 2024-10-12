@@ -1,0 +1,27 @@
+Imitation Learning
+├── Imitation Learning Methods
+│   ├── Behavioural Cloning (BC)
+│   │   ├── Direct Behavioural Cloning (DBC)
+│   │   └── DAgger (BC with Dataset Aggregation)
+│   ├── Inverse Reinforcement Learning (IRL)
+│   │   ├── Maximum Entropy IRL
+│   │   ├── Generative Adversarial IRL
+│   │   └── Deep Maximum Entropy IRL
+│   └── Learning from Demonstrations (LfD)
+│       ├── Parameterized LfD
+│       ├── Task-parameterized LfD
+│       └── Leveraging LfD for Reinforcement Learning
+├── Environments for Imitation Learning
+│   ├── Simulation Environments
+│   │   ├── OpenAI Gym
+│   │   ├── DeepMind Control Suite
+│   │   └── Roboschool
+│   └── Real-World Environments
+│       ├── Robotics applications
+│       ├── Autonomous driving
+│       ├── Medical applications
+│       └── Gaming
+└── Metrics for Imitation Learning
+    ├── Comparing imitation learning algorithms
+    ├── Evaluating imitation against experts
+    └── Evaluating generalization capability

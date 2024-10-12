@@ -1,0 +1,39 @@
+From Words to Molecules: A Survey of Large Language Models in Chemistry
+├── Learning from Text for Chemistry
+│   ├── Introduction
+│   ├── Learning Concepts from Text
+│   ├── Relations Extraction
+│   ├── Predictive Models with Text Features
+│   ├── Summarization and Text Generation
+│   └── Responsible AI
+│       ├── Bias in AI Systems
+│       ├── Predictions and Decision Making
+│       ├── Trust and Transparency
+│       └── AI Ethics
+├── MolNLP: Learning From Molecules For NLP
+│   ├── Introduction
+│   ├── Representations in MolNLP
+│   ├── Downstream Tasks in MolNLP
+│   │   ├── Named Entity Recognition (NER)
+│   │   ├── Aspect Extraction
+│   │   ├── Sentiment Analysis
+│   │   ├── Document Classification
+│   │   └── Relation Extraction
+│   └── Framework for Evaluating MolNLP
+├── Empirical Study
+│   ├── Data
+│   ├── Models
+│   ├── Tasks and Metrics
+│   │   ├── SciERC
+│   │   ├── CHEMPROT
+│   │   ├── SCAI
+│   │   └── PatentIE
+│   ├── Experimental Setup
+│   └── Results and Discussion
+├── Open Challenges and Future Directions
+│   ├── Explainable AI
+│   ├── General AI for Chemistry
+│   ├── Data Issues
+│   ├── Model Limitation
+│   └── Ethical Concerns
+└── Conclusion
